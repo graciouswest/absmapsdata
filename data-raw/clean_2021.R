@@ -102,3 +102,14 @@ usethis::use_data(iare2021, overwrite = TRUE)
 
 iloc2021 <- read_shape("data-raw/new-asgs-data/ILOC_2021_AUST_GDA2020_SHP/")
 usethis::use_data(iloc2021, overwrite = TRUE)
+
+# More additional --------------------------------------------------------------
+
+ra2021 <- read_shape("data-raw/add_shapefiles/RA_2021_AUST_GDA2020.zip")
+usethis::use_data(ra2021, overwrite = TRUE)
+
+sosr2021 <- read_shape("data-raw/add_shapefiles/SOSR_2021_AUST_GDA2020_SHP.zip")
+usethis::use_data(sosr2021, overwrite = TRUE)
+
+sos2021 <- read_shape("data-raw/add_shapefiles/SOS_2021_AUST_GDA2020_SHP.zip")
+usethis::use_data(sos2021, overwrite = TRUE)
