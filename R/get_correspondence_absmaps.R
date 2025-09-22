@@ -1,6 +1,6 @@
 #' Read in ASGC/ASGS 2016 population-weighted correspondence tables from the ABS.
 #'
-#' Source: \url{https://data.gov.au/dataset/ds-dga-23fe168c-09a7-42d2-a2f9-fd08fbd0a4ce/details?q=}
+#' Source: \url{https://data.gov.au/data/dataset/asgs-edition-3-2021-correspondences/resource/33d822ba-138e-47ae-a15f-460279c3acc3}
 #' @name get_correspondence_absmaps
 #' @param fromArea The area you want to correspond FROM (ie the areas your data are currently in). For example: "sa1", "sa2, "sa3", "sa4".
 #' @param fromYear The year you want to correspond FROM. For example: 2011, 2016.

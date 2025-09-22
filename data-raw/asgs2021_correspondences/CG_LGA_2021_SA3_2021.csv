@@ -1,0 +1,976 @@
+LGA_CODE_2021,LGA_NAME_2021,SA3_CODE_2021,SA3_NAME_2021,RATIO_FROM_TO,INDIV_TO_REGION_QLTY_INDICATOR,OVERALL_QUALITY_INDICATOR,BMOS_NULL_FLAG
+10050,Albury,10901,Albury,1,Good,Poor,0
+10180,Armidale Regional,10802,Kempsey - Nambucca,0.002129,Good,Poor,1
+10180,Armidale Regional,11001,Armidale,0.9923109,Good,Poor,0
+10180,Armidale Regional,11002,Inverell - Tenterfield,0.0055601,Good,Poor,1
+10250,Ballina,11201,Richmond Valley - Coastal,0.9979023,Good,Poor,0
+10250,Ballina,11202,Richmond Valley - Hinterland,0.0020977,Good,Poor,1
+10300,Balranald,10902,Lower Murray,1,Good,Poor,0
+10470,Bathurst Regional,10301,Bathurst,0.99977,Good,Poor,0
+10470,Bathurst Regional,10303,Lithgow - Mudgee,0.00023,Good,Poor,1
+10500,Bayside (NSW),11701,Botany,0.3357039,Poor,Poor,0
+10500,Bayside (NSW),11904,Kogarah - Rockdale,0.6642961,Poor,Poor,0
+10550,Bega Valley,10103,Snowy Mountains,2.8e-06,Good,Poor,1
+10550,Bega Valley,10104,South Coast,0.9999972,Good,Poor,0
+10600,Bellingen,10402,Coffs Harbour,0.9999977,Good,Poor,0
+10600,Bellingen,10802,Kempsey - Nambucca,2.3e-06,Good,Poor,1
+10650,Berrigan,10903,Upper Murray exc. Albury,1,Good,Poor,0
+10750,Blacktown,11601,Blacktown,0.3487865,Poor,Poor,0
+10750,Blacktown,11602,Blacktown - North,0.3597858,Poor,Poor,0
+10750,Blacktown,11603,Mount Druitt,0.2914277,Poor,Poor,0
+10800,Bland,10302,Lachlan Valley,0.9949591,Good,Poor,0
+10800,Bland,11301,Griffith - Murrumbidgee (West),0.0050409,Good,Poor,1
+10850,Blayney,10304,Orange,1,Good,Poor,0
+10900,Blue Mountains,10303,Lithgow - Mudgee,1e-07,Good,Poor,1
+10900,Blue Mountains,11503,Hawkesbury,0.0022302,Poor,Poor,1
+10900,Blue Mountains,12401,Blue Mountains,0.9977694,Good,Poor,0
+10900,Blue Mountains,12402,Blue Mountains - South,3e-07,Poor,Poor,1
+10950,Bogan,10501,Bourke - Cobar - Coonamble,1,Good,Poor,0
+11150,Bourke,10501,Bourke - Cobar - Coonamble,1,Good,Poor,0
+11200,Brewarrina,10501,Bourke - Cobar - Coonamble,1,Good,Poor,0
+11250,Broken Hill,10502,Broken Hill and Far West,1,Good,Poor,0
+11300,Burwood,12003,Strathfield - Burwood - Ashfield,1,Poor,Poor,0
+11350,Byron,11201,Richmond Valley - Coastal,0.9950806,Good,Poor,0
+11350,Byron,11202,Richmond Valley - Hinterland,0.0049194,Good,Poor,1
+11400,Cabonne,10302,Lachlan Valley,0.2270949,Good,Poor,0
+11400,Cabonne,10304,Orange,0.7412481,Good,Poor,0
+11400,Cabonne,10503,Dubbo,0.031657,Good,Poor,0
+11450,Camden,12301,Camden,0.5980212,Poor,Poor,0
+11450,Camden,12302,Campbelltown (NSW),0.00057,Good,Poor,1
+11450,Camden,12701,Bringelly - Green Valley,0.4014088,Poor,Poor,0
+11500,Campbelltown (NSW),10704,Wollongong,1e-07,Poor,Poor,1
+11500,Campbelltown (NSW),12301,Camden,1e-07,Poor,Poor,1
+11500,Campbelltown (NSW),12302,Campbelltown (NSW),0.9999999,Good,Poor,0
+11520,Canada Bay,12001,Canada Bay,0.9723818,Good,Poor,0
+11520,Canada Bay,12003,Strathfield - Burwood - Ashfield,0.0276182,Poor,Poor,0
+11570,Canterbury-Bankstown,11901,Bankstown,0.4976408,Poor,Poor,0
+11570,Canterbury-Bankstown,11902,Canterbury,0.3761353,Poor,Poor,0
+11570,Canterbury-Bankstown,11903,Hurstville,0.0244207,Acceptable,Poor,0
+11570,Canterbury-Bankstown,12003,Strathfield - Burwood - Ashfield,0.0435385,Poor,Poor,0
+11570,Canterbury-Bankstown,12501,Auburn,0.0020752,Poor,Poor,1
+11570,Canterbury-Bankstown,12503,Merrylands - Guildford,0.0561895,Poor,Poor,0
+11600,Carrathool,10902,Lower Murray,0.0048355,Good,Poor,1
+11600,Carrathool,11301,Griffith - Murrumbidgee (West),0.9951645,Good,Poor,0
+11650,Central Coast (NSW),10201,Gosford,0.5144362,Poor,Poor,0
+11650,Central Coast (NSW),10202,Wyong,0.4855638,Poor,Poor,0
+11700,Central Darling,10502,Broken Hill and Far West,1,Good,Poor,0
+11720,Cessnock,10601,Lower Hunter,0.9986485,Good,Poor,0
+11720,Cessnock,10602,Maitland,0.0013515,Good,Poor,1
+11730,Clarence Valley,10401,Clarence Valley,0.9917923,Good,Poor,0
+11730,Clarence Valley,10402,Coffs Harbour,0.0082069,Good,Poor,1
+11730,Clarence Valley,11202,Richmond Valley - Hinterland,7e-07,Good,Poor,1
+11750,Cobar,10501,Bourke - Cobar - Coonamble,1,Good,Poor,0
+11800,Coffs Harbour,10401,Clarence Valley,3e-07,Good,Poor,1
+11800,Coffs Harbour,10402,Coffs Harbour,0.9999997,Good,Poor,0
+12000,Coolamon,11303,Wagga Wagga,1,Good,Poor,0
+12150,Coonamble,10501,Bourke - Cobar - Coonamble,0.9999973,Good,Poor,0
+12150,Coonamble,10503,Dubbo,2.7e-06,Good,Poor,1
+12160,Cootamundra-Gundagai Regional,11303,Wagga Wagga,1,Good,Poor,0
+12350,Cowra,10302,Lachlan Valley,0.9981871,Good,Poor,0
+12350,Cowra,10304,Orange,0.0018129,Good,Poor,1
+12380,Cumberland,11601,Blacktown,0.0140089,Poor,Poor,0
+12380,Cumberland,12501,Auburn,0.3105781,Poor,Poor,0
+12380,Cumberland,12503,Merrylands - Guildford,0.5262528,Poor,Poor,0
+12380,Cumberland,12504,Parramatta,0.1491602,Poor,Poor,0
+12390,Dubbo Regional,10303,Lithgow - Mudgee,0.0002556,Good,Poor,1
+12390,Dubbo Regional,10304,Orange,0.0005649,Good,Poor,1
+12390,Dubbo Regional,10503,Dubbo,0.9991795,Good,Poor,0
+12700,Dungog,10601,Lower Hunter,1,Good,Poor,0
+12730,Edward River,10903,Upper Murray exc. Albury,1,Good,Poor,0
+12750,Eurobodalla,10104,South Coast,1,Good,Poor,0
+12850,Fairfield,12503,Merrylands - Guildford,0.0748674,Poor,Poor,0
+12850,Fairfield,12702,Fairfield,0.9251326,Good,Poor,0
+12870,Federation,10903,Upper Murray exc. Albury,0.9845014,Good,Poor,0
+12870,Federation,11301,Griffith - Murrumbidgee (West),0.0154986,Good,Poor,0
+12900,Forbes,10302,Lachlan Valley,1,Good,Poor,0
+12930,Georges River,11902,Canterbury,3e-07,Poor,Poor,1
+12930,Georges River,11903,Hurstville,0.8061839,Acceptable,Poor,0
+12930,Georges River,11904,Kogarah - Rockdale,0.1938159,Poor,Poor,0
+12950,Gilgandra,10503,Dubbo,1,Good,Poor,0
+13010,Glen Innes Severn,11002,Inverell - Tenterfield,1,Good,Poor,0
+13310,Goulburn Mulwaree,10102,Queanbeyan,0.0214236,Good,Poor,0
+13310,Goulburn Mulwaree,10105,Goulburn - Mulwaree,0.9785764,Good,Poor,0
+13340,Greater Hume Shire,10901,Albury,0.9817759,Good,Poor,0
+13340,Greater Hume Shire,10903,Upper Murray exc. Albury,0.015164,Good,Poor,0
+13340,Greater Hume Shire,11302,Tumut - Tumbarumba,0.0030592,Good,Poor,1
+13340,Greater Hume Shire,11303,Wagga Wagga,9e-07,Good,Poor,1
+13450,Griffith,11301,Griffith - Murrumbidgee (West),1,Good,Poor,0
+13550,Gunnedah,11003,Moree - Narrabri,8e-07,Good,Poor,1
+13550,Gunnedah,11004,Tamworth - Gunnedah,0.9999992,Good,Poor,0
+13660,Gwydir,11002,Inverell - Tenterfield,0.9077194,Good,Poor,0
+13660,Gwydir,11003,Moree - Narrabri,0.0908499,Good,Poor,0
+13660,Gwydir,11004,Tamworth - Gunnedah,0.0014307,Good,Poor,1
+13800,Hawkesbury,11502,Dural - Wisemans Ferry,0.0007293,Poor,Poor,1
+13800,Hawkesbury,11503,Hawkesbury,0.3700018,Poor,Poor,0
+13800,Hawkesbury,11504,Rouse Hill - McGraths Hill,0.1632557,Poor,Poor,0
+13800,Hawkesbury,11602,Blacktown - North,1e-07,Poor,Poor,1
+13800,Hawkesbury,12401,Blue Mountains,3e-07,Good,Poor,1
+13800,Hawkesbury,12404,Richmond - Windsor,0.4660128,Poor,Poor,0
+13850,Hay,10902,Lower Murray,1,Good,Poor,0
+13910,Hilltops,10106,Young - Yass,1,Good,Poor,0
+14000,Hornsby,11501,Baulkham Hills,0.1652859,Poor,Poor,0
+14000,Hornsby,11502,Dural - Wisemans Ferry,0.0853677,Poor,Poor,0
+14000,Hornsby,12102,Hornsby,0.5750643,Poor,Poor,0
+14000,Hornsby,12601,Pennant Hills - Epping,0.1742821,Poor,Poor,0
+14100,Hunters Hill,12602,Ryde - Hunters Hill,1,Good,Poor,0
+14170,Inner West,11702,Marrickville - Sydenham - Petersham,0.2992857,Poor,Poor,0
+14170,Inner West,11703,Sydney Inner City,0.0615303,Good,Poor,0
+14170,Inner West,12002,Leichhardt,0.3085739,Poor,Poor,0
+14170,Inner West,12003,Strathfield - Burwood - Ashfield,0.3306101,Poor,Poor,0
+14220,Inverell,11002,Inverell - Tenterfield,1,Good,Poor,0
+14300,Junee,11303,Wagga Wagga,1,Good,Poor,0
+14350,Kempsey,10802,Kempsey - Nambucca,1,Good,Poor,0
+14400,Kiama,10703,Kiama - Shellharbour,0.9959603,Good,Poor,0
+14400,Kiama,11401,Shoalhaven,2.6e-06,Good,Poor,1
+14400,Kiama,11402,Southern Highlands,0.0040371,Good,Poor,1
+14500,Ku-ring-gai,12102,Hornsby,0.0011932,Poor,Poor,1
+14500,Ku-ring-gai,12103,Ku-ring-gai,0.9988068,Good,Poor,0
+14550,Kyogle,11202,Richmond Valley - Hinterland,1,Good,Poor,0
+14600,Lachlan,10302,Lachlan Valley,0.9901824,Good,Poor,0
+14600,Lachlan,10501,Bourke - Cobar - Coonamble,0.0098176,Good,Poor,1
+14650,Lake Macquarie,10202,Wyong,0,Poor,Poor,1
+14650,Lake Macquarie,11101,Lake Macquarie - East,0.5888066,Poor,Poor,0
+14650,Lake Macquarie,11102,Lake Macquarie - West,0.3978038,Poor,Poor,0
+14650,Lake Macquarie,11103,Newcastle,0.0133895,Good,Poor,0
+14700,Lane Cove,12101,Chatswood - Lane Cove,1,Good,Poor,0
+14750,Leeton,11301,Griffith - Murrumbidgee (West),1,Good,Poor,0
+14850,Lismore,11201,Richmond Valley - Coastal,0.0027756,Good,Poor,1
+14850,Lismore,11202,Richmond Valley - Hinterland,0.9972244,Good,Poor,0
+14870,Lithgow,10301,Bathurst,0.0004813,Good,Poor,1
+14870,Lithgow,10303,Lithgow - Mudgee,0.9995187,Good,Poor,0
+14900,Liverpool,12302,Campbelltown (NSW),0.0055646,Good,Poor,1
+14900,Liverpool,12403,Penrith,0.0035429,Poor,Poor,1
+14900,Liverpool,12701,Bringelly - Green Valley,0.4078021,Poor,Poor,0
+14900,Liverpool,12702,Fairfield,0.0023561,Good,Poor,1
+14900,Liverpool,12703,Liverpool,0.5807343,Poor,Poor,0
+14920,Liverpool Plains,10604,Upper Hunter,1.3e-06,Good,Poor,1
+14920,Liverpool Plains,11004,Tamworth - Gunnedah,0.9999987,Good,Poor,0
+14950,Lockhart,10901,Albury,0.0024034,Good,Poor,1
+14950,Lockhart,10903,Upper Murray exc. Albury,3e-06,Good,Poor,1
+14950,Lockhart,11303,Wagga Wagga,0.9975936,Good,Poor,0
+15050,Maitland,10601,Lower Hunter,0.0030185,Good,Poor,1
+15050,Maitland,10602,Maitland,0.9632511,Good,Poor,0
+15050,Maitland,11103,Newcastle,0.0337305,Good,Poor,0
+15240,Mid-Coast,10603,Port Stephens,0.0606626,Acceptable,Poor,0
+15240,Mid-Coast,10801,Great Lakes,0.3447811,Poor,Poor,0
+15240,Mid-Coast,10804,Port Macquarie,0.0001658,Good,Poor,1
+15240,Mid-Coast,10805,Taree - Gloucester,0.5943904,Poor,Poor,0
+15270,Mid-Western Regional,10303,Lithgow - Mudgee,0.9999992,Good,Poor,0
+15270,Mid-Western Regional,10503,Dubbo,8e-07,Good,Poor,1
+15300,Moree Plains,11003,Moree - Narrabri,1,Good,Poor,0
+15350,Mosman,12104,North Sydney - Mosman,1,Good,Poor,0
+15520,Murray River,10902,Lower Murray,0.0393304,Good,Poor,0
+15520,Murray River,10903,Upper Murray exc. Albury,0.9606696,Good,Poor,0
+15560,Murrumbidgee,10903,Upper Murray exc. Albury,0.3340524,Good,Poor,0
+15560,Murrumbidgee,11301,Griffith - Murrumbidgee (West),0.6659476,Good,Poor,0
+15650,Muswellbrook,10604,Upper Hunter,1,Good,Poor,0
+15700,Nambucca Valley,10402,Coffs Harbour,1.5e-06,Good,Poor,1
+15700,Nambucca Valley,10802,Kempsey - Nambucca,0.9999985,Good,Poor,0
+15750,Narrabri,11003,Moree - Narrabri,0.9061041,Good,Poor,0
+15750,Narrabri,11004,Tamworth - Gunnedah,0.0938959,Good,Poor,0
+15800,Narrandera,11301,Griffith - Murrumbidgee (West),1,Good,Poor,0
+15850,Narromine,10503,Dubbo,1,Good,Poor,0
+15900,Newcastle,11101,Lake Macquarie - East,0.003262,Poor,Poor,1
+15900,Newcastle,11102,Lake Macquarie - West,1e-07,Poor,Poor,1
+15900,Newcastle,11103,Newcastle,0.9967379,Good,Poor,0
+15950,North Sydney,12101,Chatswood - Lane Cove,0.0362796,Good,Poor,0
+15950,North Sydney,12104,North Sydney - Mosman,0.9637204,Good,Poor,0
+15990,Northern Beaches,12201,Manly,0.1640104,Poor,Poor,0
+15990,Northern Beaches,12202,Pittwater,0.2406725,Poor,Poor,0
+15990,Northern Beaches,12203,Warringah,0.5953172,Poor,Poor,0
+16100,Oberon,10301,Bathurst,0.9999982,Good,Poor,0
+16100,Oberon,12402,Blue Mountains - South,1.8e-06,Poor,Poor,1
+16150,Orange,10304,Orange,1,Good,Poor,0
+16200,Parkes,10302,Lachlan Valley,1,Good,Poor,0
+16260,Parramatta,11601,Blacktown,2e-07,Poor,Poor,1
+16260,Parramatta,12501,Auburn,0.115561,Poor,Poor,0
+16260,Parramatta,12502,Carlingford,0.2885341,Poor,Poor,0
+16260,Parramatta,12503,Merrylands - Guildford,0.0135899,Poor,Poor,0
+16260,Parramatta,12504,Parramatta,0.4526497,Poor,Poor,0
+16260,Parramatta,12601,Pennant Hills - Epping,0.1107633,Poor,Poor,0
+16260,Parramatta,12602,Ryde - Hunters Hill,0.0189018,Good,Poor,0
+16350,Penrith,12403,Penrith,0.7005547,Poor,Poor,0
+16350,Penrith,12404,Richmond - Windsor,0.030653,Poor,Poor,0
+16350,Penrith,12405,St Marys,0.2608856,Poor,Poor,0
+16350,Penrith,12702,Fairfield,0.0079068,Good,Poor,1
+16380,Port Macquarie-Hastings,10804,Port Macquarie,0.9999999,Good,Poor,0
+16380,Port Macquarie-Hastings,10805,Taree - Gloucester,1e-07,Poor,Poor,1
+16400,Port Stephens,10603,Port Stephens,0.9364027,Acceptable,Poor,0
+16400,Port Stephens,11103,Newcastle,0.0635973,Good,Poor,0
+16490,Queanbeyan-Palerang Regional,10102,Queanbeyan,0.9976602,Good,Poor,0
+16490,Queanbeyan-Palerang Regional,10105,Goulburn - Mulwaree,0.0023398,Good,Poor,1
+16550,Randwick,11701,Botany,4.53e-05,Poor,Poor,1
+16550,Randwick,11801,Eastern Suburbs - North,6e-07,Good,Poor,1
+16550,Randwick,11802,Eastern Suburbs - South,0.9999541,Good,Poor,0
+16610,Richmond Valley,10401,Clarence Valley,1.3e-06,Good,Poor,1
+16610,Richmond Valley,11201,Richmond Valley - Coastal,0.2345423,Good,Poor,0
+16610,Richmond Valley,11202,Richmond Valley - Hinterland,0.7654564,Good,Poor,0
+16700,Ryde,12101,Chatswood - Lane Cove,0.0026038,Good,Poor,1
+16700,Ryde,12602,Ryde - Hunters Hill,0.9973962,Good,Poor,0
+16900,Shellharbour,10703,Kiama - Shellharbour,1,Good,Poor,0
+16950,Shoalhaven,10104,South Coast,0.0018284,Good,Poor,1
+16950,Shoalhaven,10703,Kiama - Shellharbour,6e-07,Good,Poor,1
+16950,Shoalhaven,11401,Shoalhaven,0.9981711,Good,Poor,0
+17000,Singleton,10303,Lithgow - Mudgee,4e-07,Good,Poor,1
+17000,Singleton,10601,Lower Hunter,0.9999996,Good,Poor,0
+17040,Snowy Monaro Regional,10102,Queanbeyan,0.0438113,Good,Poor,0
+17040,Snowy Monaro Regional,10103,Snowy Mountains,0.9561864,Good,Poor,0
+17040,Snowy Monaro Regional,10104,South Coast,1.9e-06,Good,Poor,1
+17040,Snowy Monaro Regional,11302,Tumut - Tumbarumba,5e-07,Good,Poor,1
+17080,Snowy Valleys,10106,Young - Yass,7e-07,Good,Poor,1
+17080,Snowy Valleys,11302,Tumut - Tumbarumba,0.9999993,Good,Poor,0
+17100,Strathfield,11901,Bankstown,0.0359359,Poor,Poor,0
+17100,Strathfield,11902,Canterbury,0.0338714,Poor,Poor,0
+17100,Strathfield,12003,Strathfield - Burwood - Ashfield,0.9301927,Poor,Poor,0
+17150,Sutherland Shire,10704,Wollongong,0,Poor,Poor,1
+17150,Sutherland Shire,12302,Campbelltown (NSW),1e-07,Good,Poor,1
+17150,Sutherland Shire,12703,Liverpool,0.002603,Poor,Poor,1
+17150,Sutherland Shire,12801,Cronulla - Miranda - Caringbah,0.5120196,Poor,Poor,0
+17150,Sutherland Shire,12802,Sutherland - Menai - Heathcote,0.4853773,Poor,Poor,0
+17200,Sydney,11702,Marrickville - Sydenham - Petersham,7.1e-05,Poor,Poor,1
+17200,Sydney,11703,Sydney Inner City,0.9760325,Good,Poor,0
+17200,Sydney,11801,Eastern Suburbs - North,0.0238962,Good,Poor,0
+17200,Sydney,12002,Leichhardt,2e-07,Poor,Poor,1
+17310,Tamworth Regional,11001,Armidale,0.0024946,Good,Poor,1
+17310,Tamworth Regional,11002,Inverell - Tenterfield,0.0001909,Good,Poor,1
+17310,Tamworth Regional,11004,Tamworth - Gunnedah,0.9973145,Good,Poor,0
+17350,Temora,11303,Wagga Wagga,1,Good,Poor,0
+17400,Tenterfield,11002,Inverell - Tenterfield,1,Good,Poor,0
+17420,The Hills Shire,11501,Baulkham Hills,0.6755315,Poor,Poor,0
+17420,The Hills Shire,11502,Dural - Wisemans Ferry,0.0774389,Poor,Poor,0
+17420,The Hills Shire,11504,Rouse Hill - McGraths Hill,0.2383505,Poor,Poor,0
+17420,The Hills Shire,11601,Blacktown,0.0047147,Poor,Poor,1
+17420,The Hills Shire,12502,Carlingford,1e-07,Poor,Poor,1
+17420,The Hills Shire,12504,Parramatta,0.0039642,Poor,Poor,1
+17550,Tweed,11203,Tweed Valley,1,Good,Poor,0
+17620,Upper Hunter Shire,10303,Lithgow - Mudgee,0.0002124,Good,Poor,1
+17620,Upper Hunter Shire,10604,Upper Hunter,0.9997876,Good,Poor,0
+17640,Upper Lachlan Shire,10105,Goulburn - Mulwaree,0.8081218,Good,Poor,0
+17640,Upper Lachlan Shire,10106,Young - Yass,0.1918782,Good,Poor,0
+17650,Uralla,11001,Armidale,0.9150868,Good,Poor,0
+17650,Uralla,11002,Inverell - Tenterfield,0.0849132,Good,Poor,0
+17750,Wagga Wagga,11303,Wagga Wagga,1,Good,Poor,0
+17850,Walcha,11001,Armidale,1,Good,Poor,0
+17900,Walgett,10501,Bourke - Cobar - Coonamble,1,Good,Poor,0
+17950,Warren,10501,Bourke - Cobar - Coonamble,0.9221867,Good,Poor,0
+17950,Warren,10503,Dubbo,0.0778133,Good,Poor,0
+18020,Warrumbungle Shire,10303,Lithgow - Mudgee,0.1416324,Good,Poor,0
+18020,Warrumbungle Shire,10503,Dubbo,0.8583676,Good,Poor,0
+18050,Waverley,11801,Eastern Suburbs - North,1,Good,Poor,0
+18100,Weddin,10302,Lachlan Valley,1,Good,Poor,0
+18200,Wentworth,10902,Lower Murray,1,Good,Poor,0
+18250,Willoughby,12101,Chatswood - Lane Cove,0.9943396,Good,Poor,0
+18250,Willoughby,12103,Ku-ring-gai,0.0056604,Good,Poor,1
+18350,Wingecarribee,10105,Goulburn - Mulwaree,0.0001142,Good,Poor,1
+18350,Wingecarribee,10702,Illawarra Catchment Reserve,1.5e-06,Poor,Poor,1
+18350,Wingecarribee,11401,Shoalhaven,5.72e-05,Good,Poor,1
+18350,Wingecarribee,11402,Southern Highlands,0.997591,Good,Poor,0
+18350,Wingecarribee,12303,Wollondilly,0.002236,Acceptable,Poor,1
+18400,Wollondilly,10702,Illawarra Catchment Reserve,7.46e-05,Poor,Poor,1
+18400,Wollondilly,10704,Wollongong,0.000315,Poor,Poor,1
+18400,Wollondilly,12301,Camden,0.0410593,Poor,Poor,0
+18400,Wollondilly,12303,Wollondilly,0.8474552,Acceptable,Poor,0
+18400,Wollondilly,12402,Blue Mountains - South,5.9e-05,Poor,Poor,1
+18400,Wollondilly,12403,Penrith,0.1110368,Poor,Poor,0
+18450,Wollongong,10701,Dapto - Port Kembla,0.3724011,Poor,Poor,0
+18450,Wollongong,10702,Illawarra Catchment Reserve,2.01e-05,Poor,Poor,1
+18450,Wollongong,10704,Wollongong,0.6275788,Poor,Poor,0
+18500,Woollahra,11801,Eastern Suburbs - North,1,Good,Poor,0
+18710,Yass Valley,10105,Goulburn - Mulwaree,0.0004057,Good,Poor,1
+18710,Yass Valley,10106,Young - Yass,0.9995938,Good,Poor,0
+18710,Yass Valley,11302,Tumut - Tumbarumba,6e-07,Good,Poor,1
+19399,Unincorporated NSW,10502,Broken Hill and Far West,0.5497438,Good,Poor,0
+19399,Unincorporated NSW,10803,Lord Howe Island,0.4461986,Poor,Poor,0
+19399,Unincorporated NSW,11703,Sydney Inner City,0.0040476,Good,Poor,1
+19399,Unincorporated NSW,11801,Eastern Suburbs - North,1.01e-05,Good,Poor,1
+20110,Alpine,20403,Wodonga - Alpine,1,Good,Poor,0
+20260,Ararat,20103,Maryborough - Pyrenees,0.0172866,Acceptable,Poor,0
+20260,Ararat,21501,Grampians,0.9827134,Good,Poor,0
+20570,Ballarat,20101,Ballarat,0.9821336,Good,Poor,0
+20570,Ballarat,20102,Creswick - Daylesford - Ballan,0.0149399,Poor,Poor,0
+20570,Ballarat,20103,Maryborough - Pyrenees,0.0029265,Acceptable,Poor,1
+20660,Banyule,20901,Banyule,1,Good,Poor,0
+20740,Bass Coast,20503,Gippsland - South West,1,Good,Poor,0
+20830,Baw Baw,20501,Baw Baw,0.9977416,Good,Poor,0
+20830,Baw Baw,20503,Gippsland - South West,0.001355,Good,Poor,1
+20830,Baw Baw,20504,Latrobe Valley,0.0009034,Good,Poor,1
+20910,Bayside (Vic.),20801,Bayside,1,Good,Poor,0
+21010,Benalla,20401,Upper Goulburn Valley,2.1e-06,Poor,Poor,1
+21010,Benalla,20402,Wangaratta - Benalla,0.9999979,Good,Poor,0
+21110,Boroondara,20701,Boroondara,0.9999996,Good,Poor,0
+21110,Boroondara,20702,Manningham - West,4e-07,Acceptable,Poor,1
+21180,Brimbank,21001,Keilor,0.0439367,Poor,Poor,0
+21180,Brimbank,21301,Brimbank,0.9560633,Good,Poor,0
+21270,Buloke,21503,Murray River - Swan Hill,1,Good,Poor,0
+21370,Campaspe,21601,Campaspe,1,Good,Poor,0
+21450,Cardinia,21105,Yarra Ranges,0.0014969,Good,Poor,1
+21450,Cardinia,21201,Cardinia,0.9985031,Good,Poor,0
+21610,Casey,21202,Casey - North,0.37582,Poor,Poor,0
+21610,Casey,21203,Casey - South,0.62418,Poor,Poor,0
+21670,Central Goldfields,20103,Maryborough - Pyrenees,0.9993279,Acceptable,Poor,0
+21670,Central Goldfields,20202,Heathcote - Castlemaine - Kyneton,0.0006721,Poor,Poor,1
+21750,Colac Otway,21703,Colac - Corangamite,1,Good,Poor,0
+21830,Corangamite,21703,Colac - Corangamite,0.989215,Good,Poor,0
+21830,Corangamite,21704,Warrnambool,0.010785,Good,Poor,0
+21890,Darebin,20602,Darebin - South,0.3585519,Poor,Poor,0
+21890,Darebin,20902,Darebin - North,0.6414481,Poor,Poor,0
+22110,East Gippsland,20502,Gippsland - East,0.9997082,Good,Poor,0
+22110,East Gippsland,20505,Wellington,0.0002918,Good,Poor,1
+22170,Frankston,21401,Frankston,1,Good,Poor,0
+22250,Gannawarra,21503,Murray River - Swan Hill,1,Good,Poor,0
+22310,Glen Eira,20802,Glen Eira,1,Good,Poor,0
+22410,Glenelg,21701,Glenelg - Southern Grampians,0.9999995,Good,Poor,0
+22410,Glenelg,21704,Warrnambool,5e-07,Good,Poor,1
+22490,Golden Plains,20101,Ballarat,0.1689643,Good,Poor,0
+22490,Golden Plains,20103,Maryborough - Pyrenees,0.1965731,Acceptable,Poor,0
+22490,Golden Plains,20301,Barwon - West,0.6344626,Poor,Poor,0
+22620,Greater Bendigo,20201,Bendigo,0.8484577,Acceptable,Poor,0
+22620,Greater Bendigo,20202,Heathcote - Castlemaine - Kyneton,0.1122512,Poor,Poor,0
+22620,Greater Bendigo,20203,Loddon - Elmore,0.039291,Poor,Poor,0
+22670,Greater Dandenong,21204,Dandenong,1,Acceptable,Poor,0
+22750,Greater Geelong,20302,Geelong,0.7819064,Acceptable,Poor,0
+22750,Greater Geelong,20303,Surf Coast - Bellarine Peninsula,0.2180936,Poor,Poor,0
+22830,Greater Shepparton,20402,Wangaratta - Benalla,0.0006443,Good,Poor,1
+22830,Greater Shepparton,21601,Campaspe,0.0023123,Good,Poor,1
+22830,Greater Shepparton,21603,Shepparton,0.9970434,Good,Poor,0
+22910,Hepburn,20102,Creswick - Daylesford - Ballan,0.999699,Poor,Poor,0
+22910,Hepburn,20103,Maryborough - Pyrenees,0.000301,Acceptable,Poor,1
+22980,Hindmarsh,21501,Grampians,1,Good,Poor,0
+23110,Hobsons Bay,21302,Hobsons Bay,0.9482287,Good,Poor,0
+23110,Hobsons Bay,21305,Wyndham,0.0517713,Good,Poor,0
+23190,Horsham,21501,Grampians,1,Good,Poor,0
+23270,Hume,21001,Keilor,2.09e-05,Poor,Poor,1
+23270,Hume,21004,Sunbury,0.163361,Poor,Poor,0
+23270,Hume,21005,Tullamarine - Broadmeadows,0.8366181,Acceptable,Poor,0
+23350,Indigo,20402,Wangaratta - Benalla,0.2341322,Good,Poor,0
+23350,Indigo,20403,Wodonga - Alpine,0.7658678,Good,Poor,0
+23430,Kingston (Vic.),20803,Kingston,0.7759733,Acceptable,Poor,0
+23430,Kingston (Vic.),21204,Dandenong,0.2240267,Acceptable,Poor,0
+23670,Knox,21101,Knox,1,Good,Poor,0
+23810,Latrobe (Vic.),20501,Baw Baw,0.0028934,Good,Poor,1
+23810,Latrobe (Vic.),20503,Gippsland - South West,0.0008011,Good,Poor,1
+23810,Latrobe (Vic.),20504,Latrobe Valley,0.9963055,Good,Poor,0
+23940,Loddon,20103,Maryborough - Pyrenees,0.0276384,Acceptable,Poor,0
+23940,Loddon,20202,Heathcote - Castlemaine - Kyneton,0.0143249,Poor,Poor,0
+23940,Loddon,20203,Loddon - Elmore,0.9580367,Poor,Poor,0
+24130,Macedon Ranges,20202,Heathcote - Castlemaine - Kyneton,0.3589435,Poor,Poor,0
+24130,Macedon Ranges,21002,Macedon Ranges,0.6410565,Poor,Poor,0
+24210,Manningham,20702,Manningham - West,0.7893009,Acceptable,Poor,0
+24210,Manningham,21102,Manningham - East,0.2081094,Poor,Poor,0
+24210,Manningham,21104,Whitehorse - East,0.0025896,Poor,Poor,1
+24250,Mansfield,20401,Upper Goulburn Valley,0.9999951,Poor,Poor,0
+24250,Mansfield,20402,Wangaratta - Benalla,4.9e-06,Good,Poor,1
+24330,Maribyrnong,21303,Maribyrnong,1,Good,Poor,0
+24410,Maroondah,21103,Maroondah,0.995948,Good,Poor,0
+24410,Maroondah,21104,Whitehorse - East,0.004052,Poor,Poor,1
+24600,Melbourne,20604,Melbourne City,0.9998974,Good,Poor,0
+24600,Melbourne,20605,Port Phillip,0.0001024,Good,Poor,1
+24600,Melbourne,20607,Yarra,2e-07,Good,Poor,1
+24650,Melton,21004,Sunbury,0.0293129,Poor,Poor,0
+24650,Melton,21304,Melton - Bacchus Marsh,0.9706871,Good,Poor,0
+24780,Mildura,21502,Mildura,1,Good,Poor,0
+24850,Mitchell,20401,Upper Goulburn Valley,0.5427511,Poor,Poor,0
+24850,Mitchell,20904,Whittlesea - Wallan,0.4572489,Good,Poor,0
+24900,Moira,21602,Moira,1,Good,Poor,0
+24970,Monash,20802,Glen Eira,0.0396261,Good,Poor,0
+24970,Monash,21205,Monash,0.9603739,Good,Poor,0
+25060,Moonee Valley,20603,Essendon,0.5636398,Poor,Poor,0
+25060,Moonee Valley,20604,Melbourne City,2e-07,Good,Poor,1
+25060,Moonee Valley,21001,Keilor,0.43636,Poor,Poor,0
+25150,Moorabool,20101,Ballarat,0.0067002,Good,Poor,1
+25150,Moorabool,20102,Creswick - Daylesford - Ballan,0.3366068,Poor,Poor,0
+25150,Moorabool,21304,Melton - Bacchus Marsh,0.6566931,Good,Poor,0
+25250,Moreland,20601,Brunswick - Coburg,0.5242853,Poor,Poor,0
+25250,Moreland,20607,Yarra,0.0055322,Good,Poor,1
+25250,Moreland,21003,Moreland - North,0.4701824,Poor,Poor,0
+25340,Mornington Peninsula,21402,Mornington Peninsula,1,Good,Poor,0
+25430,Mount Alexander,20103,Maryborough - Pyrenees,0.0005931,Acceptable,Poor,1
+25430,Mount Alexander,20202,Heathcote - Castlemaine - Kyneton,0.9994069,Poor,Poor,0
+25490,Moyne,21701,Glenelg - Southern Grampians,0.0047356,Good,Poor,1
+25490,Moyne,21703,Colac - Corangamite,0.0071031,Good,Poor,1
+25490,Moyne,21704,Warrnambool,0.9881613,Good,Poor,0
+25620,Murrindindi,20401,Upper Goulburn Valley,0.7237021,Poor,Poor,0
+25620,Murrindindi,20903,Nillumbik - Kinglake,0.2762979,Good,Poor,0
+25710,Nillumbik,20901,Banyule,2e-07,Good,Poor,1
+25710,Nillumbik,20903,Nillumbik - Kinglake,0.9999998,Good,Poor,0
+25810,Northern Grampians,21501,Grampians,1,Good,Poor,0
+25900,Port Phillip,20605,Port Phillip,1,Good,Poor,0
+25990,Pyrenees,20103,Maryborough - Pyrenees,0.9958333,Acceptable,Poor,0
+25990,Pyrenees,21501,Grampians,0.0041667,Good,Poor,1
+26080,Queenscliffe,20303,Surf Coast - Bellarine Peninsula,1,Poor,Poor,0
+26170,South Gippsland,20501,Baw Baw,0.0005567,Good,Poor,1
+26170,South Gippsland,20503,Gippsland - South West,0.9966611,Good,Poor,0
+26170,South Gippsland,20504,Latrobe Valley,0.0027822,Good,Poor,1
+26260,Southern Grampians,21701,Glenelg - Southern Grampians,0.998374,Good,Poor,0
+26260,Southern Grampians,21704,Warrnambool,0.001626,Good,Poor,1
+26350,Stonnington,20606,Stonnington - West,0.5972775,Poor,Poor,0
+26350,Stonnington,20804,Stonnington - East,0.4027225,Poor,Poor,0
+26430,Strathbogie,20401,Upper Goulburn Valley,0.9974724,Poor,Poor,0
+26430,Strathbogie,20402,Wangaratta - Benalla,0.0025276,Good,Poor,1
+26490,Surf Coast,20301,Barwon - West,0.1756792,Poor,Poor,0
+26490,Surf Coast,20303,Surf Coast - Bellarine Peninsula,0.8239219,Poor,Poor,0
+26490,Surf Coast,21703,Colac - Corangamite,0.0003989,Good,Poor,1
+26610,Swan Hill,21503,Murray River - Swan Hill,1,Good,Poor,0
+26670,Towong,20403,Wodonga - Alpine,1,Good,Poor,0
+26700,Wangaratta,20402,Wangaratta - Benalla,1,Good,Poor,0
+26730,Warrnambool,21704,Warrnambool,1,Good,Poor,0
+26810,Wellington,20502,Gippsland - East,0.0028098,Good,Poor,1
+26810,Wellington,20503,Gippsland - South West,9e-07,Good,Poor,1
+26810,Wellington,20505,Wellington,0.9971893,Good,Poor,0
+26890,West Wimmera,21501,Grampians,1,Good,Poor,0
+26980,Whitehorse,20702,Manningham - West,1e-07,Acceptable,Poor,1
+26980,Whitehorse,20703,Whitehorse - West,0.6326852,Poor,Poor,0
+26980,Whitehorse,21104,Whitehorse - East,0.3673147,Poor,Poor,0
+27070,Whittlesea,20904,Whittlesea - Wallan,1,Good,Poor,0
+27170,Wodonga,20403,Wodonga - Alpine,1,Good,Poor,0
+27260,Wyndham,21305,Wyndham,1,Good,Poor,0
+27350,Yarra,20607,Yarra,1,Good,Poor,0
+27450,Yarra Ranges,20401,Upper Goulburn Valley,0.0015507,Poor,Poor,1
+27450,Yarra Ranges,21101,Knox,0.0002626,Good,Poor,1
+27450,Yarra Ranges,21102,Manningham - East,0.0024722,Poor,Poor,1
+27450,Yarra Ranges,21105,Yarra Ranges,0.9936073,Good,Poor,0
+27450,Yarra Ranges,21201,Cardinia,0.0021072,Good,Poor,1
+27630,Yarriambiack,21501,Grampians,1,Good,Poor,0
+29399,Unincorporated Vic,20401,Upper Goulburn Valley,0.3465762,Poor,Poor,0
+29399,Unincorporated Vic,20403,Wodonga - Alpine,0.4767234,Good,Poor,0
+29399,Unincorporated Vic,20501,Baw Baw,0.0315079,Good,Poor,0
+29399,Unincorporated Vic,20502,Gippsland - East,1.05e-05,Good,Poor,1
+29399,Unincorporated Vic,20503,Gippsland - South West,0.145161,Good,Poor,0
+29399,Unincorporated Vic,21402,Mornington Peninsula,1.05e-05,Good,Poor,1
+29399,Unincorporated Vic,21704,Warrnambool,1.05e-05,Good,Poor,1
+30250,Aurukun,31501,Far North,1,Acceptable,Poor,0
+30300,Balonne,30701,Darling Downs (West) - Maranoa,1,Acceptable,Poor,0
+30370,Banana,30804,Biloela,1,Good,Poor,0
+30410,Barcaldine,31503,Outback - South,1,Good,Poor,0
+30450,Barcoo,31503,Outback - South,1,Good,Poor,0
+30760,Blackall Tambo,31503,Outback - South,1,Good,Poor,0
+30900,Boulia,31503,Outback - South,1,Good,Poor,0
+31000,Brisbane,30101,Capalaba,0.0060929,Poor,Poor,1
+31000,Brisbane,30103,Wynnum - Manly,0.0587354,Poor,Poor,0
+31000,Brisbane,30201,Bald Hills - Everton Park,0.0370611,Poor,Poor,0
+31000,Brisbane,30202,Chermside,0.0597591,Poor,Poor,0
+31000,Brisbane,30203,Nundah,0.0345963,Poor,Poor,0
+31000,Brisbane,30204,Sandgate,0.0491759,Poor,Poor,0
+31000,Brisbane,30301,Carindale,0.0436925,Poor,Poor,0
+31000,Brisbane,30302,Holland Park - Yeronga,0.0638367,Poor,Poor,0
+31000,Brisbane,30303,Mt Gravatt,0.0639189,Poor,Poor,0
+31000,Brisbane,30304,Nathan,0.032124,Poor,Poor,0
+31000,Brisbane,30305,Rocklea - Acacia Ridge,0.0546636,Poor,Poor,0
+31000,Brisbane,30306,Sunnybank,0.04037,Poor,Poor,0
+31000,Brisbane,30401,Centenary,0.0265918,Poor,Poor,0
+31000,Brisbane,30402,Kenmore - Brookfield - Moggill,0.0384489,Poor,Poor,0
+31000,Brisbane,30403,Sherwood - Indooroopilly,0.0436933,Poor,Poor,0
+31000,Brisbane,30404,The Gap - Enoggera,0.0435962,Poor,Poor,0
+31000,Brisbane,30501,Brisbane Inner,0.070349,Poor,Poor,0
+31000,Brisbane,30502,Brisbane Inner - East,0.0357048,Poor,Poor,0
+31000,Brisbane,30503,Brisbane Inner - North,0.0805386,Poor,Poor,0
+31000,Brisbane,30504,Brisbane Inner - West,0.0484631,Poor,Poor,0
+31000,Brisbane,31001,Forest Lake - Oxley,0.0634159,Poor,Poor,0
+31000,Brisbane,31002,Ipswich Hinterland,1e-07,Poor,Poor,1
+31000,Brisbane,31003,Ipswich Inner,0.0049176,Poor,Poor,1
+31000,Brisbane,31305,Redcliffe,0.0002543,Poor,Poor,1
+31750,Bulloo,31503,Outback - South,1,Good,Poor,0
+31820,Bundaberg,31901,Bundaberg,0.945406,Good,Poor,0
+31820,Bundaberg,31902,Burnett,0.054594,Acceptable,Poor,0
+31900,Burdekin,31801,Charters Towers - Ayr - Ingham,0.9972368,Good,Poor,0
+31900,Burdekin,31802,Townsville,0.0027632,Good,Poor,1
+31950,Burke,31502,Outback - North,1,Good,Poor,0
+32080,Cairns,30601,Cairns - North,0.3457993,Poor,Poor,0
+32080,Cairns,30602,Cairns - South,0.6321696,Poor,Poor,0
+32080,Cairns,30603,Innisfail - Cassowary Coast,0.0220311,Acceptable,Poor,0
+32250,Carpentaria,31502,Outback - North,1,Good,Poor,0
+32260,Cassowary Coast,30603,Innisfail - Cassowary Coast,1,Acceptable,Poor,0
+32270,Central Highlands (Qld),30801,Central Highlands (Qld),1,Good,Poor,0
+32310,Charters Towers,31801,Charters Towers - Ayr - Ingham,1,Good,Poor,0
+32330,Cherbourg,31902,Burnett,1,Acceptable,Poor,0
+32450,Cloncurry,31502,Outback - North,1,Good,Poor,0
+32500,Cook,31501,Far North,1,Acceptable,Poor,0
+32600,Croydon,31501,Far North,1,Acceptable,Poor,0
+32750,Diamantina,31503,Outback - South,1,Good,Poor,0
+32770,Doomadgee,31502,Outback - North,1,Good,Poor,0
+32810,Douglas,30604,Port Douglas - Daintree,0.9935057,Good,Poor,0
+32810,Douglas,31501,Far North,0.0064943,Acceptable,Poor,1
+33100,Etheridge,31501,Far North,1,Acceptable,Poor,0
+33200,Flinders (Qld),31502,Outback - North,1,Good,Poor,0
+33220,Fraser Coast,31903,Gympie - Cooloola,4.59e-05,Good,Poor,1
+33220,Fraser Coast,31904,Hervey Bay,0.5719154,Poor,Poor,0
+33220,Fraser Coast,31905,Maryborough,0.4280386,Poor,Poor,0
+33360,Gladstone,30805,Gladstone,1,Good,Poor,0
+33430,Gold Coast,30901,Broadbeach - Burleigh,0.1061693,Poor,Poor,0
+33430,Gold Coast,30902,Coolangatta,0.0920134,Poor,Poor,0
+33430,Gold Coast,30903,Gold Coast - North,0.1111308,Poor,Poor,0
+33430,Gold Coast,30904,Gold Coast Hinterland,0.0070059,Poor,Poor,1
+33430,Gold Coast,30905,Mudgeeraba - Tallebudgera,0.0576306,Poor,Poor,0
+33430,Gold Coast,30906,Nerang,0.1114345,Poor,Poor,0
+33430,Gold Coast,30907,Ormeau - Oxenford,0.2529164,Poor,Poor,0
+33430,Gold Coast,30908,Robina,0.0862391,Poor,Poor,0
+33430,Gold Coast,30909,Southport,0.1031946,Poor,Poor,0
+33430,Gold Coast,30910,Surfers Paradise,0.0722654,Poor,Poor,0
+33610,Goondiwindi,30701,Darling Downs (West) - Maranoa,1,Acceptable,Poor,0
+33620,Gympie,31902,Burnett,0.0001879,Acceptable,Poor,1
+33620,Gympie,31903,Gympie - Cooloola,0.9980096,Good,Poor,0
+33620,Gympie,31905,Maryborough,0.0018026,Poor,Poor,1
+33800,Hinchinbrook,31801,Charters Towers - Ayr - Ingham,1,Good,Poor,0
+33830,Hope Vale,31501,Far North,1,Acceptable,Poor,0
+33960,Ipswich,31002,Ipswich Hinterland,0.0620847,Poor,Poor,0
+33960,Ipswich,31003,Ipswich Inner,0.4791154,Poor,Poor,0
+33960,Ipswich,31004,Springfield - Redbank,0.4587999,Poor,Poor,0
+33980,Isaac,31201,Bowen Basin - North,1,Acceptable,Poor,0
+34420,Kowanyama,31501,Far North,1,Acceptable,Poor,0
+34530,Livingstone,30803,Rockhampton,1,Good,Poor,0
+34570,Lockhart River,31501,Far North,1,Acceptable,Poor,0
+34580,Lockyer Valley,31002,Ipswich Hinterland,0.5158888,Poor,Poor,0
+34580,Lockyer Valley,31701,Toowoomba,0.4841112,Acceptable,Poor,0
+34590,Logan,31102,Beenleigh,0.1341198,Poor,Poor,0
+34590,Logan,31103,Browns Plains,0.2711995,Poor,Poor,0
+34590,Logan,31104,Jimboomba,0.1785957,Poor,Poor,0
+34590,Logan,31105,Loganlea - Carbrook,0.1868573,Poor,Poor,0
+34590,Logan,31106,Springwood - Kingston,0.2292277,Poor,Poor,0
+34710,Longreach,31503,Outback - South,1,Good,Poor,0
+34770,Mackay,31202,Mackay,1,Good,Poor,0
+34800,McKinlay,31502,Outback - North,1,Good,Poor,0
+34830,Mapoon,31501,Far North,1,Acceptable,Poor,0
+34860,Maranoa,30701,Darling Downs (West) - Maranoa,1,Acceptable,Poor,0
+34880,Mareeba,30605,Tablelands (East) - Kuranda,0.7281992,Acceptable,Poor,0
+34880,Mareeba,31501,Far North,0.2718008,Acceptable,Poor,0
+35010,Moreton Bay,30404,The Gap - Enoggera,0,Poor,Poor,1
+35010,Moreton Bay,31301,Bribie - Beachmere,0.0778324,Poor,Poor,0
+35010,Moreton Bay,31302,Caboolture,0.1673095,Poor,Poor,0
+35010,Moreton Bay,31303,Caboolture Hinterland,0.0190708,Poor,Poor,0
+35010,Moreton Bay,31304,Narangba - Burpengary,0.145423,Poor,Poor,0
+35010,Moreton Bay,31305,Redcliffe,0.1332448,Poor,Poor,0
+35010,Moreton Bay,31401,The Hills District,0.1885641,Poor,Poor,0
+35010,Moreton Bay,31402,North Lakes,0.1848262,Poor,Poor,0
+35010,Moreton Bay,31403,Strathpine,0.0837292,Poor,Poor,0
+35250,Mornington,31502,Outback - North,1,Good,Poor,0
+35300,Mount Isa,31502,Outback - North,1,Good,Poor,0
+35600,Murweh,31503,Outback - South,1,Good,Poor,0
+35670,Napranum,31501,Far North,1,Acceptable,Poor,0
+35740,Noosa,31605,Noosa,0.6390368,Poor,Poor,0
+35740,Noosa,31608,Noosa Hinterland,0.3609632,Poor,Poor,0
+35760,North Burnett,31902,Burnett,1,Acceptable,Poor,0
+35780,Northern Peninsula Area,31501,Far North,1,Acceptable,Poor,0
+35790,Palm Island,31801,Charters Towers - Ayr - Ingham,1,Good,Poor,0
+35800,Paroo,31503,Outback - South,1,Good,Poor,0
+36070,Pormpuraaw,31501,Far North,1,Acceptable,Poor,0
+36150,Quilpie,31503,Outback - South,1,Good,Poor,0
+36250,Redland,30101,Capalaba,0.4132047,Poor,Poor,0
+36250,Redland,30102,Cleveland - Stradbroke,0.5867953,Poor,Poor,0
+36300,Richmond,31502,Outback - North,1,Good,Poor,0
+36370,Rockhampton,30803,Rockhampton,1,Good,Poor,0
+36510,Scenic Rim,30904,Gold Coast Hinterland,0.3662337,Poor,Poor,0
+36510,Scenic Rim,31002,Ipswich Hinterland,0.2926848,Poor,Poor,0
+36510,Scenic Rim,31101,Beaudesert,0.3410814,Poor,Poor,0
+36580,Somerset,31002,Ipswich Hinterland,0.7682579,Poor,Poor,0
+36580,Somerset,31303,Caboolture Hinterland,0.2317421,Poor,Poor,0
+36630,South Burnett,31902,Burnett,1,Acceptable,Poor,0
+36660,Southern Downs,30703,Granite Belt,1,Acceptable,Poor,0
+36720,Sunshine Coast,31301,Bribie - Beachmere,2e-07,Poor,Poor,1
+36720,Sunshine Coast,31601,Buderim,0.1720959,Poor,Poor,0
+36720,Sunshine Coast,31602,Caloundra,0.2813017,Poor,Poor,0
+36720,Sunshine Coast,31603,Maroochy,0.185729,Poor,Poor,0
+36720,Sunshine Coast,31605,Noosa,0.0311699,Poor,Poor,0
+36720,Sunshine Coast,31606,Sunshine Coast Hinterland,0.1723813,Poor,Poor,0
+36720,Sunshine Coast,31607,Nambour,0.1460443,Poor,Poor,0
+36720,Sunshine Coast,31608,Noosa Hinterland,0.0112777,Poor,Poor,0
+36820,Tablelands,30603,Innisfail - Cassowary Coast,1.9e-06,Acceptable,Poor,1
+36820,Tablelands,30605,Tablelands (East) - Kuranda,0.9999981,Acceptable,Poor,0
+36910,Toowoomba,30702,Darling Downs - East,0.1489573,Poor,Poor,0
+36910,Toowoomba,30703,Granite Belt,0.0302972,Acceptable,Poor,0
+36910,Toowoomba,31701,Toowoomba,0.8207455,Acceptable,Poor,0
+36950,Torres,31501,Far North,1,Acceptable,Poor,0
+36960,Torres Strait Island,31501,Far North,1,Acceptable,Poor,0
+37010,Townsville,31802,Townsville,1,Good,Poor,0
+37300,Weipa,31501,Far North,1,Acceptable,Poor,0
+37310,Western Downs,30701,Darling Downs (West) - Maranoa,0.496729,Acceptable,Poor,0
+37310,Western Downs,30702,Darling Downs - East,0.5032707,Poor,Poor,0
+37310,Western Downs,30804,Biloela,3e-07,Good,Poor,1
+37340,Whitsunday,31201,Bowen Basin - North,0.3700317,Acceptable,Poor,0
+37340,Whitsunday,31203,Whitsunday,0.6299683,Poor,Poor,0
+37400,Winton,31503,Outback - South,1,Good,Poor,0
+37550,Woorabinda,30801,Central Highlands (Qld),1,Good,Poor,0
+37570,Wujal Wujal,31501,Far North,1,Acceptable,Poor,0
+37600,Yarrabah,30603,Innisfail - Cassowary Coast,1,Acceptable,Poor,0
+40070,Adelaide,40101,Adelaide City,1,Good,Poor,0
+40120,Adelaide Hills,40102,Adelaide Hills,0.9909181,Good,Poor,0
+40120,Adelaide Hills,40104,Campbelltown (SA),0.0090819,Good,Poor,1
+40150,Adelaide Plains,40201,Gawler - Two Wells,0.6611979,Acceptable,Poor,0
+40150,Adelaide Plains,40501,Barossa,0.3388021,Acceptable,Poor,0
+40220,Alexandrina,40701,Fleurieu - Kangaroo Island,1,Good,Poor,0
+40250,Anangu Pitjantjatjara Yunkunytjatjara,40602,Outback - North and East,1,Good,Poor,0
+40310,Barossa,40201,Gawler - Two Wells,0.0222644,Acceptable,Poor,0
+40310,Barossa,40501,Barossa,0.9777356,Acceptable,Poor,0
+40430,Barunga West,40502,Lower North,0.9930917,Good,Poor,0
+40430,Barunga West,40504,Yorke Peninsula,0.0069083,Good,Poor,1
+40520,Berri Barmera,40703,Murray and Mallee,1,Good,Poor,0
+40700,Burnside,40103,Burnside,1,Good,Poor,0
+40910,Campbelltown (SA),40104,Campbelltown (SA),1,Good,Poor,0
+41010,Ceduna,40601,Eyre Peninsula and South West,1,Good,Poor,0
+41060,Charles Sturt,40401,Charles Sturt,0.9721642,Good,Poor,0
+41060,Charles Sturt,40402,Port Adelaide - West,0.0022005,Poor,Poor,1
+41060,Charles Sturt,40403,West Torrens,0.0256353,Good,Poor,0
+41140,Clare and Gilbert Valleys,40502,Lower North,1,Good,Poor,0
+41190,Cleve,40601,Eyre Peninsula and South West,1,Good,Poor,0
+41330,Coober Pedy,40602,Outback - North and East,1,Good,Poor,0
+41560,Copper Coast,40502,Lower North,0.0009308,Good,Poor,1
+41560,Copper Coast,40504,Yorke Peninsula,0.9990692,Good,Poor,0
+41750,Elliston,40601,Eyre Peninsula and South West,1,Good,Poor,0
+41830,Flinders Ranges,40602,Outback - North and East,1,Good,Poor,0
+41960,Franklin Harbour,40601,Eyre Peninsula and South West,1,Good,Poor,0
+42030,Gawler,40201,Gawler - Two Wells,1,Acceptable,Poor,0
+42110,Goyder,40502,Lower North,1,Good,Poor,0
+42250,Grant,40702,Limestone Coast,1,Good,Poor,0
+42600,Holdfast Bay,40301,Holdfast Bay,0.9512165,Good,Poor,0
+42600,Holdfast Bay,40302,Marion,0.0428951,Good,Poor,0
+42600,Holdfast Bay,40403,West Torrens,0.0058884,Good,Poor,1
+42750,Kangaroo Island,40701,Fleurieu - Kangaroo Island,1,Good,Poor,0
+43080,Karoonda East Murray,40703,Murray and Mallee,1,Good,Poor,0
+43220,Kimba,40601,Eyre Peninsula and South West,1,Good,Poor,0
+43360,Kingston (SA),40702,Limestone Coast,1,Good,Poor,0
+43650,Light,40201,Gawler - Two Wells,0.3573184,Acceptable,Poor,0
+43650,Light,40501,Barossa,0.6426816,Acceptable,Poor,0
+43710,Lower Eyre Peninsula,40601,Eyre Peninsula and South West,1,Good,Poor,0
+43790,Loxton Waikerie,40703,Murray and Mallee,1,Good,Poor,0
+44000,Maralinga Tjarutja,40601,Eyre Peninsula and South West,1,Good,Poor,0
+44060,Marion,40302,Marion,0.9999999,Good,Poor,0
+44060,Marion,40304,Onkaparinga,1e-07,Good,Poor,1
+44210,Mid Murray,40703,Murray and Mallee,1,Good,Poor,0
+44340,Mitcham,40303,Mitcham,0.9804221,Good,Poor,0
+44340,Mitcham,40304,Onkaparinga,0.0195779,Good,Poor,0
+44550,Mount Barker,40102,Adelaide Hills,1,Good,Poor,0
+44620,Mount Gambier,40702,Limestone Coast,1,Good,Poor,0
+44830,Mount Remarkable,40503,Mid North,1,Good,Poor,0
+45040,Murray Bridge,40703,Murray and Mallee,1,Good,Poor,0
+45090,Naracoorte Lucindale,40702,Limestone Coast,1,Good,Poor,0
+45120,Northern Areas,40503,Mid North,1,Good,Poor,0
+45290,Norwood Payneham and St Peters,40105,Norwood - Payneham - St Peters,1,Good,Poor,0
+45340,Onkaparinga,40304,Onkaparinga,0.9999999,Good,Poor,0
+45340,Onkaparinga,40701,Fleurieu - Kangaroo Island,1e-07,Good,Poor,1
+45400,Orroroo Carrieton,40503,Mid North,1,Good,Poor,0
+45540,Peterborough,40503,Mid North,1,Good,Poor,0
+45680,Playford,40202,Playford,1,Good,Poor,0
+45890,Port Adelaide Enfield,40203,Port Adelaide - East,0.5354738,Poor,Poor,0
+45890,Port Adelaide Enfield,40204,Salisbury,1e-07,Good,Poor,1
+45890,Port Adelaide Enfield,40205,Tea Tree Gully,0.0069712,Good,Poor,1
+45890,Port Adelaide Enfield,40402,Port Adelaide - West,0.4575549,Poor,Poor,0
+46090,Port Augusta,40602,Outback - North and East,1,Good,Poor,0
+46300,Port Lincoln,40601,Eyre Peninsula and South West,1,Good,Poor,0
+46450,Port Pirie,40502,Lower North,0.0029473,Good,Poor,1
+46450,Port Pirie,40503,Mid North,0.9970527,Good,Poor,0
+46510,Prospect,40106,Prospect - Walkerville,1,Good,Poor,0
+46670,Renmark Paringa,40703,Murray and Mallee,1,Good,Poor,0
+46860,Robe,40702,Limestone Coast,1,Good,Poor,0
+46970,Roxby Downs,40602,Outback - North and East,1,Good,Poor,0
+47140,Salisbury,40202,Playford,0.0051027,Good,Poor,1
+47140,Salisbury,40203,Port Adelaide - East,0.0203115,Poor,Poor,0
+47140,Salisbury,40204,Salisbury,0.9745859,Good,Poor,0
+47290,Southern Mallee,40703,Murray and Mallee,1,Good,Poor,0
+47490,Streaky Bay,40601,Eyre Peninsula and South West,1,Good,Poor,0
+47630,Tatiara,40702,Limestone Coast,1,Good,Poor,0
+47700,Tea Tree Gully,40203,Port Adelaide - East,0.0295858,Poor,Poor,0
+47700,Tea Tree Gully,40204,Salisbury,0.0243269,Good,Poor,0
+47700,Tea Tree Gully,40205,Tea Tree Gully,0.9460873,Good,Poor,0
+47800,Coorong,40703,Murray and Mallee,1,Good,Poor,0
+47910,Tumby Bay,40601,Eyre Peninsula and South West,1,Good,Poor,0
+47980,Unley,40107,Unley,1,Good,Poor,0
+48050,Victor Harbor,40701,Fleurieu - Kangaroo Island,1,Good,Poor,0
+48130,Wakefield,40502,Lower North,1,Good,Poor,0
+48260,Walkerville,40106,Prospect - Walkerville,1,Good,Poor,0
+48340,Wattle Range,40702,Limestone Coast,1,Good,Poor,0
+48410,West Torrens,40301,Holdfast Bay,2e-07,Good,Poor,1
+48410,West Torrens,40403,West Torrens,0.9999998,Good,Poor,0
+48540,Whyalla,40601,Eyre Peninsula and South West,1,Good,Poor,0
+48640,Wudinna,40601,Eyre Peninsula and South West,1,Good,Poor,0
+48750,Yankalilla,40701,Fleurieu - Kangaroo Island,1,Good,Poor,0
+48830,Yorke Peninsula,40504,Yorke Peninsula,1,Good,Poor,0
+49399,Unincorporated SA,40402,Port Adelaide - West,0.0013583,Poor,Poor,1
+49399,Unincorporated SA,40504,Yorke Peninsula,2.68e-05,Good,Poor,1
+49399,Unincorporated SA,40601,Eyre Peninsula and South West,0.242734,Good,Poor,0
+49399,Unincorporated SA,40602,Outback - North and East,0.7337056,Good,Poor,0
+49399,Unincorporated SA,40703,Murray and Mallee,0.0221753,Good,Poor,0
+50080,Albany,50901,Albany,1,Good,Poor,0
+50210,Armadale,50601,Armadale,1,Good,Poor,0
+50250,Ashburton,51003,West Pilbara,1,Good,Poor,0
+50280,Augusta Margaret River,50101,Augusta - Margaret River - Busselton,0.9999994,Good,Poor,0
+50280,Augusta Margaret River,50103,Manjimup,6e-07,Good,Poor,1
+50350,Bassendean,50401,Bayswater - Bassendean,1,Good,Poor,0
+50420,Bayswater,50302,Perth City,0.010948,Poor,Poor,0
+50420,Bayswater,50401,Bayswater - Bassendean,0.989052,Good,Poor,0
+50490,Belmont,50403,Swan,2e-07,Good,Poor,1
+50490,Belmont,50602,Belmont - Victoria Park,0.9999998,Good,Poor,0
+50560,Beverley,50902,Wheat Belt - North,1,Good,Poor,0
+50630,Boddington,50903,Wheat Belt - South,1,Good,Poor,0
+50770,Boyup Brook,50103,Manjimup,1,Good,Poor,0
+50840,Bridgetown-Greenbushes,50103,Manjimup,1,Good,Poor,0
+50910,Brookton,50903,Wheat Belt - South,1,Good,Poor,0
+50980,Broome,51001,Kimberley,1,Good,Poor,0
+51080,Broomehill-Tambellup,50901,Albany,1,Good,Poor,0
+51120,Bruce Rock,50902,Wheat Belt - North,1,Good,Poor,0
+51190,Bunbury,50102,Bunbury,1,Good,Poor,0
+51260,Busselton,50101,Augusta - Margaret River - Busselton,0.9976287,Good,Poor,0
+51260,Busselton,50102,Bunbury,0.0023713,Good,Poor,1
+51310,Cambridge,50301,Cottesloe - Claremont,0.5135023,Acceptable,Poor,0
+51310,Cambridge,50302,Perth City,0.4864966,Poor,Poor,0
+51310,Cambridge,50502,Stirling,1e-06,Good,Poor,1
+51330,Canning,50603,Canning,0.9947094,Good,Poor,0
+51330,Canning,50704,Melville,0.0052906,Good,Poor,1
+51400,Capel,50102,Bunbury,1,Good,Poor,0
+51470,Carnamah,51104,Mid West,1,Good,Poor,0
+51540,Carnarvon,51102,Gascoyne,1,Good,Poor,0
+51610,Chapman Valley,51104,Mid West,1,Good,Poor,0
+51680,Chittering,50902,Wheat Belt - North,1,Good,Poor,0
+51710,Christmas Island,90101,Christmas Island,1,Good,Poor,0
+51750,Claremont,50301,Cottesloe - Claremont,1,Acceptable,Poor,0
+51820,Cockburn,50701,Cockburn,0.9809158,Good,Poor,0
+51820,Cockburn,50702,Fremantle,0.001405,Good,Poor,1
+51820,Cockburn,50704,Melville,0.0176791,Good,Poor,0
+51820,Cockburn,50705,Rockingham,2e-07,Good,Poor,1
+51860,Cocos Islands,90102,Cocos (Keeling) Islands,1,Good,Poor,0
+51890,Collie,50102,Bunbury,1,Good,Poor,0
+51960,Coolgardie,51103,Goldfields,1,Good,Poor,0
+52030,Coorow,51104,Mid West,1,Good,Poor,0
+52100,Corrigin,50903,Wheat Belt - South,1,Good,Poor,0
+52170,Cottesloe,50301,Cottesloe - Claremont,1,Acceptable,Poor,0
+52240,Cranbrook,50901,Albany,1,Good,Poor,0
+52310,Cuballing,50903,Wheat Belt - South,1,Good,Poor,0
+52380,Cue,51104,Mid West,1,Good,Poor,0
+52450,Cunderdin,50902,Wheat Belt - North,1,Good,Poor,0
+52520,Dalwallinu,50902,Wheat Belt - North,1,Good,Poor,0
+52590,Dandaragan,50902,Wheat Belt - North,1,Good,Poor,0
+52660,Dardanup,50102,Bunbury,1,Good,Poor,0
+52730,Denmark,50901,Albany,1,Good,Poor,0
+52800,Derby-West Kimberley,51001,Kimberley,1,Good,Poor,0
+52870,Donnybrook-Balingup,50103,Manjimup,1,Good,Poor,0
+52940,Dowerin,50902,Wheat Belt - North,1,Good,Poor,0
+53010,Dumbleyung,50903,Wheat Belt - South,1,Good,Poor,0
+53080,Dundas,51103,Goldfields,1,Good,Poor,0
+53150,East Fremantle,50702,Fremantle,1,Good,Poor,0
+53220,East Pilbara,51002,East Pilbara,1,Good,Poor,0
+53290,Esperance,51101,Esperance,1,Good,Poor,0
+53360,Exmouth,51003,West Pilbara,9.7e-06,Good,Poor,1
+53360,Exmouth,51102,Gascoyne,0.9999903,Good,Poor,0
+53430,Fremantle,50702,Fremantle,1,Good,Poor,0
+53570,Gingin,50902,Wheat Belt - North,1,Good,Poor,0
+53640,Gnowangerup,50901,Albany,1,Good,Poor,0
+53710,Goomalling,50902,Wheat Belt - North,1,Good,Poor,0
+53780,Gosnells,50604,Gosnells,1,Good,Poor,0
+53800,Greater Geraldton,51104,Mid West,1,Good,Poor,0
+53920,Halls Creek,51001,Kimberley,1,Good,Poor,0
+53990,Harvey,50102,Bunbury,1,Good,Poor,0
+54060,Irwin,51104,Mid West,1,Good,Poor,0
+54130,Jerramungup,50901,Albany,0.9964656,Good,Poor,0
+54130,Jerramungup,51101,Esperance,0.0035344,Good,Poor,1
+54170,Joondalup,50501,Joondalup,0.9999999,Good,Poor,0
+54170,Joondalup,50502,Stirling,1e-07,Good,Poor,1
+54200,Kalamunda,50402,Mundaring,2e-07,Acceptable,Poor,1
+54200,Kalamunda,50602,Belmont - Victoria Park,2e-07,Good,Poor,1
+54200,Kalamunda,50605,Kalamunda,0.9999997,Good,Poor,0
+54280,Kalgoorlie-Boulder,51103,Goldfields,1,Good,Poor,0
+54310,Karratha,51003,West Pilbara,1,Good,Poor,0
+54340,Katanning,50901,Albany,1,Good,Poor,0
+54410,Kellerberrin,50902,Wheat Belt - North,1,Good,Poor,0
+54480,Kent,50901,Albany,1,Good,Poor,0
+54550,Kojonup,50901,Albany,1,Good,Poor,0
+54620,Kondinin,50903,Wheat Belt - South,1,Good,Poor,0
+54690,Koorda,50902,Wheat Belt - North,1,Good,Poor,0
+54760,Kulin,50903,Wheat Belt - South,1,Good,Poor,0
+54830,Kwinana,50703,Kwinana,1,Good,Poor,0
+54900,Lake Grace,50903,Wheat Belt - South,1,Good,Poor,0
+54970,Laverton,51103,Goldfields,1,Good,Poor,0
+55040,Leonora,51103,Goldfields,1,Good,Poor,0
+55110,Mandurah,50201,Mandurah,1,Good,Poor,0
+55180,Manjimup,50103,Manjimup,1,Good,Poor,0
+55250,Meekatharra,51104,Mid West,1,Good,Poor,0
+55320,Melville,50701,Cockburn,1e-07,Good,Poor,1
+55320,Melville,50704,Melville,0.9999999,Good,Poor,0
+55390,Menzies,51103,Goldfields,1,Good,Poor,0
+55460,Merredin,50902,Wheat Belt - North,1,Good,Poor,0
+55530,Mingenew,51104,Mid West,1,Good,Poor,0
+55600,Moora,50902,Wheat Belt - North,1,Good,Poor,0
+55670,Morawa,51104,Mid West,1,Good,Poor,0
+55740,Mosman Park,50301,Cottesloe - Claremont,1,Acceptable,Poor,0
+55810,Mount Magnet,51104,Mid West,1,Good,Poor,0
+55880,Mount Marshall,50902,Wheat Belt - North,1,Good,Poor,0
+55950,Mukinbudin,50902,Wheat Belt - North,1,Good,Poor,0
+56090,Mundaring,50402,Mundaring,0.9844612,Acceptable,Poor,0
+56090,Mundaring,50403,Swan,0.0155388,Good,Poor,0
+56160,Murchison,51104,Mid West,1,Good,Poor,0
+56230,Murray,50201,Mandurah,0.9597672,Good,Poor,0
+56230,Murray,50606,Serpentine - Jarrahdale,0.0037167,Good,Poor,1
+56230,Murray,50903,Wheat Belt - South,0.0365161,Good,Poor,0
+56300,Nannup,50101,Augusta - Margaret River - Busselton,1.28e-05,Good,Poor,1
+56300,Nannup,50103,Manjimup,0.9999872,Good,Poor,0
+56370,Narembeen,50902,Wheat Belt - North,1,Good,Poor,0
+56460,Narrogin,50903,Wheat Belt - South,1,Good,Poor,0
+56580,Nedlands,50301,Cottesloe - Claremont,0.9961955,Acceptable,Poor,0
+56580,Nedlands,50302,Perth City,0.0038045,Poor,Poor,1
+56620,Ngaanyatjarraku,51103,Goldfields,1,Good,Poor,0
+56730,Northam,50902,Wheat Belt - North,1,Good,Poor,0
+56790,Northampton,51104,Mid West,1,Good,Poor,0
+56860,Nungarin,50902,Wheat Belt - North,1,Good,Poor,0
+56930,Peppermint Grove,50301,Cottesloe - Claremont,1,Acceptable,Poor,0
+57000,Perenjori,51104,Mid West,1,Good,Poor,0
+57080,Perth,50301,Cottesloe - Claremont,0.1690978,Acceptable,Poor,0
+57080,Perth,50302,Perth City,0.8309022,Poor,Poor,0
+57140,Pingelly,50903,Wheat Belt - South,1,Good,Poor,0
+57210,Plantagenet,50901,Albany,1,Good,Poor,0
+57280,Port Hedland,51002,East Pilbara,0.9999987,Good,Poor,0
+57280,Port Hedland,51003,West Pilbara,1.3e-06,Good,Poor,1
+57350,Quairading,50902,Wheat Belt - North,1,Good,Poor,0
+57420,Ravensthorpe,51101,Esperance,1,Good,Poor,0
+57490,Rockingham,50705,Rockingham,1,Good,Poor,0
+57630,Sandstone,51104,Mid West,1,Good,Poor,0
+57700,Serpentine-Jarrahdale,50606,Serpentine - Jarrahdale,1,Good,Poor,0
+57770,Shark Bay,51102,Gascoyne,1,Good,Poor,0
+57840,South Perth,50607,South Perth,1,Good,Poor,0
+57910,Stirling,50302,Perth City,0.0804576,Poor,Poor,0
+57910,Stirling,50502,Stirling,0.9195424,Good,Poor,0
+57980,Subiaco,50302,Perth City,1,Poor,Poor,0
+58050,Swan,50402,Mundaring,0.0342299,Acceptable,Poor,0
+58050,Swan,50403,Swan,0.9655731,Good,Poor,0
+58050,Swan,50503,Wanneroo,0.0001966,Good,Poor,1
+58050,Swan,50602,Belmont - Victoria Park,4e-07,Good,Poor,1
+58190,Tammin,50902,Wheat Belt - North,1,Good,Poor,0
+58260,Three Springs,51104,Mid West,1,Good,Poor,0
+58330,Toodyay,50902,Wheat Belt - North,1,Good,Poor,0
+58400,Trayning,50902,Wheat Belt - North,1,Good,Poor,0
+58470,Upper Gascoyne,51102,Gascoyne,1,Good,Poor,0
+58510,Victoria Park,50602,Belmont - Victoria Park,0.8962507,Good,Poor,0
+58510,Victoria Park,50603,Canning,0.102339,Good,Poor,0
+58510,Victoria Park,50607,South Perth,0.0014103,Good,Poor,1
+58540,Victoria Plains,50902,Wheat Belt - North,1,Good,Poor,0
+58570,Vincent,50302,Perth City,0.9999997,Poor,Poor,0
+58570,Vincent,50502,Stirling,3e-07,Good,Poor,1
+58610,Wagin,50903,Wheat Belt - South,1,Good,Poor,0
+58680,Wandering,50903,Wheat Belt - South,1,Good,Poor,0
+58760,Wanneroo,50501,Joondalup,0.0030326,Good,Poor,1
+58760,Wanneroo,50503,Wanneroo,0.9969674,Good,Poor,0
+58820,Waroona,50102,Bunbury,1,Good,Poor,0
+58890,West Arthur,50903,Wheat Belt - South,1,Good,Poor,0
+59030,Westonia,50902,Wheat Belt - North,1,Good,Poor,0
+59100,Wickepin,50903,Wheat Belt - South,1,Good,Poor,0
+59170,Williams,50903,Wheat Belt - South,1,Good,Poor,0
+59250,Wiluna,51104,Mid West,1,Good,Poor,0
+59310,Wongan-Ballidu,50902,Wheat Belt - North,1,Good,Poor,0
+59320,Woodanilling,50901,Albany,1,Good,Poor,0
+59330,Wyalkatchem,50902,Wheat Belt - North,1,Good,Poor,0
+59340,Wyndham-East Kimberley,51001,Kimberley,1,Good,Poor,0
+59350,Yalgoo,51104,Mid West,1,Good,Poor,0
+59360,Yilgarn,50902,Wheat Belt - North,1,Good,Poor,0
+59370,York,50902,Wheat Belt - North,1,Good,Poor,0
+60210,Break O'Day,60203,North East,1,Acceptable,Poor,0
+60410,Brighton,60101,Brighton,0.9999995,Good,Poor,0
+60410,Brighton,60103,Hobart - North West,5e-07,Good,Poor,1
+60610,Burnie,60401,Burnie - Ulverstone,0.999999,Acceptable,Poor,0
+60610,Burnie,60403,West Coast,1e-06,Acceptable,Poor,1
+60810,Central Coast (Tas.),60401,Burnie - Ulverstone,0.8631794,Acceptable,Poor,0
+60810,Central Coast (Tas.),60402,Devonport,0.1368206,Good,Poor,0
+61010,Central Highlands (Tas.),60301,Central Highlands (Tas.),1,Acceptable,Poor,0
+61210,Circular Head,60403,West Coast,1,Acceptable,Poor,0
+61410,Clarence,60101,Brighton,0.0096457,Good,Poor,1
+61410,Clarence,60102,Hobart - North East,0.9613657,Good,Poor,0
+61410,Clarence,60106,Sorell - Dodges Ferry,0.0289886,Good,Poor,0
+61510,Derwent Valley,60101,Brighton,9e-07,Good,Poor,1
+61510,Derwent Valley,60103,Hobart - North West,0.7019968,Good,Poor,0
+61510,Derwent Valley,60301,Central Highlands (Tas.),0.2980023,Acceptable,Poor,0
+61610,Devonport,60402,Devonport,1,Good,Poor,0
+61810,Dorset,60203,North East,1,Acceptable,Poor,0
+62010,Flinders (Tas.),60203,North East,1,Acceptable,Poor,0
+62210,George Town,60203,North East,1,Acceptable,Poor,0
+62410,Glamorgan-Spring Bay,60106,Sorell - Dodges Ferry,0.0012048,Good,Poor,1
+62410,Glamorgan-Spring Bay,60301,Central Highlands (Tas.),0.0036085,Acceptable,Poor,1
+62410,Glamorgan-Spring Bay,60303,South East Coast,0.9951867,Good,Poor,0
+62610,Glenorchy,60103,Hobart - North West,0.9980108,Good,Poor,0
+62610,Glenorchy,60104,Hobart - South and West,1.4e-06,Good,Poor,1
+62610,Glenorchy,60105,Hobart Inner,0.0019878,Good,Poor,1
+62810,Hobart,60104,Hobart - South and West,0.0010011,Good,Poor,1
+62810,Hobart,60105,Hobart Inner,0.9989989,Good,Poor,0
+63010,Huon Valley,60104,Hobart - South and West,1.1e-06,Good,Poor,1
+63010,Huon Valley,60301,Central Highlands (Tas.),4.64e-05,Acceptable,Poor,1
+63010,Huon Valley,60302,Huon - Bruny Island,0.9999525,Acceptable,Poor,0
+63210,Kentish,60401,Burnie - Ulverstone,1.5e-06,Acceptable,Poor,1
+63210,Kentish,60402,Devonport,0.9999985,Good,Poor,0
+63410,King Island,60403,West Coast,1,Acceptable,Poor,0
+63610,Kingborough,60104,Hobart - South and West,0.913443,Good,Poor,0
+63610,Kingborough,60105,Hobart Inner,0.001172,Good,Poor,1
+63610,Kingborough,60302,Huon - Bruny Island,0.085385,Acceptable,Poor,0
+63810,Latrobe (Tas.),60402,Devonport,1,Good,Poor,0
+64010,Launceston,60201,Launceston,0.9371701,Acceptable,Poor,0
+64010,Launceston,60203,North East,0.0628299,Acceptable,Poor,0
+64210,Meander Valley,60201,Launceston,0.3265048,Acceptable,Poor,0
+64210,Meander Valley,60202,Meander Valley - West Tamar,0.6734952,Poor,Poor,0
+64610,Northern Midlands,60202,Meander Valley - West Tamar,0.007945,Poor,Poor,1
+64610,Northern Midlands,60203,North East,0.992055,Acceptable,Poor,0
+64810,Sorell,60102,Hobart - North East,6e-07,Good,Poor,1
+64810,Sorell,60106,Sorell - Dodges Ferry,0.9999994,Good,Poor,0
+65010,Southern Midlands,60301,Central Highlands (Tas.),1,Acceptable,Poor,0
+65210,Tasman,60303,South East Coast,1,Good,Poor,0
+65410,Waratah-Wynyard,60401,Burnie - Ulverstone,0.7327613,Acceptable,Poor,0
+65410,Waratah-Wynyard,60403,West Coast,0.2672387,Acceptable,Poor,0
+65610,West Coast,60403,West Coast,1,Acceptable,Poor,0
+65810,West Tamar,60201,Launceston,0.5934872,Acceptable,Poor,0
+65810,West Tamar,60202,Meander Valley - West Tamar,0.4065116,Poor,Poor,0
+65810,West Tamar,60203,North East,1.2e-06,Acceptable,Poor,1
+70200,Alice Springs,70201,Alice Springs,1,Good,Poor,0
+70420,Barkly,70201,Alice Springs,0.1625691,Good,Poor,0
+70420,Barkly,70202,Barkly,0.8374309,Acceptable,Poor,0
+70540,Belyuen,70203,Daly - Tiwi - West Arnhem,1,Acceptable,Poor,0
+70620,Central Desert,70201,Alice Springs,0.8184242,Good,Poor,0
+70620,Central Desert,70205,Katherine,0.1815758,Good,Poor,0
+70700,Coomalie,70203,Daly - Tiwi - West Arnhem,1,Acceptable,Poor,0
+71000,Darwin,70101,Darwin City,0.3333357,Poor,Poor,0
+71000,Darwin,70102,Darwin Suburbs,0.6666643,Poor,Poor,0
+71150,Darwin Waterfront Precinct,70101,Darwin City,1,Poor,Poor,0
+71300,East Arnhem,70203,Daly - Tiwi - West Arnhem,2.3e-06,Acceptable,Poor,1
+71300,East Arnhem,70204,East Arnhem,0.9999977,Acceptable,Poor,0
+72200,Katherine,70205,Katherine,1,Good,Poor,0
+72300,Litchfield,70102,Darwin Suburbs,0.0232395,Poor,Poor,0
+72300,Litchfield,70103,Litchfield,0.9767605,Good,Poor,0
+72330,MacDonnell,70201,Alice Springs,1,Good,Poor,0
+72800,Palmerston,70103,Litchfield,0.0017442,Good,Poor,1
+72800,Palmerston,70104,Palmerston,0.9982558,Good,Poor,0
+73600,Roper Gulf,70205,Katherine,1,Good,Poor,0
+74050,Tiwi Islands,70203,Daly - Tiwi - West Arnhem,1,Acceptable,Poor,0
+74550,Victoria Daly,70203,Daly - Tiwi - West Arnhem,0.3027593,Acceptable,Poor,0
+74550,Victoria Daly,70205,Katherine,0.6972407,Good,Poor,0
+74560,Wagait,70203,Daly - Tiwi - West Arnhem,1,Acceptable,Poor,0
+74660,West Arnhem,70203,Daly - Tiwi - West Arnhem,0.9999968,Acceptable,Poor,0
+74660,West Arnhem,70204,East Arnhem,1.6e-06,Acceptable,Poor,1
+74660,West Arnhem,70205,Katherine,1.6e-06,Good,Poor,1
+74680,West Daly,70203,Daly - Tiwi - West Arnhem,1,Acceptable,Poor,0
+79399,Unincorporated NT,70102,Darwin Suburbs,0.061275,Poor,Poor,0
+79399,Unincorporated NT,70103,Litchfield,5.9e-06,Good,Poor,1
+79399,Unincorporated NT,70201,Alice Springs,0.1256364,Good,Poor,0
+79399,Unincorporated NT,70203,Daly - Tiwi - West Arnhem,0.2191128,Acceptable,Poor,0
+79399,Unincorporated NT,70204,East Arnhem,0.5939699,Acceptable,Poor,0
+89399,Unincorporated ACT,80101,Belconnen,0.2338004,Poor,Poor,0
+89399,Unincorporated ACT,80103,Canberra East,0.0043024,Poor,Poor,1
+89399,Unincorporated ACT,80104,Gungahlin,0.1930578,Poor,Poor,0
+89399,Unincorporated ACT,80105,North Canberra,0.1349719,Poor,Poor,0
+89399,Unincorporated ACT,80106,South Canberra,0.0696626,Poor,Poor,0
+89399,Unincorporated ACT,80107,Tuggeranong,0.1970255,Poor,Poor,0
+89399,Unincorporated ACT,80108,Weston Creek,0.0541744,Poor,Poor,0
+89399,Unincorporated ACT,80109,Woden Valley,0.0865059,Poor,Poor,0
+89399,Unincorporated ACT,80110,Molonglo,0.0251193,Poor,Poor,0
+89399,Unincorporated ACT,80111,Uriarra - Namadgi,0.0013798,Poor,Poor,1
+99399,Unincorp. Other Territories,90103,Jervis Bay,0.1235493,Poor,Poor,0
+99399,Unincorp. Other Territories,90104,Norfolk Island,0.8764507,Acceptable,Poor,0
+19499,No usual address (NSW),19999,No usual address (NSW),1,Good,Good,0
+19799,Migratory - Offshore - Shipping (NSW),19797,Migratory - Offshore - Shipping (NSW),1,Good,Good,0
+29499,No usual address (Vic.),29999,No usual address (Vic.),1,Good,Good,0
+29799,Migratory - Offshore - Shipping (Vic.),29797,Migratory - Offshore - Shipping (Vic.),1,Good,Good,0
+39499,No usual address (Qld),39999,No usual address (Qld),1,Good,Good,0
+39799,Migratory - Offshore - Shipping (Qld),39797,Migratory - Offshore - Shipping (Qld),1,Good,Good,0
+49499,No usual address (SA),49999,No usual address (SA),1,Good,Good,0
+49799,Migratory - Offshore - Shipping (SA),49797,Migratory - Offshore - Shipping (SA),1,Good,Good,0
+59499,No usual address (WA),59999,No usual address (WA),1,Good,Good,0
+59799,Migratory - Offshore - Shipping (WA),59797,Migratory - Offshore - Shipping (WA),1,Good,Good,0
+69499,No usual address (Tas.),69999,No usual address (Tas.),1,Good,Good,0
+69799,Migratory - Offshore - Shipping (Tas.),69797,Migratory - Offshore - Shipping (Tas.),1,Good,Good,0
+79499,No usual address (NT),79999,No usual address (NT),1,Good,Good,0
+79799,Migratory - Offshore - Shipping (NT),79797,Migratory - Offshore - Shipping (NT),1,Good,Good,0
+89499,No usual address (ACT),89999,No usual address (ACT),1,Good,Good,0
+89799,Migratory - Offshore - Shipping (ACT),89797,Migratory - Offshore - Shipping (ACT),1,Good,Good,0
+99499,No usual address (OT),99999,No usual address (OT),1,Good,Good,0
+99799,Migratory - Offshore - Shipping (OT),99797,Migratory - Offshore - Shipping (OT),1,Good,Good,0
+ZZZZZ,Outside Australia,ZZZZZ,Outside Australia,1,Good,Good,0

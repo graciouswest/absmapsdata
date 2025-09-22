@@ -1,0 +1,3921 @@
+POSTCODE,LGA_CODE_2024,LGA_NAME_2024,RATIO_FROM_TO,INDIV_TO_REGION_QLTY_INDICATOR,OVERALL_QUALITY_INDICATOR,BMOS_NULL_FLAG
+0800,71000,Darwin,0.9600208,Good,Good,0
+0800,71150,Darwin Waterfront Precinct,0.0399792,Poor,Good,0
+0810,71000,Darwin,1.0000000,Good,Good,0
+0812,71000,Darwin,1.0000000,Good,Good,0
+0820,71000,Darwin,1.0000000,Good,Good,0
+0822,72300,Litchfield,0.1563787,Acceptable,Good,0
+0822,72800,Palmerston,0.0000004,Good,Good,1
+0822,70540,Belyuen,0.0059664,Poor,Good,1
+0822,70700,Coomalie,0.0224274,Poor,Good,0
+0822,71300,East Arnhem,0.2832613,Poor,Good,0
+0822,73600,Roper Gulf,0.0287098,Poor,Good,0
+0822,74050,Tiwi Islands,0.0942576,Poor,Good,0
+0822,79399,Unincorporated NT,0.0378867,Poor,Good,0
+0822,74550,Victoria Daly,0.0180995,Poor,Good,0
+0822,74560,Wagait,0.0167409,Poor,Good,0
+0822,74660,West Arnhem,0.2174284,Poor,Good,0
+0822,74680,West Daly,0.1188428,Poor,Good,0
+0828,72300,Litchfield,0.2944302,Acceptable,Good,0
+0828,71000,Darwin,0.4709781,Good,Good,0
+0828,72800,Palmerston,0.0266732,Good,Good,0
+0828,79399,Unincorporated NT,0.2079184,Poor,Good,0
+0829,72300,Litchfield,0.9842540,Acceptable,Good,0
+0829,72800,Palmerston,0.0157460,Good,Good,0
+0830,72300,Litchfield,0.0000005,Acceptable,Good,1
+0830,72800,Palmerston,0.9999995,Good,Good,0
+0832,72800,Palmerston,1.0000000,Good,Good,0
+0834,72300,Litchfield,1.0000000,Acceptable,Good,0
+0835,72300,Litchfield,1.0000000,Acceptable,Good,0
+0836,72300,Litchfield,1.0000000,Acceptable,Good,0
+0837,72300,Litchfield,1.0000000,Acceptable,Good,0
+0838,72300,Litchfield,1.0000000,Acceptable,Good,0
+0839,72300,Litchfield,1.0000000,Acceptable,Good,0
+0840,79399,Unincorporated NT,1.0000000,Poor,Good,0
+0841,72300,Litchfield,1.0000000,Acceptable,Good,0
+0845,70700,Coomalie,1.0000000,Poor,Good,0
+0846,70700,Coomalie,1.0000000,Poor,Good,0
+0847,74550,Victoria Daly,1.0000000,Poor,Good,0
+0850,72200,Katherine,0.9975839,Good,Good,0
+0850,73600,Roper Gulf,0.0024161,Poor,Good,1
+0852,72200,Katherine,0.1218525,Good,Good,0
+0852,70420,Barkly,0.0192015,Poor,Good,0
+0852,70620,Central Desert,0.0857990,Poor,Good,0
+0852,73600,Roper Gulf,0.5201705,Poor,Good,0
+0852,74550,Victoria Daly,0.2529766,Poor,Good,0
+0853,72200,Katherine,1.0000000,Good,Good,0
+0854,73600,Roper Gulf,1.0000000,Poor,Good,0
+0860,70420,Barkly,1.0000000,Poor,Good,0
+0862,70420,Barkly,0.9707427,Poor,Good,0
+0862,73600,Roper Gulf,0.0292573,Poor,Good,0
+0870,70200,Alice Springs,1.0000000,Good,Good,0
+0872,53220,East Pilbara,0.0187733,Good,Good,0
+0872,40250,Anangu Pitjantjatjara Yankunytjatjara,0.1668121,Poor,Good,0
+0872,70420,Barkly,0.1370487,Poor,Good,0
+0872,70620,Central Desert,0.2090736,Poor,Good,0
+0872,72330,MacDonnell,0.3502610,Poor,Good,0
+0872,56620,Ngaanyatjarraku,0.0605316,Poor,Good,0
+0872,79399,Unincorporated NT,0.0564613,Poor,Good,0
+0872,49399,Unincorporated SA,0.0010384,Poor,Good,1
+0873,70200,Alice Springs,0.9166424,Good,Good,0
+0873,72330,MacDonnell,0.0833576,Poor,Good,0
+0874,70200,Alice Springs,1.0000000,Good,Good,0
+0875,70200,Alice Springs,1.0000000,Good,Good,0
+0880,71300,East Arnhem,0.3433488,Poor,Good,0
+0880,79399,Unincorporated NT,0.6566512,Poor,Good,0
+0885,79399,Unincorporated NT,1.0000000,Poor,Good,0
+0886,74660,West Arnhem,1.0000000,Poor,Good,0
+2000,17200,Sydney,1.0000000,Good,Good,0
+2007,17200,Sydney,1.0000000,Good,Good,0
+2008,17200,Sydney,1.0000000,Good,Good,0
+2009,17200,Sydney,1.0000000,Good,Good,0
+2010,17200,Sydney,1.0000000,Good,Good,0
+2011,17200,Sydney,1.0000000,Good,Good,0
+2015,17200,Sydney,1.0000000,Good,Good,0
+2016,17200,Sydney,1.0000000,Good,Good,0
+2017,17200,Sydney,1.0000000,Good,Good,0
+2018,10500,Bayside (NSW),0.4504989,Acceptable,Good,0
+2018,17200,Sydney,0.5495011,Good,Good,0
+2019,10500,Bayside (NSW),1.0000000,Acceptable,Good,0
+2020,10500,Bayside (NSW),1.0000000,Acceptable,Good,0
+2021,18500,Woollahra,0.6626099,Acceptable,Good,0
+2021,17200,Sydney,0.3373901,Good,Good,0
+2022,18050,Waverley,1.0000000,Good,Good,0
+2023,18500,Woollahra,1.0000000,Acceptable,Good,0
+2024,18050,Waverley,1.0000000,Good,Good,0
+2025,18500,Woollahra,1.0000000,Acceptable,Good,0
+2026,18050,Waverley,1.0000000,Good,Good,0
+2027,18500,Woollahra,1.0000000,Acceptable,Good,0
+2028,18500,Woollahra,1.0000000,Acceptable,Good,0
+2029,18500,Woollahra,0.5893094,Acceptable,Good,0
+2029,18050,Waverley,0.4106906,Good,Good,0
+2030,18500,Woollahra,0.5122337,Acceptable,Good,0
+2030,18050,Waverley,0.4877663,Good,Good,0
+2031,16550,Randwick,1.0000000,Good,Good,0
+2032,10500,Bayside (NSW),0.0790509,Acceptable,Good,0
+2032,16550,Randwick,0.9209491,Good,Good,0
+2033,16550,Randwick,0.9989907,Good,Good,0
+2033,17200,Sydney,0.0010093,Good,Good,1
+2034,16550,Randwick,1.0000000,Good,Good,0
+2035,10500,Bayside (NSW),0.1120952,Acceptable,Good,0
+2035,16550,Randwick,0.8879048,Good,Good,0
+2036,10500,Bayside (NSW),0.2890389,Acceptable,Good,0
+2036,16550,Randwick,0.7109611,Good,Good,0
+2037,17200,Sydney,1.0000000,Good,Good,0
+2038,14170,Inner West,0.9975713,Good,Good,0
+2038,17200,Sydney,0.0024287,Good,Good,1
+2039,14170,Inner West,1.0000000,Good,Good,0
+2040,14170,Inner West,1.0000000,Good,Good,0
+2041,14170,Inner West,1.0000000,Good,Good,0
+2042,14170,Inner West,0.6352601,Good,Good,0
+2042,17200,Sydney,0.3647399,Good,Good,0
+2043,17200,Sydney,1.0000000,Good,Good,0
+2044,14170,Inner West,1.0000000,Good,Good,0
+2045,14170,Inner West,1.0000000,Good,Good,0
+2046,11520,Canada Bay,1.0000000,Good,Good,0
+2047,11520,Canada Bay,1.0000000,Good,Good,0
+2048,14170,Inner West,1.0000000,Good,Good,0
+2049,14170,Inner West,1.0000000,Good,Good,0
+2050,14170,Inner West,0.3621225,Good,Good,0
+2050,17200,Sydney,0.6378775,Good,Good,0
+2060,15950,North Sydney,1.0000000,Acceptable,Good,0
+2061,15950,North Sydney,1.0000000,Acceptable,Good,0
+2062,15950,North Sydney,1.0000000,Acceptable,Good,0
+2063,18250,Willoughby,1.0000000,Acceptable,Good,0
+2064,18250,Willoughby,1.0000000,Acceptable,Good,0
+2065,14700,Lane Cove,0.2560880,Acceptable,Good,0
+2065,15950,North Sydney,0.4914166,Acceptable,Good,0
+2065,18250,Willoughby,0.2524954,Acceptable,Good,0
+2066,14700,Lane Cove,0.9256308,Acceptable,Good,0
+2066,18250,Willoughby,0.0743692,Acceptable,Good,0
+2067,18250,Willoughby,0.9876130,Acceptable,Good,0
+2067,16700,Ryde,0.0123870,Good,Good,0
+2068,18250,Willoughby,1.0000000,Acceptable,Good,0
+2069,18250,Willoughby,0.3428795,Acceptable,Good,0
+2069,14500,Ku-ring-gai,0.6571205,Good,Good,0
+2070,14500,Ku-ring-gai,1.0000000,Good,Good,0
+2071,14500,Ku-ring-gai,1.0000000,Good,Good,0
+2072,14500,Ku-ring-gai,1.0000000,Good,Good,0
+2073,14500,Ku-ring-gai,1.0000000,Good,Good,0
+2074,14500,Ku-ring-gai,1.0000000,Good,Good,0
+2075,14500,Ku-ring-gai,1.0000000,Good,Good,0
+2076,14000,Hornsby,0.3972742,Acceptable,Good,0
+2076,14500,Ku-ring-gai,0.6027258,Good,Good,0
+2077,14000,Hornsby,1.0000000,Acceptable,Good,0
+2079,14000,Hornsby,1.0000000,Acceptable,Good,0
+2080,14000,Hornsby,1.0000000,Acceptable,Good,0
+2081,14000,Hornsby,1.0000000,Acceptable,Good,0
+2082,14000,Hornsby,1.0000000,Acceptable,Good,0
+2083,14000,Hornsby,0.6572077,Acceptable,Good,0
+2083,11650,Central Coast (NSW),0.3427923,Good,Good,0
+2084,15990,Northern Beaches,1.0000000,Good,Good,0
+2085,15990,Northern Beaches,1.0000000,Good,Good,0
+2086,15990,Northern Beaches,1.0000000,Good,Good,0
+2087,15990,Northern Beaches,1.0000000,Good,Good,0
+2088,15350,Mosman,1.0000000,Good,Good,0
+2089,15950,North Sydney,1.0000000,Acceptable,Good,0
+2090,15950,North Sydney,1.0000000,Acceptable,Good,0
+2092,15990,Northern Beaches,1.0000000,Good,Good,0
+2093,15990,Northern Beaches,1.0000000,Good,Good,0
+2094,15990,Northern Beaches,1.0000000,Good,Good,0
+2095,15990,Northern Beaches,1.0000000,Good,Good,0
+2096,15990,Northern Beaches,1.0000000,Good,Good,0
+2097,15990,Northern Beaches,1.0000000,Good,Good,0
+2099,15990,Northern Beaches,1.0000000,Good,Good,0
+2100,15990,Northern Beaches,1.0000000,Good,Good,0
+2101,15990,Northern Beaches,1.0000000,Good,Good,0
+2102,15990,Northern Beaches,1.0000000,Good,Good,0
+2103,15990,Northern Beaches,1.0000000,Good,Good,0
+2104,15990,Northern Beaches,1.0000000,Good,Good,0
+2105,15990,Northern Beaches,1.0000000,Good,Good,0
+2106,15990,Northern Beaches,1.0000000,Good,Good,0
+2107,15990,Northern Beaches,1.0000000,Good,Good,0
+2108,15990,Northern Beaches,1.0000000,Good,Good,0
+2110,14100,Hunters Hill,1.0000000,Acceptable,Good,0
+2111,14100,Hunters Hill,0.2404512,Acceptable,Good,0
+2111,16700,Ryde,0.7595488,Good,Good,0
+2112,16700,Ryde,1.0000000,Good,Good,0
+2113,16700,Ryde,1.0000000,Good,Good,0
+2114,16260,Parramatta,0.0194773,Acceptable,Good,0
+2114,16700,Ryde,0.9805227,Good,Good,0
+2115,16260,Parramatta,1.0000000,Acceptable,Good,0
+2116,16260,Parramatta,1.0000000,Acceptable,Good,0
+2117,16260,Parramatta,1.0000000,Acceptable,Good,0
+2118,16260,Parramatta,1.0000000,Acceptable,Good,0
+2119,14000,Hornsby,0.7893666,Acceptable,Good,0
+2119,16260,Parramatta,0.2106334,Acceptable,Good,0
+2120,14000,Hornsby,1.0000000,Acceptable,Good,0
+2121,14000,Hornsby,0.1358933,Acceptable,Good,0
+2121,16260,Parramatta,0.8641067,Acceptable,Good,0
+2122,16260,Parramatta,0.1474025,Acceptable,Good,0
+2122,16700,Ryde,0.8525975,Good,Good,0
+2125,14000,Hornsby,0.2466146,Acceptable,Good,0
+2125,17420,The Hills,0.7533854,Acceptable,Good,0
+2126,14000,Hornsby,1.0000000,Acceptable,Good,0
+2127,16260,Parramatta,1.0000000,Acceptable,Good,0
+2128,16260,Parramatta,1.0000000,Acceptable,Good,0
+2130,14170,Inner West,1.0000000,Good,Good,0
+2131,14170,Inner West,1.0000000,Good,Good,0
+2132,14170,Inner West,0.3955606,Good,Good,0
+2132,11300,Burwood,0.6044394,Poor,Good,0
+2133,11570,Canterbury-Bankstown,0.3811192,Good,Good,0
+2133,14170,Inner West,0.0773871,Good,Good,0
+2133,11300,Burwood,0.5414936,Poor,Good,0
+2134,11300,Burwood,1.0000000,Poor,Good,0
+2135,17100,Strathfield,0.6966256,Acceptable,Good,0
+2135,11520,Canada Bay,0.0949063,Good,Good,0
+2135,11300,Burwood,0.2084681,Poor,Good,0
+2136,17100,Strathfield,0.5544467,Acceptable,Good,0
+2136,11300,Burwood,0.4455533,Poor,Good,0
+2137,11520,Canada Bay,1.0000000,Good,Good,0
+2138,11520,Canada Bay,1.0000000,Good,Good,0
+2140,17100,Strathfield,1.0000000,Acceptable,Good,0
+2141,12380,Cumberland,0.9112025,Acceptable,Good,0
+2141,16260,Parramatta,0.0887975,Acceptable,Good,0
+2142,12380,Cumberland,0.6398788,Acceptable,Good,0
+2142,16260,Parramatta,0.3601212,Acceptable,Good,0
+2143,12380,Cumberland,0.4403489,Acceptable,Good,0
+2143,11570,Canterbury-Bankstown,0.5596511,Good,Good,0
+2144,12380,Cumberland,1.0000000,Acceptable,Good,0
+2145,12380,Cumberland,0.7896758,Acceptable,Good,0
+2145,16260,Parramatta,0.2103242,Acceptable,Good,0
+2146,12380,Cumberland,0.1736675,Acceptable,Good,0
+2146,16260,Parramatta,0.5683673,Acceptable,Good,0
+2146,10750,Blacktown,0.2579652,Good,Good,0
+2147,10750,Blacktown,1.0000000,Good,Good,0
+2148,12380,Cumberland,0.0000012,Acceptable,Good,1
+2148,10750,Blacktown,0.9999988,Good,Good,0
+2150,16260,Parramatta,1.0000000,Acceptable,Good,0
+2151,16260,Parramatta,0.9725640,Acceptable,Good,0
+2151,17420,The Hills,0.0274360,Acceptable,Good,0
+2152,16260,Parramatta,1.0000000,Acceptable,Good,0
+2153,16260,Parramatta,0.2081176,Acceptable,Good,0
+2153,17420,The Hills,0.7918824,Acceptable,Good,0
+2154,14000,Hornsby,0.1414613,Acceptable,Good,0
+2154,17420,The Hills,0.8585387,Acceptable,Good,0
+2155,17420,The Hills,0.8224330,Acceptable,Good,0
+2155,10750,Blacktown,0.1775670,Good,Good,0
+2156,14000,Hornsby,0.0267402,Acceptable,Good,0
+2156,17420,The Hills,0.9732598,Acceptable,Good,0
+2157,14000,Hornsby,0.4093564,Acceptable,Good,0
+2157,17420,The Hills,0.5906436,Acceptable,Good,0
+2158,14000,Hornsby,0.6324543,Acceptable,Good,0
+2158,17420,The Hills,0.3675457,Acceptable,Good,0
+2159,14000,Hornsby,1.0000000,Acceptable,Good,0
+2160,12380,Cumberland,1.0000000,Acceptable,Good,0
+2161,12380,Cumberland,0.8686246,Acceptable,Good,0
+2161,12850,Fairfield,0.1313754,Good,Good,0
+2162,12380,Cumberland,0.0403424,Acceptable,Good,0
+2162,11570,Canterbury-Bankstown,0.9596576,Good,Good,0
+2163,11570,Canterbury-Bankstown,0.4628027,Good,Good,0
+2163,12850,Fairfield,0.5371973,Good,Good,0
+2164,12380,Cumberland,0.0806939,Acceptable,Good,0
+2164,12850,Fairfield,0.9193061,Good,Good,0
+2165,12380,Cumberland,0.0034619,Acceptable,Good,1
+2165,12850,Fairfield,0.9965381,Good,Good,0
+2166,12850,Fairfield,1.0000000,Good,Good,0
+2167,11500,Campbelltown (NSW),1.0000000,Good,Good,0
+2168,14900,Liverpool,1.0000000,Good,Good,0
+2170,12850,Fairfield,0.0869260,Good,Good,0
+2170,14900,Liverpool,0.9130740,Good,Good,0
+2171,14900,Liverpool,1.0000000,Good,Good,0
+2172,14900,Liverpool,0.7923707,Good,Good,0
+2172,17150,Sutherland,0.2076293,Good,Good,0
+2173,11500,Campbelltown (NSW),0.0003442,Good,Good,1
+2173,14900,Liverpool,0.9996558,Good,Good,0
+2174,14900,Liverpool,1.0000000,Good,Good,0
+2175,12850,Fairfield,1.0000000,Good,Good,0
+2176,12850,Fairfield,1.0000000,Good,Good,0
+2177,12850,Fairfield,1.0000000,Good,Good,0
+2178,12850,Fairfield,0.1957301,Good,Good,0
+2178,14900,Liverpool,0.3889734,Good,Good,0
+2178,16350,Penrith,0.4152964,Good,Good,0
+2179,11450,Camden,0.4971021,Acceptable,Good,0
+2179,14900,Liverpool,0.5028979,Good,Good,0
+2190,17100,Strathfield,0.0599121,Acceptable,Good,0
+2190,11570,Canterbury-Bankstown,0.9400879,Good,Good,0
+2191,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2192,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2193,11570,Canterbury-Bankstown,0.9672075,Good,Good,0
+2193,14170,Inner West,0.0327925,Good,Good,0
+2194,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2195,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2196,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2197,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2198,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2199,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2200,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2203,14170,Inner West,1.0000000,Good,Good,0
+2204,14170,Inner West,1.0000000,Good,Good,0
+2205,10500,Bayside (NSW),1.0000000,Acceptable,Good,0
+2206,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2207,10500,Bayside (NSW),1.0000000,Acceptable,Good,0
+2208,10500,Bayside (NSW),0.2227975,Acceptable,Good,0
+2208,12930,Georges River,0.2836154,Acceptable,Good,0
+2208,11570,Canterbury-Bankstown,0.4935870,Good,Good,0
+2209,12930,Georges River,0.6728904,Acceptable,Good,0
+2209,11570,Canterbury-Bankstown,0.3271096,Good,Good,0
+2210,12930,Georges River,0.7929162,Acceptable,Good,0
+2210,11570,Canterbury-Bankstown,0.2070838,Good,Good,0
+2211,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2212,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2213,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2214,11570,Canterbury-Bankstown,1.0000000,Good,Good,0
+2216,10500,Bayside (NSW),1.0000000,Acceptable,Good,0
+2217,10500,Bayside (NSW),0.5880698,Acceptable,Good,0
+2217,12930,Georges River,0.4119302,Acceptable,Good,0
+2218,10500,Bayside (NSW),0.2437914,Acceptable,Good,0
+2218,12930,Georges River,0.7562086,Acceptable,Good,0
+2219,10500,Bayside (NSW),0.7984524,Acceptable,Good,0
+2219,12930,Georges River,0.2015476,Acceptable,Good,0
+2220,12930,Georges River,1.0000000,Acceptable,Good,0
+2221,12930,Georges River,1.0000000,Acceptable,Good,0
+2222,12930,Georges River,1.0000000,Acceptable,Good,0
+2223,12930,Georges River,1.0000000,Acceptable,Good,0
+2224,17150,Sutherland,1.0000000,Good,Good,0
+2225,17150,Sutherland,1.0000000,Good,Good,0
+2226,17150,Sutherland,1.0000000,Good,Good,0
+2227,17150,Sutherland,1.0000000,Good,Good,0
+2228,17150,Sutherland,1.0000000,Good,Good,0
+2229,17150,Sutherland,1.0000000,Good,Good,0
+2230,17150,Sutherland,1.0000000,Good,Good,0
+2231,17150,Sutherland,1.0000000,Good,Good,0
+2232,17150,Sutherland,1.0000000,Good,Good,0
+2233,17150,Sutherland,1.0000000,Good,Good,0
+2234,17150,Sutherland,1.0000000,Good,Good,0
+2250,11720,Cessnock,0.0023354,Acceptable,Good,1
+2250,11650,Central Coast (NSW),0.9976646,Good,Good,0
+2251,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2256,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2257,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2258,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2259,11650,Central Coast (NSW),0.9384165,Good,Good,0
+2259,14650,Lake Macquarie,0.0615835,Good,Good,0
+2260,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2261,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2262,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2263,11650,Central Coast (NSW),1.0000000,Good,Good,0
+2264,14650,Lake Macquarie,1.0000000,Good,Good,0
+2265,14650,Lake Macquarie,1.0000000,Good,Good,0
+2267,14650,Lake Macquarie,1.0000000,Good,Good,0
+2278,14650,Lake Macquarie,1.0000000,Good,Good,0
+2280,14650,Lake Macquarie,1.0000000,Good,Good,0
+2281,14650,Lake Macquarie,1.0000000,Good,Good,0
+2282,14650,Lake Macquarie,1.0000000,Good,Good,0
+2283,14650,Lake Macquarie,1.0000000,Good,Good,0
+2284,14650,Lake Macquarie,1.0000000,Good,Good,0
+2285,14650,Lake Macquarie,0.9999565,Good,Good,0
+2285,15900,Newcastle,0.0000435,Good,Good,1
+2286,14650,Lake Macquarie,1.0000000,Good,Good,0
+2287,14650,Lake Macquarie,0.0312286,Good,Good,0
+2287,15900,Newcastle,0.9687714,Good,Good,0
+2289,14650,Lake Macquarie,0.2503280,Good,Good,0
+2289,15900,Newcastle,0.7496720,Good,Good,0
+2290,14650,Lake Macquarie,1.0000000,Good,Good,0
+2291,15900,Newcastle,1.0000000,Good,Good,0
+2292,15900,Newcastle,1.0000000,Good,Good,0
+2293,15900,Newcastle,1.0000000,Good,Good,0
+2294,15900,Newcastle,1.0000000,Good,Good,0
+2295,16400,Port Stephens,0.4996654,Acceptable,Good,0
+2295,15900,Newcastle,0.5003346,Good,Good,0
+2296,15900,Newcastle,1.0000000,Good,Good,0
+2297,15900,Newcastle,1.0000000,Good,Good,0
+2298,15900,Newcastle,1.0000000,Good,Good,0
+2299,15900,Newcastle,1.0000000,Good,Good,0
+2300,15900,Newcastle,1.0000000,Good,Good,0
+2302,15900,Newcastle,1.0000000,Good,Good,0
+2303,15900,Newcastle,1.0000000,Good,Good,0
+2304,15900,Newcastle,1.0000000,Good,Good,0
+2305,14650,Lake Macquarie,0.1265220,Good,Good,0
+2305,15900,Newcastle,0.8734780,Good,Good,0
+2306,14650,Lake Macquarie,1.0000000,Good,Good,0
+2307,15900,Newcastle,1.0000000,Good,Good,0
+2308,15900,Newcastle,1.0000000,Good,Good,0
+2311,12700,Dungog,1.0000000,Acceptable,Good,0
+2312,15240,Mid-Coast,1.0000000,Good,Good,0
+2315,16400,Port Stephens,1.0000000,Acceptable,Good,0
+2316,16400,Port Stephens,1.0000000,Acceptable,Good,0
+2317,16400,Port Stephens,1.0000000,Acceptable,Good,0
+2318,16400,Port Stephens,1.0000000,Acceptable,Good,0
+2319,16400,Port Stephens,1.0000000,Acceptable,Good,0
+2320,11720,Cessnock,0.0296511,Acceptable,Good,0
+2320,12700,Dungog,0.0004351,Acceptable,Good,1
+2320,15050,Maitland,0.9301575,Acceptable,Good,0
+2320,16400,Port Stephens,0.0366098,Acceptable,Good,0
+2320,17000,Singleton,0.0031465,Good,Good,1
+2321,11720,Cessnock,0.2587617,Acceptable,Good,0
+2321,12700,Dungog,0.1305424,Acceptable,Good,0
+2321,15050,Maitland,0.5265798,Acceptable,Good,0
+2321,16400,Port Stephens,0.0841161,Acceptable,Good,0
+2322,11720,Cessnock,0.0111154,Acceptable,Good,0
+2322,15050,Maitland,0.7500109,Acceptable,Good,0
+2322,16400,Port Stephens,0.0110342,Acceptable,Good,0
+2322,15900,Newcastle,0.2278395,Good,Good,0
+2323,11720,Cessnock,0.0626821,Acceptable,Good,0
+2323,15050,Maitland,0.9327794,Acceptable,Good,0
+2323,14650,Lake Macquarie,0.0045385,Good,Good,1
+2324,15050,Maitland,0.0139898,Acceptable,Good,0
+2324,16400,Port Stephens,0.7420024,Acceptable,Good,0
+2324,15240,Mid-Coast,0.2440078,Good,Good,0
+2325,11720,Cessnock,0.9999027,Acceptable,Good,0
+2325,17000,Singleton,0.0000973,Good,Good,1
+2326,11720,Cessnock,0.9822298,Acceptable,Good,0
+2326,15050,Maitland,0.0177702,Acceptable,Good,0
+2327,11720,Cessnock,1.0000000,Acceptable,Good,0
+2328,15650,Muswellbrook,1.0000000,Good,Good,0
+2329,17620,Upper Hunter,0.9811008,Good,Good,0
+2329,18020,Warrumbungle,0.0188992,Good,Good,0
+2330,13800,Hawkesbury,0.0000005,Acceptable,Good,1
+2330,15650,Muswellbrook,0.0096076,Good,Good,1
+2330,17000,Singleton,0.9903919,Good,Good,0
+2331,17000,Singleton,1.0000000,Good,Good,0
+2333,15650,Muswellbrook,0.9867173,Good,Good,0
+2333,17000,Singleton,0.0000007,Good,Good,1
+2333,17620,Upper Hunter,0.0132820,Good,Good,0
+2334,11720,Cessnock,0.9815927,Acceptable,Good,0
+2334,15050,Maitland,0.0184073,Acceptable,Good,0
+2335,11720,Cessnock,0.6601995,Acceptable,Good,0
+2335,15050,Maitland,0.0143759,Acceptable,Good,0
+2335,17000,Singleton,0.3254246,Good,Good,0
+2336,15650,Muswellbrook,0.0100212,Good,Good,0
+2336,17620,Upper Hunter,0.9899788,Good,Good,0
+2337,15240,Mid-Coast,0.0000012,Good,Good,1
+2337,17620,Upper Hunter,0.9999988,Good,Good,0
+2338,14920,Liverpool Plains,0.0335861,Good,Good,0
+2338,17310,Tamworth,0.0264304,Good,Good,0
+2338,17620,Upper Hunter,0.9399834,Good,Good,0
+2339,14920,Liverpool Plains,1.0000000,Good,Good,0
+2340,13550,Gunnedah,0.0062032,Good,Good,1
+2340,14920,Liverpool Plains,0.0000002,Good,Good,1
+2340,17310,Tamworth,0.9937964,Good,Good,0
+2340,17620,Upper Hunter,0.0000002,Good,Good,1
+2341,13550,Gunnedah,0.0037236,Good,Good,1
+2341,14920,Liverpool Plains,0.9962764,Good,Good,0
+2342,13550,Gunnedah,0.2258527,Good,Good,0
+2342,14920,Liverpool Plains,0.7693801,Good,Good,0
+2342,17310,Tamworth,0.0047672,Good,Good,1
+2343,13550,Gunnedah,0.0069908,Good,Good,1
+2343,14920,Liverpool Plains,0.9930092,Good,Good,0
+2344,17310,Tamworth,1.0000000,Good,Good,0
+2345,17310,Tamworth,1.0000000,Good,Good,0
+2346,17310,Tamworth,1.0000000,Good,Good,0
+2347,13660,Gwydir,0.1644930,Acceptable,Good,0
+2347,15750,Narrabri,0.0002723,Good,Good,1
+2347,17310,Tamworth,0.8352348,Good,Good,0
+2350,10180,Armidale,0.9485893,Good,Good,0
+2350,17650,Uralla,0.0514107,Poor,Good,0
+2352,17310,Tamworth,1.0000000,Good,Good,0
+2353,17310,Tamworth,1.0000000,Good,Good,0
+2354,17850,Walcha,0.8664906,Acceptable,Good,0
+2354,17310,Tamworth,0.0448928,Good,Good,0
+2354,17620,Upper Hunter,0.0000029,Good,Good,1
+2354,17650,Uralla,0.0886137,Poor,Good,0
+2355,17310,Tamworth,1.0000000,Good,Good,0
+2356,15750,Narrabri,1.0000000,Good,Good,0
+2357,18020,Warrumbungle,1.0000000,Good,Good,0
+2358,17650,Uralla,1.0000000,Poor,Good,0
+2359,13660,Gwydir,0.1744217,Acceptable,Good,0
+2359,14220,Inverell,0.0365746,Good,Good,0
+2359,17310,Tamworth,0.0168881,Good,Good,0
+2359,17650,Uralla,0.7721156,Poor,Good,0
+2360,13660,Gwydir,0.0020592,Acceptable,Good,1
+2360,14220,Inverell,0.9979408,Good,Good,0
+2361,14220,Inverell,1.0000000,Good,Good,0
+2365,10180,Armidale,0.8984668,Good,Good,0
+2365,13010,Glen Innes Severn,0.0803373,Good,Good,0
+2365,14220,Inverell,0.0211959,Good,Good,0
+2369,14220,Inverell,1.0000000,Good,Good,0
+2370,10180,Armidale,0.0012864,Good,Good,1
+2370,11730,Clarence Valley,0.0023144,Good,Good,1
+2370,13010,Glen Innes Severn,0.9829854,Good,Good,0
+2370,14220,Inverell,0.0134139,Good,Good,0
+2371,17400,Tenterfield,0.1672532,Acceptable,Good,0
+2371,13010,Glen Innes Severn,0.8073428,Good,Good,0
+2371,14220,Inverell,0.0254040,Good,Good,0
+2372,17400,Tenterfield,1.0000000,Acceptable,Good,0
+2379,13550,Gunnedah,0.5802476,Good,Good,0
+2379,18020,Warrumbungle,0.4197524,Good,Good,0
+2380,13550,Gunnedah,1.0000000,Good,Good,0
+2381,13550,Gunnedah,0.8286190,Good,Good,0
+2381,14920,Liverpool Plains,0.0928482,Good,Good,0
+2381,18020,Warrumbungle,0.0785328,Good,Good,0
+2382,13550,Gunnedah,0.0742195,Good,Good,0
+2382,15750,Narrabri,0.9257805,Good,Good,0
+2386,15750,Narrabri,0.2417240,Good,Good,0
+2386,17900,Walgett,0.7582760,Good,Good,0
+2387,15300,Moree Plains,0.0971056,Good,Good,0
+2387,15750,Narrabri,0.1311933,Good,Good,0
+2387,17900,Walgett,0.7717011,Good,Good,0
+2388,15750,Narrabri,0.9854271,Good,Good,0
+2388,17900,Walgett,0.0145729,Good,Good,0
+2390,13660,Gwydir,0.0048200,Acceptable,Good,1
+2390,15300,Moree Plains,0.0050574,Good,Good,1
+2390,15750,Narrabri,0.9901226,Good,Good,0
+2395,18020,Warrumbungle,1.0000000,Good,Good,0
+2396,18020,Warrumbungle,1.0000000,Good,Good,0
+2397,15300,Moree Plains,0.1351633,Good,Good,0
+2397,15750,Narrabri,0.8648367,Good,Good,0
+2398,15300,Moree Plains,1.0000000,Good,Good,0
+2399,13660,Gwydir,0.0612934,Acceptable,Good,0
+2399,15300,Moree Plains,0.9387066,Good,Good,0
+2400,13660,Gwydir,0.0049410,Acceptable,Good,1
+2400,15300,Moree Plains,0.9950590,Good,Good,0
+2401,13660,Gwydir,0.9999656,Acceptable,Good,0
+2401,15300,Moree Plains,0.0000344,Good,Good,1
+2402,13660,Gwydir,0.9934901,Acceptable,Good,0
+2402,14220,Inverell,0.0065099,Good,Good,1
+2403,13660,Gwydir,0.2081642,Acceptable,Good,0
+2403,14220,Inverell,0.7918358,Good,Good,0
+2404,13660,Gwydir,1.0000000,Acceptable,Good,0
+2405,15300,Moree Plains,1.0000000,Good,Good,0
+2406,30300,Balonne,0.1642865,Good,Good,0
+2406,33610,Goondiwindi,0.0128670,Good,Good,0
+2406,15300,Moree Plains,0.8228465,Good,Good,0
+2408,13660,Gwydir,1.0000000,Acceptable,Good,0
+2409,13660,Gwydir,0.0507099,Acceptable,Good,0
+2409,15300,Moree Plains,0.9492901,Good,Good,0
+2410,14220,Inverell,1.0000000,Good,Good,0
+2411,13660,Gwydir,0.9111939,Acceptable,Good,0
+2411,15300,Moree Plains,0.0888061,Good,Good,0
+2415,15240,Mid-Coast,1.0000000,Good,Good,0
+2420,12700,Dungog,1.0000000,Acceptable,Good,0
+2421,12700,Dungog,0.9771724,Acceptable,Good,0
+2421,15050,Maitland,0.0228276,Acceptable,Good,0
+2422,15240,Mid-Coast,1.0000000,Good,Good,0
+2423,15240,Mid-Coast,1.0000000,Good,Good,0
+2424,15240,Mid-Coast,1.0000000,Good,Good,0
+2425,15240,Mid-Coast,1.0000000,Good,Good,0
+2426,15240,Mid-Coast,1.0000000,Good,Good,0
+2427,15240,Mid-Coast,1.0000000,Good,Good,0
+2428,15240,Mid-Coast,1.0000000,Good,Good,0
+2429,15240,Mid-Coast,0.9526480,Good,Good,0
+2429,16380,Port Macquarie-Hastings,0.0473520,Good,Good,0
+2430,15240,Mid-Coast,1.0000000,Good,Good,0
+2431,14350,Kempsey,1.0000000,Good,Good,0
+2439,16380,Port Macquarie-Hastings,1.0000000,Good,Good,0
+2440,10180,Armidale,0.0026818,Good,Good,1
+2440,14350,Kempsey,0.9973182,Good,Good,0
+2441,14350,Kempsey,0.4588559,Good,Good,0
+2441,15700,Nambucca Valley,0.1933666,Good,Good,0
+2441,16380,Port Macquarie-Hastings,0.3477775,Good,Good,0
+2443,15240,Mid-Coast,0.1673100,Good,Good,0
+2443,16380,Port Macquarie-Hastings,0.8326900,Good,Good,0
+2444,16380,Port Macquarie-Hastings,1.0000000,Good,Good,0
+2445,16380,Port Macquarie-Hastings,1.0000000,Good,Good,0
+2446,16380,Port Macquarie-Hastings,1.0000000,Good,Good,0
+2447,15700,Nambucca Valley,1.0000000,Good,Good,0
+2448,10600,Bellingen,0.0033204,Good,Good,1
+2448,15700,Nambucca Valley,0.9966796,Good,Good,0
+2449,10600,Bellingen,0.0014243,Good,Good,1
+2449,15700,Nambucca Valley,0.9985757,Good,Good,0
+2450,11730,Clarence Valley,0.0223491,Good,Good,0
+2450,11800,Coffs Harbour,0.9776509,Good,Good,0
+2452,11800,Coffs Harbour,1.0000000,Good,Good,0
+2453,10180,Armidale,0.0543616,Good,Good,0
+2453,10600,Bellingen,0.7844044,Good,Good,0
+2453,11730,Clarence Valley,0.1612340,Good,Good,0
+2454,10600,Bellingen,0.9869948,Good,Good,0
+2454,11800,Coffs Harbour,0.0123716,Good,Good,0
+2454,15700,Nambucca Valley,0.0006336,Good,Good,1
+2455,10600,Bellingen,1.0000000,Good,Good,0
+2456,11730,Clarence Valley,0.0012805,Good,Good,1
+2456,11800,Coffs Harbour,0.9987195,Good,Good,0
+2460,11730,Clarence Valley,0.9999033,Good,Good,0
+2460,11800,Coffs Harbour,0.0000967,Good,Good,1
+2462,11730,Clarence Valley,1.0000000,Good,Good,0
+2463,11730,Clarence Valley,1.0000000,Good,Good,0
+2464,11730,Clarence Valley,1.0000000,Good,Good,0
+2465,11730,Clarence Valley,1.0000000,Good,Good,0
+2466,11730,Clarence Valley,1.0000000,Good,Good,0
+2469,14550,Kyogle,0.3316001,Acceptable,Good,0
+2469,17400,Tenterfield,0.1629586,Acceptable,Good,0
+2469,11730,Clarence Valley,0.3428176,Good,Good,0
+2469,16610,Richmond Valley,0.1626237,Good,Good,0
+2470,14550,Kyogle,0.0291886,Acceptable,Good,0
+2470,14850,Lismore,0.0010428,Good,Good,1
+2470,16610,Richmond Valley,0.9697685,Good,Good,0
+2471,14850,Lismore,0.1218398,Good,Good,0
+2471,16610,Richmond Valley,0.8781602,Good,Good,0
+2472,14850,Lismore,0.0792240,Good,Good,0
+2472,16610,Richmond Valley,0.9207760,Good,Good,0
+2473,16610,Richmond Valley,1.0000000,Good,Good,0
+2474,14550,Kyogle,1.0000000,Acceptable,Good,0
+2475,14550,Kyogle,0.1291253,Acceptable,Good,0
+2475,17400,Tenterfield,0.8708747,Acceptable,Good,0
+2476,14550,Kyogle,0.5736450,Acceptable,Good,0
+2476,17400,Tenterfield,0.4263550,Acceptable,Good,0
+2477,10250,Ballina,0.9930927,Good,Good,0
+2477,14850,Lismore,0.0069073,Good,Good,1
+2478,10250,Ballina,1.0000000,Good,Good,0
+2479,11350,Byron,0.7825165,Acceptable,Good,0
+2479,10250,Ballina,0.2174835,Good,Good,0
+2480,11350,Byron,0.0282082,Acceptable,Good,0
+2480,14550,Kyogle,0.0093477,Acceptable,Good,1
+2480,10250,Ballina,0.0028325,Good,Good,1
+2480,14850,Lismore,0.9515521,Good,Good,0
+2480,16610,Richmond Valley,0.0080595,Good,Good,1
+2481,11350,Byron,0.9976596,Acceptable,Good,0
+2481,10250,Ballina,0.0023404,Good,Good,1
+2482,11350,Byron,1.0000000,Acceptable,Good,0
+2483,11350,Byron,0.8349299,Acceptable,Good,0
+2483,17550,Tweed,0.1650701,Good,Good,0
+2484,17550,Tweed,1.0000000,Good,Good,0
+2485,17550,Tweed,1.0000000,Good,Good,0
+2486,17550,Tweed,1.0000000,Good,Good,0
+2487,17550,Tweed,1.0000000,Good,Good,0
+2488,17550,Tweed,1.0000000,Good,Good,0
+2489,17550,Tweed,1.0000000,Good,Good,0
+2490,17550,Tweed,1.0000000,Good,Good,0
+2500,18450,Wollongong,1.0000000,Good,Good,0
+2502,18450,Wollongong,1.0000000,Good,Good,0
+2505,18450,Wollongong,1.0000000,Good,Good,0
+2506,18450,Wollongong,1.0000000,Good,Good,0
+2508,18450,Wollongong,0.9981737,Good,Good,0
+2508,18400,Wollondilly,0.0018263,Poor,Good,1
+2515,18450,Wollongong,1.0000000,Good,Good,0
+2516,18450,Wollongong,1.0000000,Good,Good,0
+2517,18450,Wollongong,1.0000000,Good,Good,0
+2518,18450,Wollongong,1.0000000,Good,Good,0
+2519,18450,Wollongong,1.0000000,Good,Good,0
+2525,18450,Wollongong,1.0000000,Good,Good,0
+2526,18450,Wollongong,1.0000000,Good,Good,0
+2527,14400,Kiama,0.0023050,Good,Good,1
+2527,16900,Shellharbour,0.9976950,Good,Good,0
+2528,16900,Shellharbour,0.8890486,Good,Good,0
+2528,18450,Wollongong,0.1109514,Good,Good,0
+2529,16900,Shellharbour,1.0000000,Good,Good,0
+2530,18450,Wollongong,1.0000000,Good,Good,0
+2533,14400,Kiama,1.0000000,Good,Good,0
+2534,14400,Kiama,0.9990167,Good,Good,0
+2534,16950,Shoalhaven,0.0009833,Good,Good,1
+2535,16950,Shoalhaven,1.0000000,Good,Good,0
+2536,12750,Eurobodalla,0.9910100,Good,Good,0
+2536,16950,Shoalhaven,0.0089900,Good,Good,1
+2537,12750,Eurobodalla,1.0000000,Good,Good,0
+2538,16950,Shoalhaven,1.0000000,Good,Good,0
+2539,16950,Shoalhaven,1.0000000,Good,Good,0
+2540,16950,Shoalhaven,0.9951201,Good,Good,0
+2540,99399,Unincorp. Other Territories,0.0048799,Good,Good,1
+2541,16950,Shoalhaven,1.0000000,Good,Good,0
+2545,12750,Eurobodalla,1.0000000,Good,Good,0
+2546,10550,Bega Valley,0.2708533,Good,Good,0
+2546,12750,Eurobodalla,0.7291467,Good,Good,0
+2548,10550,Bega Valley,1.0000000,Good,Good,0
+2549,10550,Bega Valley,1.0000000,Good,Good,0
+2550,10550,Bega Valley,0.9999991,Good,Good,0
+2550,12750,Eurobodalla,0.0000009,Good,Good,1
+2551,10550,Bega Valley,1.0000000,Good,Good,0
+2555,14900,Liverpool,0.9382328,Good,Good,0
+2555,16350,Penrith,0.0617672,Good,Good,0
+2556,11450,Camden,0.2231595,Acceptable,Good,0
+2556,14900,Liverpool,0.7768405,Good,Good,0
+2557,11450,Camden,0.9148999,Acceptable,Good,0
+2557,14900,Liverpool,0.0851001,Good,Good,0
+2558,11500,Campbelltown (NSW),1.0000000,Good,Good,0
+2559,11500,Campbelltown (NSW),1.0000000,Good,Good,0
+2560,11500,Campbelltown (NSW),0.9608750,Good,Good,0
+2560,18400,Wollondilly,0.0391250,Poor,Good,0
+2563,11500,Campbelltown (NSW),1.0000000,Good,Good,0
+2564,11500,Campbelltown (NSW),1.0000000,Good,Good,0
+2565,11500,Campbelltown (NSW),0.9588726,Good,Good,0
+2565,14900,Liverpool,0.0411274,Good,Good,0
+2566,11450,Camden,0.0000265,Acceptable,Good,1
+2566,11500,Campbelltown (NSW),0.9999735,Good,Good,0
+2567,11450,Camden,1.0000000,Acceptable,Good,0
+2568,18400,Wollondilly,1.0000000,Poor,Good,0
+2569,18400,Wollondilly,1.0000000,Poor,Good,0
+2570,11450,Camden,0.8069295,Acceptable,Good,0
+2570,18400,Wollondilly,0.1930705,Poor,Good,0
+2571,18350,Wingecarribee,0.0443900,Good,Good,0
+2571,18400,Wollondilly,0.9556100,Poor,Good,0
+2572,18400,Wollondilly,1.0000000,Poor,Good,0
+2573,18400,Wollondilly,1.0000000,Poor,Good,0
+2574,18400,Wollondilly,1.0000000,Poor,Good,0
+2575,18350,Wingecarribee,1.0000000,Good,Good,0
+2576,18350,Wingecarribee,1.0000000,Good,Good,0
+2577,14400,Kiama,0.0042423,Good,Good,1
+2577,16950,Shoalhaven,0.0855949,Good,Good,0
+2577,18350,Wingecarribee,0.9101628,Good,Good,0
+2578,18350,Wingecarribee,1.0000000,Good,Good,0
+2579,17640,Upper Lachlan,0.0339854,Acceptable,Good,0
+2579,13310,Goulburn Mulwaree,0.5299399,Good,Good,0
+2579,18350,Wingecarribee,0.4360746,Good,Good,0
+2580,16100,Oberon,0.0009294,Acceptable,Good,1
+2580,17640,Upper Lachlan,0.0466497,Acceptable,Good,0
+2580,13310,Goulburn Mulwaree,0.9358068,Good,Good,0
+2580,16490,Queanbeyan-Palerang,0.0164718,Good,Good,0
+2580,18350,Wingecarribee,0.0001422,Good,Good,1
+2581,17640,Upper Lachlan,0.8788829,Acceptable,Good,0
+2581,18710,Yass Valley,0.0563090,Acceptable,Good,0
+2581,13310,Goulburn Mulwaree,0.0122530,Good,Good,0
+2581,16490,Queanbeyan-Palerang,0.0525551,Good,Good,0
+2582,17640,Upper Lachlan,0.0076688,Acceptable,Good,1
+2582,18710,Yass Valley,0.9856807,Acceptable,Good,0
+2582,13910,Hilltops,0.0066505,Good,Good,1
+2583,17640,Upper Lachlan,0.9819084,Acceptable,Good,0
+2583,13910,Hilltops,0.0180916,Good,Good,0
+2584,18710,Yass Valley,1.0000000,Acceptable,Good,0
+2585,13910,Hilltops,1.0000000,Good,Good,0
+2586,13910,Hilltops,1.0000000,Good,Good,0
+2587,13910,Hilltops,1.0000000,Good,Good,0
+2588,12160,Cootamundra-Gundagai,1.0000000,Good,Good,0
+2590,14300,Junee,0.0382916,Acceptable,Good,0
+2590,12160,Cootamundra-Gundagai,0.9617084,Good,Good,0
+2594,12160,Cootamundra-Gundagai,0.0032557,Good,Good,1
+2594,13910,Hilltops,0.9949075,Good,Good,0
+2594,18100,Weddin,0.0018369,Good,Good,1
+2600,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2601,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2602,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2603,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2604,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2605,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2606,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2607,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2609,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2611,18710,Yass Valley,0.0007717,Acceptable,Good,1
+2611,17080,Snowy Valleys,0.0006610,Good,Good,1
+2611,89399,Unincorporated ACT,0.9985674,Good,Good,0
+2612,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2614,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2615,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2617,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2618,18710,Yass Valley,0.7771603,Acceptable,Good,0
+2618,89399,Unincorporated ACT,0.2228397,Good,Good,0
+2619,16490,Queanbeyan-Palerang,1.0000000,Good,Good,0
+2620,18710,Yass Valley,0.0430131,Acceptable,Good,0
+2620,16490,Queanbeyan-Palerang,0.9197919,Good,Good,0
+2620,17040,Snowy Monaro,0.0185313,Good,Good,0
+2620,89399,Unincorporated ACT,0.0186638,Good,Good,0
+2621,18710,Yass Valley,0.0113625,Acceptable,Good,0
+2621,16490,Queanbeyan-Palerang,0.9786189,Good,Good,0
+2621,17040,Snowy Monaro,0.0100186,Good,Good,0
+2622,12750,Eurobodalla,0.0039846,Good,Good,1
+2622,13310,Goulburn Mulwaree,0.0205857,Good,Good,0
+2622,16490,Queanbeyan-Palerang,0.9581066,Good,Good,0
+2622,16950,Shoalhaven,0.0081950,Good,Good,1
+2622,17040,Snowy Monaro,0.0091281,Good,Good,1
+2623,16490,Queanbeyan-Palerang,1.0000000,Good,Good,0
+2624,17040,Snowy Monaro,1.0000000,Good,Good,0
+2625,17040,Snowy Monaro,1.0000000,Good,Good,0
+2626,17040,Snowy Monaro,1.0000000,Good,Good,0
+2627,17040,Snowy Monaro,1.0000000,Good,Good,0
+2628,17040,Snowy Monaro,1.0000000,Good,Good,0
+2629,17040,Snowy Monaro,0.9708330,Good,Good,0
+2629,17080,Snowy Valleys,0.0291670,Good,Good,0
+2630,17040,Snowy Monaro,1.0000000,Good,Good,0
+2631,17040,Snowy Monaro,1.0000000,Good,Good,0
+2632,10550,Bega Valley,0.0132734,Good,Good,0
+2632,17040,Snowy Monaro,0.9867266,Good,Good,0
+2633,17040,Snowy Monaro,1.0000000,Good,Good,0
+2640,13340,Greater Hume,0.0090743,Acceptable,Good,1
+2640,10050,Albury,0.9900687,Good,Good,0
+2640,17080,Snowy Valleys,0.0008570,Good,Good,1
+2641,10050,Albury,1.0000000,Good,Good,0
+2642,13340,Greater Hume,0.8064935,Acceptable,Good,0
+2642,14950,Lockhart,0.0723092,Acceptable,Good,0
+2642,12870,Federation,0.0252658,Good,Good,0
+2642,17080,Snowy Valleys,0.0959315,Good,Good,0
+2643,12870,Federation,1.0000000,Good,Good,0
+2644,13340,Greater Hume,1.0000000,Acceptable,Good,0
+2645,14950,Lockhart,0.0310676,Acceptable,Good,0
+2645,12870,Federation,0.9689324,Good,Good,0
+2646,10650,Berrigan,0.0029406,Acceptable,Good,1
+2646,13340,Greater Hume,0.0173335,Acceptable,Good,0
+2646,12870,Federation,0.9764932,Good,Good,0
+2646,15560,Murrumbidgee,0.0032327,Good,Good,1
+2647,10650,Berrigan,0.0027432,Acceptable,Good,1
+2647,12870,Federation,0.9972568,Good,Good,0
+2648,18200,Wentworth,0.9962321,Good,Good,0
+2648,19399,Unincorporated NSW,0.0037679,Poor,Good,1
+2649,17080,Snowy Valleys,1.0000000,Good,Good,0
+2650,13340,Greater Hume,0.0023928,Acceptable,Good,1
+2650,14300,Junee,0.0073081,Acceptable,Good,1
+2650,15800,Narrandera,0.0001793,Acceptable,Good,1
+2650,17750,Wagga Wagga,0.9901198,Good,Good,0
+2651,17750,Wagga Wagga,1.0000000,Good,Good,0
+2652,12000,Coolamon,0.1202090,Acceptable,Good,0
+2652,13340,Greater Hume,0.0031556,Acceptable,Good,1
+2652,14300,Junee,0.0548448,Acceptable,Good,0
+2652,14950,Lockhart,0.0090361,Acceptable,Good,1
+2652,15800,Narrandera,0.0699905,Acceptable,Good,0
+2652,12870,Federation,0.0271188,Good,Good,0
+2652,13450,Griffith,0.0000021,Good,Good,1
+2652,17080,Snowy Valleys,0.0437057,Good,Good,0
+2652,17750,Wagga Wagga,0.5330258,Good,Good,0
+2652,11600,Carrathool,0.1389115,Poor,Good,0
+2653,17080,Snowy Valleys,1.0000000,Good,Good,0
+2655,14950,Lockhart,0.9640810,Acceptable,Good,0
+2655,17750,Wagga Wagga,0.0359190,Good,Good,0
+2656,14950,Lockhart,0.9124200,Acceptable,Good,0
+2656,17750,Wagga Wagga,0.0875800,Good,Good,0
+2658,13340,Greater Hume,0.8069719,Acceptable,Good,0
+2658,14950,Lockhart,0.1930281,Acceptable,Good,0
+2659,13340,Greater Hume,0.9906879,Acceptable,Good,0
+2659,14950,Lockhart,0.0093121,Acceptable,Good,1
+2660,13340,Greater Hume,1.0000000,Acceptable,Good,0
+2661,17750,Wagga Wagga,1.0000000,Good,Good,0
+2663,14300,Junee,1.0000000,Acceptable,Good,0
+2665,10800,Bland,0.1151228,Acceptable,Good,0
+2665,12000,Coolamon,0.2897979,Acceptable,Good,0
+2665,15800,Narrandera,0.2893142,Acceptable,Good,0
+2665,17350,Temora,0.2748430,Acceptable,Good,0
+2665,11600,Carrathool,0.0309221,Poor,Good,0
+2666,10800,Bland,0.0005386,Acceptable,Good,1
+2666,12000,Coolamon,0.0003102,Acceptable,Good,1
+2666,14300,Junee,0.0306090,Acceptable,Good,0
+2666,17350,Temora,0.9654982,Acceptable,Good,0
+2666,13910,Hilltops,0.0030439,Good,Good,1
+2668,10800,Bland,0.9283350,Acceptable,Good,0
+2668,17350,Temora,0.0716650,Acceptable,Good,0
+2669,10800,Bland,0.6327002,Acceptable,Good,0
+2669,14600,Lachlan,0.2193672,Acceptable,Good,0
+2669,11600,Carrathool,0.1479325,Poor,Good,0
+2671,10800,Bland,0.9790685,Acceptable,Good,0
+2671,14600,Lachlan,0.0209315,Acceptable,Good,0
+2672,14600,Lachlan,1.0000000,Acceptable,Good,0
+2675,11600,Carrathool,1.0000000,Poor,Good,0
+2678,17750,Wagga Wagga,1.0000000,Good,Good,0
+2680,13450,Griffith,0.9986944,Good,Good,0
+2680,11600,Carrathool,0.0013056,Poor,Good,1
+2681,13450,Griffith,0.9787037,Good,Good,0
+2681,11600,Carrathool,0.0212963,Poor,Good,0
+2700,15800,Narrandera,0.9717548,Acceptable,Good,0
+2700,12870,Federation,0.0144408,Good,Good,0
+2700,14750,Leeton,0.0138044,Good,Good,0
+2701,12000,Coolamon,1.0000000,Acceptable,Good,0
+2702,12000,Coolamon,0.9320036,Acceptable,Good,0
+2702,17750,Wagga Wagga,0.0679964,Good,Good,0
+2703,14750,Leeton,1.0000000,Good,Good,0
+2705,15800,Narrandera,0.0014994,Acceptable,Good,1
+2705,13450,Griffith,0.0017792,Good,Good,1
+2705,14750,Leeton,0.9967214,Good,Good,0
+2706,15560,Murrumbidgee,1.0000000,Good,Good,0
+2707,15560,Murrumbidgee,1.0000000,Good,Good,0
+2710,12730,Edward River,0.8327034,Acceptable,Good,0
+2710,15520,Murray River,0.1639899,Acceptable,Good,0
+2710,13850,Hay,0.0006206,Good,Good,1
+2710,15560,Murrumbidgee,0.0026860,Good,Good,1
+2711,15520,Murray River,0.0056331,Acceptable,Good,1
+2711,10300,Balranald,0.0190769,Good,Good,0
+2711,13850,Hay,0.9037032,Good,Good,0
+2711,15560,Murrumbidgee,0.0112662,Good,Good,0
+2711,11600,Carrathool,0.0603206,Poor,Good,0
+2712,10650,Berrigan,0.9934434,Acceptable,Good,0
+2712,15560,Murrumbidgee,0.0065566,Good,Good,1
+2713,10650,Berrigan,0.8834598,Acceptable,Good,0
+2713,12730,Edward River,0.0929389,Acceptable,Good,0
+2713,15560,Murrumbidgee,0.0236013,Good,Good,0
+2714,10650,Berrigan,0.9790648,Acceptable,Good,0
+2714,12730,Edward River,0.0195596,Acceptable,Good,0
+2714,15520,Murray River,0.0013756,Acceptable,Good,1
+2715,15520,Murray River,0.0395091,Acceptable,Good,0
+2715,10300,Balranald,0.9458487,Good,Good,0
+2715,18200,Wentworth,0.0146422,Good,Good,0
+2716,12730,Edward River,0.0000101,Acceptable,Good,1
+2716,15560,Murrumbidgee,0.9999899,Good,Good,0
+2717,18200,Wentworth,1.0000000,Good,Good,0
+2720,17080,Snowy Valleys,1.0000000,Good,Good,0
+2721,10800,Bland,0.3282586,Acceptable,Good,0
+2721,18100,Weddin,0.6717414,Good,Good,0
+2722,12160,Cootamundra-Gundagai,0.9472627,Good,Good,0
+2722,17080,Snowy Valleys,0.0527373,Good,Good,0
+2725,17350,Temora,0.0427514,Acceptable,Good,0
+2725,12160,Cootamundra-Gundagai,0.9572486,Good,Good,0
+2726,13910,Hilltops,1.0000000,Good,Good,0
+2727,12160,Cootamundra-Gundagai,1.0000000,Good,Good,0
+2729,12160,Cootamundra-Gundagai,0.1673753,Good,Good,0
+2729,17080,Snowy Valleys,0.8326247,Good,Good,0
+2730,17080,Snowy Valleys,1.0000000,Good,Good,0
+2731,15520,Murray River,1.0000000,Acceptable,Good,0
+2732,15520,Murray River,1.0000000,Acceptable,Good,0
+2733,12730,Edward River,0.0607277,Acceptable,Good,0
+2733,15520,Murray River,0.9392723,Acceptable,Good,0
+2734,15520,Murray River,1.0000000,Acceptable,Good,0
+2735,15520,Murray River,1.0000000,Acceptable,Good,0
+2736,15520,Murray River,1.0000000,Acceptable,Good,0
+2737,10300,Balranald,0.9855498,Good,Good,0
+2737,18200,Wentworth,0.0144502,Good,Good,0
+2738,18200,Wentworth,1.0000000,Good,Good,0
+2739,18200,Wentworth,1.0000000,Good,Good,0
+2745,14900,Liverpool,0.0360264,Good,Good,0
+2745,16350,Penrith,0.9553365,Good,Good,0
+2745,18400,Wollondilly,0.0086371,Poor,Good,1
+2747,10750,Blacktown,0.0070702,Good,Good,1
+2747,16350,Penrith,0.9929298,Good,Good,0
+2748,16350,Penrith,1.0000000,Good,Good,0
+2749,16350,Penrith,1.0000000,Good,Good,0
+2750,16350,Penrith,1.0000000,Good,Good,0
+2752,14900,Liverpool,0.0026157,Good,Good,1
+2752,18400,Wollondilly,0.9973843,Poor,Good,0
+2753,13800,Hawkesbury,0.7434742,Acceptable,Good,0
+2753,16350,Penrith,0.2565258,Good,Good,0
+2754,13800,Hawkesbury,1.0000000,Acceptable,Good,0
+2756,13800,Hawkesbury,0.9300167,Acceptable,Good,0
+2756,14000,Hornsby,0.0031707,Acceptable,Good,1
+2756,17420,The Hills,0.0668126,Acceptable,Good,0
+2757,13800,Hawkesbury,1.0000000,Acceptable,Good,0
+2758,13800,Hawkesbury,0.9912254,Acceptable,Good,0
+2758,10900,Blue Mountains,0.0087746,Good,Good,1
+2759,16350,Penrith,1.0000000,Good,Good,0
+2760,10750,Blacktown,0.1935203,Good,Good,0
+2760,16350,Penrith,0.8064797,Good,Good,0
+2761,10750,Blacktown,1.0000000,Good,Good,0
+2762,10750,Blacktown,1.0000000,Good,Good,0
+2763,10750,Blacktown,1.0000000,Good,Good,0
+2765,13800,Hawkesbury,0.0853348,Acceptable,Good,0
+2765,17420,The Hills,0.2388614,Acceptable,Good,0
+2765,10750,Blacktown,0.6442056,Good,Good,0
+2765,16350,Penrith,0.0315982,Good,Good,0
+2766,10750,Blacktown,1.0000000,Good,Good,0
+2767,10750,Blacktown,1.0000000,Good,Good,0
+2768,10750,Blacktown,1.0000000,Good,Good,0
+2769,10750,Blacktown,1.0000000,Good,Good,0
+2770,10750,Blacktown,1.0000000,Good,Good,0
+2773,10900,Blue Mountains,1.0000000,Good,Good,0
+2774,10900,Blue Mountains,1.0000000,Good,Good,0
+2775,13800,Hawkesbury,0.4664279,Acceptable,Good,0
+2775,14000,Hornsby,0.1281617,Acceptable,Good,0
+2775,17420,The Hills,0.0733305,Acceptable,Good,0
+2775,11650,Central Coast (NSW),0.3320799,Good,Good,0
+2776,10900,Blue Mountains,1.0000000,Good,Good,0
+2777,10900,Blue Mountains,1.0000000,Good,Good,0
+2778,10900,Blue Mountains,1.0000000,Good,Good,0
+2779,10900,Blue Mountains,1.0000000,Good,Good,0
+2780,10900,Blue Mountains,1.0000000,Good,Good,0
+2782,10900,Blue Mountains,1.0000000,Good,Good,0
+2783,10900,Blue Mountains,1.0000000,Good,Good,0
+2784,10900,Blue Mountains,1.0000000,Good,Good,0
+2785,10900,Blue Mountains,0.9892433,Good,Good,0
+2785,14870,Lithgow,0.0107567,Good,Good,0
+2786,10900,Blue Mountains,0.9263662,Good,Good,0
+2786,14870,Lithgow,0.0736338,Good,Good,0
+2787,16100,Oberon,0.9772797,Acceptable,Good,0
+2787,10470,Bathurst,0.0022852,Good,Good,1
+2787,14870,Lithgow,0.0197810,Good,Good,0
+2787,18400,Wollondilly,0.0006541,Poor,Good,1
+2790,16100,Oberon,0.0023874,Acceptable,Good,1
+2790,14870,Lithgow,0.9976126,Good,Good,0
+2791,10850,Blayney,1.0000000,Acceptable,Good,0
+2792,10850,Blayney,0.9532339,Acceptable,Good,0
+2792,12350,Cowra,0.0467661,Good,Good,0
+2793,12350,Cowra,1.0000000,Good,Good,0
+2794,12350,Cowra,0.9869644,Good,Good,0
+2794,13910,Hilltops,0.0039026,Good,Good,1
+2794,18100,Weddin,0.0091330,Good,Good,1
+2795,10850,Blayney,0.0077508,Acceptable,Good,1
+2795,16100,Oberon,0.0227418,Acceptable,Good,0
+2795,10470,Bathurst,0.9620206,Good,Good,0
+2795,14870,Lithgow,0.0058191,Good,Good,1
+2795,15270,Mid-Western,0.0013950,Good,Good,1
+2795,11400,Cabonne,0.0002727,Poor,Good,1
+2797,10850,Blayney,0.9907811,Acceptable,Good,0
+2797,12350,Cowra,0.0092189,Good,Good,1
+2798,10850,Blayney,0.8597916,Acceptable,Good,0
+2798,16150,Orange,0.0490351,Acceptable,Good,0
+2798,11400,Cabonne,0.0911733,Poor,Good,0
+2799,10850,Blayney,0.9747343,Acceptable,Good,0
+2799,10470,Bathurst,0.0134733,Good,Good,0
+2799,12350,Cowra,0.0038522,Good,Good,1
+2799,11400,Cabonne,0.0079402,Poor,Good,1
+2800,10850,Blayney,0.0017165,Acceptable,Good,1
+2800,16150,Orange,0.8986932,Acceptable,Good,0
+2800,12390,Dubbo,0.0006412,Good,Good,1
+2800,11400,Cabonne,0.0989491,Poor,Good,0
+2803,13910,Hilltops,1.0000000,Good,Good,0
+2804,12350,Cowra,0.2069384,Good,Good,0
+2804,11400,Cabonne,0.7930616,Poor,Good,0
+2805,12350,Cowra,0.8995124,Good,Good,0
+2805,11400,Cabonne,0.1004876,Poor,Good,0
+2806,12900,Forbes,0.1339745,Good,Good,0
+2806,11400,Cabonne,0.8660255,Poor,Good,0
+2807,12350,Cowra,0.2657721,Good,Good,0
+2807,13910,Hilltops,0.7342279,Good,Good,0
+2808,12350,Cowra,0.7886980,Good,Good,0
+2808,13910,Hilltops,0.2113020,Good,Good,0
+2809,18100,Weddin,1.0000000,Good,Good,0
+2810,12900,Forbes,0.0005501,Good,Good,1
+2810,18100,Weddin,0.9994499,Good,Good,0
+2817,12950,Gilgandra,1.0000000,Acceptable,Good,0
+2818,12390,Dubbo,1.0000000,Good,Good,0
+2820,12390,Dubbo,1.0000000,Good,Good,0
+2821,15850,Narromine,1.0000000,Good,Good,0
+2822,12950,Gilgandra,0.2601124,Acceptable,Good,0
+2822,12390,Dubbo,0.7398876,Good,Good,0
+2823,17950,Warren,0.0724137,Acceptable,Good,0
+2823,15850,Narromine,0.9275863,Good,Good,0
+2824,17950,Warren,1.0000000,Acceptable,Good,0
+2825,10950,Bogan,0.9826034,Acceptable,Good,0
+2825,17950,Warren,0.0173966,Acceptable,Good,0
+2826,17950,Warren,1.0000000,Acceptable,Good,0
+2827,12950,Gilgandra,0.9720446,Acceptable,Good,0
+2827,17950,Warren,0.0279554,Acceptable,Good,0
+2828,12950,Gilgandra,0.2125385,Acceptable,Good,0
+2828,12150,Coonamble,0.7874615,Good,Good,0
+2829,12150,Coonamble,1.0000000,Good,Good,0
+2830,12950,Gilgandra,0.0010955,Acceptable,Good,1
+2830,12390,Dubbo,0.9988195,Good,Good,0
+2830,18020,Warrumbungle,0.0000850,Good,Good,1
+2831,10950,Bogan,0.1320401,Acceptable,Good,0
+2831,17950,Warren,0.0392357,Acceptable,Good,0
+2831,11150,Bourke,0.0143225,Good,Good,0
+2831,11200,Brewarrina,0.0111420,Good,Good,0
+2831,11750,Cobar,0.0530387,Good,Good,0
+2831,12150,Coonamble,0.0736274,Good,Good,0
+2831,12390,Dubbo,0.5069070,Good,Good,0
+2831,17900,Walgett,0.0747556,Good,Good,0
+2831,18020,Warrumbungle,0.0949311,Good,Good,0
+2832,17900,Walgett,1.0000000,Good,Good,0
+2833,15300,Moree Plains,0.0662648,Good,Good,0
+2833,17900,Walgett,0.9337352,Good,Good,0
+2834,11200,Brewarrina,0.0122463,Good,Good,0
+2834,17900,Walgett,0.9877537,Good,Good,0
+2835,10950,Bogan,0.0026426,Acceptable,Good,1
+2835,11750,Cobar,0.9973574,Good,Good,0
+2836,11700,Central Darling,0.9644440,Good,Good,0
+2836,19399,Unincorporated NSW,0.0355560,Poor,Good,0
+2838,11200,Brewarrina,1.0000000,Good,Good,0
+2839,11200,Brewarrina,1.0000000,Good,Good,0
+2840,11150,Bourke,0.9705838,Good,Good,0
+2840,11200,Brewarrina,0.0016837,Good,Good,1
+2840,11700,Central Darling,0.0138600,Good,Good,0
+2840,11750,Cobar,0.0075661,Good,Good,1
+2840,19399,Unincorporated NSW,0.0063065,Poor,Good,1
+2842,12950,Gilgandra,0.1557066,Acceptable,Good,0
+2842,18020,Warrumbungle,0.8442934,Good,Good,0
+2843,18020,Warrumbungle,1.0000000,Good,Good,0
+2844,15270,Mid-Western,0.0379623,Good,Good,0
+2844,18020,Warrumbungle,0.9620377,Good,Good,0
+2845,14870,Lithgow,1.0000000,Good,Good,0
+2846,14870,Lithgow,0.9778496,Good,Good,0
+2846,15270,Mid-Western,0.0221504,Good,Good,0
+2847,14870,Lithgow,1.0000000,Good,Good,0
+2848,15270,Mid-Western,1.0000000,Good,Good,0
+2849,14870,Lithgow,0.1372511,Good,Good,0
+2849,15270,Mid-Western,0.8627489,Good,Good,0
+2850,10470,Bathurst,0.0066208,Good,Good,1
+2850,12390,Dubbo,0.0002642,Good,Good,1
+2850,14870,Lithgow,0.0000005,Good,Good,1
+2850,15270,Mid-Western,0.9915373,Good,Good,0
+2850,17620,Upper Hunter,0.0015772,Good,Good,1
+2852,12390,Dubbo,0.0037268,Good,Good,1
+2852,15270,Mid-Western,0.9951801,Good,Good,0
+2852,18020,Warrumbungle,0.0010931,Good,Good,1
+2864,11400,Cabonne,1.0000000,Poor,Good,0
+2865,11400,Cabonne,1.0000000,Poor,Good,0
+2866,12390,Dubbo,0.0695958,Good,Good,0
+2866,11400,Cabonne,0.9304042,Poor,Good,0
+2867,12390,Dubbo,0.0365737,Good,Good,0
+2867,11400,Cabonne,0.9634263,Poor,Good,0
+2868,12390,Dubbo,0.2708599,Good,Good,0
+2868,11400,Cabonne,0.7291401,Poor,Good,0
+2869,15850,Narromine,0.2273000,Good,Good,0
+2869,16200,Parkes,0.7727000,Good,Good,0
+2870,12900,Forbes,0.0091756,Good,Good,1
+2870,16200,Parkes,0.9868350,Good,Good,0
+2870,11400,Cabonne,0.0039895,Poor,Good,1
+2871,14600,Lachlan,0.0069852,Acceptable,Good,1
+2871,12900,Forbes,0.9914622,Good,Good,0
+2871,18100,Weddin,0.0015526,Good,Good,1
+2873,10950,Bogan,0.0473734,Acceptable,Good,0
+2873,14600,Lachlan,0.9526266,Acceptable,Good,0
+2874,14600,Lachlan,0.1594520,Acceptable,Good,0
+2874,16200,Parkes,0.8405480,Good,Good,0
+2875,14600,Lachlan,0.1668879,Acceptable,Good,0
+2875,12900,Forbes,0.0657491,Good,Good,0
+2875,16200,Parkes,0.7673631,Good,Good,0
+2876,12900,Forbes,0.1174568,Good,Good,0
+2876,16200,Parkes,0.8825432,Good,Good,0
+2877,10950,Bogan,0.0066708,Acceptable,Good,1
+2877,14600,Lachlan,0.9382990,Acceptable,Good,0
+2877,11750,Cobar,0.0497508,Good,Good,0
+2877,12900,Forbes,0.0052795,Good,Good,1
+2878,10300,Balranald,0.0902814,Good,Good,0
+2878,11700,Central Darling,0.8715173,Good,Good,0
+2878,11600,Carrathool,0.0382013,Poor,Good,0
+2879,11700,Central Darling,0.9999652,Good,Good,0
+2879,19399,Unincorporated NSW,0.0000348,Poor,Good,1
+2880,11250,Broken Hill,0.9729950,Good,Good,0
+2880,19399,Unincorporated NSW,0.0270050,Poor,Good,0
+2898,19399,Unincorporated NSW,1.0000000,Poor,Good,0
+2899,99399,Unincorp. Other Territories,1.0000000,Good,Good,0
+2900,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2902,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2903,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2904,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2905,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2906,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2911,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2912,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2913,89399,Unincorporated ACT,1.0000000,Good,Good,0
+2914,89399,Unincorporated ACT,1.0000000,Good,Good,0
+3000,24600,Melbourne,1.0000000,Good,Good,0
+3002,24600,Melbourne,1.0000000,Good,Good,0
+3003,24600,Melbourne,1.0000000,Good,Good,0
+3004,24600,Melbourne,0.2066386,Good,Good,0
+3004,25900,Port Phillip,0.7933614,Good,Good,0
+3006,24600,Melbourne,0.9938717,Good,Good,0
+3006,25900,Port Phillip,0.0061283,Good,Good,1
+3008,24600,Melbourne,1.0000000,Good,Good,0
+3011,24330,Maribyrnong,1.0000000,Acceptable,Good,0
+3012,21180,Brimbank,0.0000004,Acceptable,Good,1
+3012,24330,Maribyrnong,0.9265741,Acceptable,Good,0
+3012,23110,Hobsons Bay,0.0734256,Good,Good,0
+3013,24330,Maribyrnong,1.0000000,Acceptable,Good,0
+3015,23110,Hobsons Bay,1.0000000,Good,Good,0
+3016,23110,Hobsons Bay,1.0000000,Good,Good,0
+3018,23110,Hobsons Bay,1.0000000,Good,Good,0
+3019,24330,Maribyrnong,1.0000000,Acceptable,Good,0
+3020,21180,Brimbank,1.0000000,Acceptable,Good,0
+3021,21180,Brimbank,1.0000000,Acceptable,Good,0
+3022,21180,Brimbank,1.0000000,Acceptable,Good,0
+3023,21180,Brimbank,0.4200290,Acceptable,Good,0
+3023,24650,Melton,0.5799710,Acceptable,Good,0
+3024,24650,Melton,0.0064842,Acceptable,Good,1
+3024,27260,Wyndham,0.9935158,Good,Good,0
+3025,23110,Hobsons Bay,1.0000000,Good,Good,0
+3026,21180,Brimbank,0.9866556,Acceptable,Good,0
+3026,27260,Wyndham,0.0133444,Good,Good,0
+3027,27260,Wyndham,1.0000000,Good,Good,0
+3028,23110,Hobsons Bay,1.0000000,Good,Good,0
+3029,24650,Melton,0.0090148,Acceptable,Good,1
+3029,27260,Wyndham,0.9909852,Good,Good,0
+3030,27260,Wyndham,1.0000000,Good,Good,0
+3031,25060,Moonee Valley,0.3908273,Acceptable,Good,0
+3031,24600,Melbourne,0.6091727,Good,Good,0
+3032,24330,Maribyrnong,0.4215721,Acceptable,Good,0
+3032,25060,Moonee Valley,0.5784279,Acceptable,Good,0
+3033,21180,Brimbank,0.0008901,Acceptable,Good,1
+3033,25060,Moonee Valley,0.9991099,Acceptable,Good,0
+3034,25060,Moonee Valley,1.0000000,Acceptable,Good,0
+3036,21180,Brimbank,0.9896087,Acceptable,Good,0
+3036,23270,Hume,0.0103913,Good,Good,0
+3037,21180,Brimbank,0.3830733,Acceptable,Good,0
+3037,24650,Melton,0.6169267,Acceptable,Good,0
+3038,21180,Brimbank,1.0000000,Acceptable,Good,0
+3039,25060,Moonee Valley,1.0000000,Acceptable,Good,0
+3040,25060,Moonee Valley,1.0000000,Acceptable,Good,0
+3041,25060,Moonee Valley,1.0000000,Acceptable,Good,0
+3042,21180,Brimbank,0.1611830,Acceptable,Good,0
+3042,25060,Moonee Valley,0.8388170,Acceptable,Good,0
+3043,21180,Brimbank,0.0000006,Acceptable,Good,1
+3043,23270,Hume,0.8255231,Good,Good,0
+3043,24700,Merri-bek,0.1744764,Good,Good,0
+3044,24700,Merri-bek,1.0000000,Good,Good,0
+3045,23270,Hume,1.0000000,Good,Good,0
+3046,24700,Merri-bek,1.0000000,Good,Good,0
+3047,23270,Hume,1.0000000,Good,Good,0
+3048,23270,Hume,1.0000000,Good,Good,0
+3049,23270,Hume,1.0000000,Good,Good,0
+3051,24600,Melbourne,1.0000000,Good,Good,0
+3052,24600,Melbourne,1.0000000,Good,Good,0
+3053,24600,Melbourne,1.0000000,Good,Good,0
+3054,27350,Yarra,1.0000000,Good,Good,0
+3055,24700,Merri-bek,1.0000000,Good,Good,0
+3056,24700,Merri-bek,1.0000000,Good,Good,0
+3057,24700,Merri-bek,1.0000000,Good,Good,0
+3058,21890,Darebin,0.0104409,Good,Good,0
+3058,24700,Merri-bek,0.9895591,Good,Good,0
+3059,23270,Hume,1.0000000,Good,Good,0
+3060,23270,Hume,0.0189790,Good,Good,0
+3060,24700,Merri-bek,0.9810210,Good,Good,0
+3061,23270,Hume,1.0000000,Good,Good,0
+3062,23270,Hume,1.0000000,Good,Good,0
+3063,23270,Hume,1.0000000,Good,Good,0
+3064,23270,Hume,0.9816431,Good,Good,0
+3064,27070,Whittlesea,0.0183569,Good,Good,0
+3065,27350,Yarra,1.0000000,Good,Good,0
+3066,27350,Yarra,1.0000000,Good,Good,0
+3067,27350,Yarra,1.0000000,Good,Good,0
+3068,24700,Merri-bek,0.0500549,Good,Good,0
+3068,27350,Yarra,0.9499451,Good,Good,0
+3070,21890,Darebin,1.0000000,Good,Good,0
+3071,21890,Darebin,1.0000000,Good,Good,0
+3072,21890,Darebin,1.0000000,Good,Good,0
+3073,21890,Darebin,1.0000000,Good,Good,0
+3074,27070,Whittlesea,1.0000000,Good,Good,0
+3075,27070,Whittlesea,1.0000000,Good,Good,0
+3076,27070,Whittlesea,1.0000000,Good,Good,0
+3078,21890,Darebin,0.7417210,Good,Good,0
+3078,27350,Yarra,0.2582790,Good,Good,0
+3079,20660,Banyule,1.0000000,Acceptable,Good,0
+3081,20660,Banyule,1.0000000,Acceptable,Good,0
+3082,27070,Whittlesea,1.0000000,Good,Good,0
+3083,20660,Banyule,0.3160634,Acceptable,Good,0
+3083,21890,Darebin,0.2548518,Good,Good,0
+3083,27070,Whittlesea,0.4290849,Good,Good,0
+3084,20660,Banyule,1.0000000,Acceptable,Good,0
+3085,20660,Banyule,0.8300353,Acceptable,Good,0
+3085,21890,Darebin,0.1699647,Good,Good,0
+3087,20660,Banyule,1.0000000,Acceptable,Good,0
+3088,20660,Banyule,0.8059061,Acceptable,Good,0
+3088,25710,Nillumbik,0.1940939,Acceptable,Good,0
+3089,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3090,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3091,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3093,20660,Banyule,1.0000000,Acceptable,Good,0
+3094,20660,Banyule,1.0000000,Acceptable,Good,0
+3095,20660,Banyule,0.0852712,Acceptable,Good,0
+3095,25710,Nillumbik,0.9147288,Acceptable,Good,0
+3096,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3097,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3099,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3101,21110,Boroondara,1.0000000,Good,Good,0
+3102,21110,Boroondara,1.0000000,Good,Good,0
+3103,21110,Boroondara,1.0000000,Good,Good,0
+3104,21110,Boroondara,0.9904980,Good,Good,0
+3104,26980,Whitehorse,0.0095020,Good,Good,1
+3105,24210,Manningham,1.0000000,Good,Good,0
+3106,24210,Manningham,1.0000000,Good,Good,0
+3107,24210,Manningham,1.0000000,Good,Good,0
+3108,24210,Manningham,1.0000000,Good,Good,0
+3109,24210,Manningham,1.0000000,Good,Good,0
+3111,24210,Manningham,1.0000000,Good,Good,0
+3113,25710,Nillumbik,0.3550229,Acceptable,Good,0
+3113,24210,Manningham,0.6449771,Good,Good,0
+3114,24210,Manningham,0.9840850,Good,Good,0
+3114,24410,Maroondah,0.0159150,Good,Good,0
+3115,24210,Manningham,0.8198276,Good,Good,0
+3115,24410,Maroondah,0.0803120,Good,Good,0
+3115,27450,Yarra Ranges,0.0998604,Good,Good,0
+3116,27450,Yarra Ranges,1.0000000,Good,Good,0
+3121,27350,Yarra,1.0000000,Good,Good,0
+3122,21110,Boroondara,1.0000000,Good,Good,0
+3123,21110,Boroondara,1.0000000,Good,Good,0
+3124,21110,Boroondara,1.0000000,Good,Good,0
+3125,24970,Monash,0.1792295,Good,Good,0
+3125,26980,Whitehorse,0.8207705,Good,Good,0
+3126,21110,Boroondara,1.0000000,Good,Good,0
+3127,21110,Boroondara,0.4537039,Good,Good,0
+3127,26980,Whitehorse,0.5462961,Good,Good,0
+3128,26980,Whitehorse,1.0000000,Good,Good,0
+3129,26980,Whitehorse,1.0000000,Good,Good,0
+3130,26980,Whitehorse,1.0000000,Good,Good,0
+3131,24210,Manningham,0.0139060,Good,Good,0
+3131,26980,Whitehorse,0.9860940,Good,Good,0
+3132,26980,Whitehorse,1.0000000,Good,Good,0
+3133,24410,Maroondah,0.0203009,Good,Good,0
+3133,26980,Whitehorse,0.9796991,Good,Good,0
+3134,24210,Manningham,0.0294554,Good,Good,0
+3134,24410,Maroondah,0.9705446,Good,Good,0
+3135,24410,Maroondah,1.0000000,Good,Good,0
+3136,24410,Maroondah,1.0000000,Good,Good,0
+3137,24410,Maroondah,0.3176621,Good,Good,0
+3137,27450,Yarra Ranges,0.6823379,Good,Good,0
+3138,27450,Yarra Ranges,1.0000000,Good,Good,0
+3139,21450,Cardinia,0.0005983,Good,Good,1
+3139,27450,Yarra Ranges,0.9994017,Good,Good,0
+3140,27450,Yarra Ranges,1.0000000,Good,Good,0
+3141,26350,Stonnington,0.8436206,Acceptable,Good,0
+3141,24600,Melbourne,0.1563794,Good,Good,0
+3142,26350,Stonnington,1.0000000,Acceptable,Good,0
+3143,26350,Stonnington,1.0000000,Acceptable,Good,0
+3144,26350,Stonnington,1.0000000,Acceptable,Good,0
+3145,26350,Stonnington,0.9450262,Acceptable,Good,0
+3145,22310,Glen Eira,0.0549738,Good,Good,0
+3146,26350,Stonnington,0.3700408,Acceptable,Good,0
+3146,21110,Boroondara,0.6299592,Good,Good,0
+3147,21110,Boroondara,0.5264468,Good,Good,0
+3147,24970,Monash,0.4735532,Good,Good,0
+3148,24970,Monash,1.0000000,Good,Good,0
+3149,24970,Monash,1.0000000,Good,Good,0
+3150,24970,Monash,1.0000000,Good,Good,0
+3151,26980,Whitehorse,1.0000000,Good,Good,0
+3152,23670,Knox,1.0000000,Good,Good,0
+3153,23670,Knox,0.5750314,Good,Good,0
+3153,24410,Maroondah,0.4249686,Good,Good,0
+3154,23670,Knox,1.0000000,Good,Good,0
+3155,23670,Knox,1.0000000,Good,Good,0
+3156,21610,Casey,0.0256755,Good,Good,0
+3156,23670,Knox,0.9477900,Good,Good,0
+3156,27450,Yarra Ranges,0.0265344,Good,Good,0
+3158,27450,Yarra Ranges,1.0000000,Good,Good,0
+3159,21450,Cardinia,0.0678923,Good,Good,0
+3159,27450,Yarra Ranges,0.9321077,Good,Good,0
+3160,27450,Yarra Ranges,1.0000000,Good,Good,0
+3161,22310,Glen Eira,1.0000000,Good,Good,0
+3162,22310,Glen Eira,1.0000000,Good,Good,0
+3163,22310,Glen Eira,1.0000000,Good,Good,0
+3165,22310,Glen Eira,1.0000000,Good,Good,0
+3166,24970,Monash,1.0000000,Good,Good,0
+3167,23430,Kingston (Vic.),0.4185413,Good,Good,0
+3167,24970,Monash,0.5814587,Good,Good,0
+3168,24970,Monash,1.0000000,Good,Good,0
+3169,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3170,24970,Monash,1.0000000,Good,Good,0
+3171,22670,Greater Dandenong,1.0000000,Good,Good,0
+3172,22670,Greater Dandenong,0.5480324,Good,Good,0
+3172,23430,Kingston (Vic.),0.4519676,Good,Good,0
+3173,22670,Greater Dandenong,1.0000000,Good,Good,0
+3174,22670,Greater Dandenong,1.0000000,Good,Good,0
+3175,22670,Greater Dandenong,1.0000000,Good,Good,0
+3177,21610,Casey,1.0000000,Good,Good,0
+3178,23670,Knox,1.0000000,Good,Good,0
+3179,23670,Knox,1.0000000,Good,Good,0
+3180,23670,Knox,1.0000000,Good,Good,0
+3181,26350,Stonnington,0.9693864,Acceptable,Good,0
+3181,25900,Port Phillip,0.0306136,Good,Good,0
+3182,25900,Port Phillip,1.0000000,Good,Good,0
+3183,22310,Glen Eira,0.2308225,Good,Good,0
+3183,25900,Port Phillip,0.7691775,Good,Good,0
+3184,25900,Port Phillip,1.0000000,Good,Good,0
+3185,22310,Glen Eira,0.8847108,Good,Good,0
+3185,25900,Port Phillip,0.1152892,Good,Good,0
+3186,20910,Bayside (Vic.),1.0000000,Good,Good,0
+3187,20910,Bayside (Vic.),0.9581504,Good,Good,0
+3187,22310,Glen Eira,0.0418496,Good,Good,0
+3188,20910,Bayside (Vic.),1.0000000,Good,Good,0
+3189,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3190,20910,Bayside (Vic.),0.6638209,Good,Good,0
+3190,23430,Kingston (Vic.),0.3361791,Good,Good,0
+3191,20910,Bayside (Vic.),1.0000000,Good,Good,0
+3192,20910,Bayside (Vic.),0.1720663,Good,Good,0
+3192,23430,Kingston (Vic.),0.8279337,Good,Good,0
+3193,20910,Bayside (Vic.),1.0000000,Good,Good,0
+3194,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3195,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3196,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3197,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3198,22170,Frankston,1.0000000,Good,Good,0
+3199,22170,Frankston,1.0000000,Good,Good,0
+3200,22170,Frankston,1.0000000,Good,Good,0
+3201,22170,Frankston,1.0000000,Good,Good,0
+3202,23430,Kingston (Vic.),1.0000000,Good,Good,0
+3204,22310,Glen Eira,1.0000000,Good,Good,0
+3205,25900,Port Phillip,1.0000000,Good,Good,0
+3206,25900,Port Phillip,1.0000000,Good,Good,0
+3207,24600,Melbourne,0.0005690,Good,Good,1
+3207,25900,Port Phillip,0.9994310,Good,Good,0
+3211,22750,Greater Geelong,0.4571576,Good,Good,0
+3211,27260,Wyndham,0.5428424,Good,Good,0
+3212,22750,Greater Geelong,1.0000000,Good,Good,0
+3213,22490,Golden Plains,0.1943350,Acceptable,Good,0
+3213,22750,Greater Geelong,0.8056650,Good,Good,0
+3214,22750,Greater Geelong,1.0000000,Good,Good,0
+3215,22750,Greater Geelong,1.0000000,Good,Good,0
+3216,22750,Greater Geelong,1.0000000,Good,Good,0
+3217,22750,Greater Geelong,0.9570404,Good,Good,0
+3217,26490,Surf Coast,0.0429596,Good,Good,0
+3218,22490,Golden Plains,0.0141630,Acceptable,Good,0
+3218,22750,Greater Geelong,0.9858370,Good,Good,0
+3219,22750,Greater Geelong,1.0000000,Good,Good,0
+3220,22750,Greater Geelong,1.0000000,Good,Good,0
+3221,22750,Greater Geelong,0.3341635,Good,Good,0
+3221,26490,Surf Coast,0.6658365,Good,Good,0
+3222,22750,Greater Geelong,1.0000000,Good,Good,0
+3223,22750,Greater Geelong,1.0000000,Good,Good,0
+3224,22750,Greater Geelong,1.0000000,Good,Good,0
+3225,22750,Greater Geelong,0.3941126,Good,Good,0
+3225,26080,Queenscliffe,0.6058874,Poor,Good,0
+3226,22750,Greater Geelong,1.0000000,Good,Good,0
+3227,22750,Greater Geelong,0.9585566,Good,Good,0
+3227,26490,Surf Coast,0.0414434,Good,Good,0
+3228,26490,Surf Coast,1.0000000,Good,Good,0
+3230,26490,Surf Coast,1.0000000,Good,Good,0
+3231,26490,Surf Coast,1.0000000,Good,Good,0
+3232,26490,Surf Coast,1.0000000,Good,Good,0
+3233,21750,Colac Otway,1.0000000,Good,Good,0
+3234,21750,Colac Otway,1.0000000,Good,Good,0
+3235,21750,Colac Otway,0.0185129,Good,Good,0
+3235,26490,Surf Coast,0.9814871,Good,Good,0
+3236,21750,Colac Otway,1.0000000,Good,Good,0
+3237,21750,Colac Otway,0.8880352,Good,Good,0
+3237,21830,Corangamite,0.1119648,Good,Good,0
+3238,21750,Colac Otway,1.0000000,Good,Good,0
+3239,21750,Colac Otway,0.9063594,Good,Good,0
+3239,21830,Corangamite,0.0936406,Good,Good,0
+3240,26490,Surf Coast,1.0000000,Good,Good,0
+3241,21750,Colac Otway,0.0270259,Good,Good,0
+3241,26490,Surf Coast,0.9729741,Good,Good,0
+3242,21750,Colac Otway,0.9692554,Good,Good,0
+3242,26490,Surf Coast,0.0307446,Good,Good,0
+3243,21750,Colac Otway,1.0000000,Good,Good,0
+3249,21750,Colac Otway,0.9800421,Good,Good,0
+3249,21830,Corangamite,0.0199579,Good,Good,0
+3250,21750,Colac Otway,1.0000000,Good,Good,0
+3251,21750,Colac Otway,0.9913446,Good,Good,0
+3251,21830,Corangamite,0.0086554,Good,Good,1
+3254,21750,Colac Otway,1.0000000,Good,Good,0
+3260,21750,Colac Otway,0.0230624,Good,Good,0
+3260,21830,Corangamite,0.9769376,Good,Good,0
+3264,25490,Moyne,0.0048926,Acceptable,Good,1
+3264,21830,Corangamite,0.9951074,Good,Good,0
+3265,25490,Moyne,0.5746261,Acceptable,Good,0
+3265,21830,Corangamite,0.4253739,Good,Good,0
+3266,21750,Colac Otway,0.0068458,Good,Good,1
+3266,21830,Corangamite,0.9931542,Good,Good,0
+3267,21830,Corangamite,1.0000000,Good,Good,0
+3268,25490,Moyne,0.2033624,Acceptable,Good,0
+3268,21830,Corangamite,0.7966376,Good,Good,0
+3269,21830,Corangamite,1.0000000,Good,Good,0
+3270,25490,Moyne,0.7791849,Acceptable,Good,0
+3270,21830,Corangamite,0.2208151,Good,Good,0
+3271,20260,Ararat,0.1407125,Acceptable,Good,0
+3271,25490,Moyne,0.5870686,Acceptable,Good,0
+3271,21830,Corangamite,0.2722189,Good,Good,0
+3272,20260,Ararat,0.0097535,Acceptable,Good,1
+3272,25490,Moyne,0.9902465,Acceptable,Good,0
+3273,25490,Moyne,1.0000000,Acceptable,Good,0
+3274,25490,Moyne,0.9843563,Acceptable,Good,0
+3274,26260,Southern Grampians,0.0156437,Good,Good,0
+3275,25490,Moyne,1.0000000,Acceptable,Good,0
+3276,25490,Moyne,1.0000000,Acceptable,Good,0
+3277,25490,Moyne,0.3599051,Acceptable,Good,0
+3277,26730,Warrnambool,0.6400949,Good,Good,0
+3278,25490,Moyne,1.0000000,Acceptable,Good,0
+3279,25490,Moyne,1.0000000,Acceptable,Good,0
+3280,25490,Moyne,0.0022852,Acceptable,Good,1
+3280,26730,Warrnambool,0.9977148,Good,Good,0
+3281,25490,Moyne,0.4956866,Acceptable,Good,0
+3281,26730,Warrnambool,0.5043134,Good,Good,0
+3282,25490,Moyne,0.9895134,Acceptable,Good,0
+3282,26730,Warrnambool,0.0104866,Good,Good,0
+3283,25490,Moyne,0.9618088,Acceptable,Good,0
+3283,26730,Warrnambool,0.0381912,Good,Good,0
+3284,25490,Moyne,1.0000000,Acceptable,Good,0
+3285,25490,Moyne,0.4721567,Acceptable,Good,0
+3285,22410,Glenelg,0.5278433,Good,Good,0
+3286,25490,Moyne,1.0000000,Acceptable,Good,0
+3287,25490,Moyne,1.0000000,Acceptable,Good,0
+3289,25490,Moyne,0.0852004,Acceptable,Good,0
+3289,26260,Southern Grampians,0.9147996,Good,Good,0
+3292,22410,Glenelg,1.0000000,Good,Good,0
+3293,20260,Ararat,0.1338238,Acceptable,Good,0
+3293,25490,Moyne,0.0657239,Acceptable,Good,0
+3293,26260,Southern Grampians,0.8004523,Good,Good,0
+3294,20260,Ararat,0.0043255,Acceptable,Good,1
+3294,26260,Southern Grampians,0.9956745,Good,Good,0
+3300,26260,Southern Grampians,1.0000000,Good,Good,0
+3301,25490,Moyne,0.0967127,Acceptable,Good,0
+3301,22410,Glenelg,0.0102279,Good,Good,0
+3301,26260,Southern Grampians,0.8930594,Good,Good,0
+3302,22410,Glenelg,0.2548937,Good,Good,0
+3302,26260,Southern Grampians,0.7451063,Good,Good,0
+3303,25490,Moyne,0.0454458,Acceptable,Good,0
+3303,22410,Glenelg,0.9545542,Good,Good,0
+3304,25490,Moyne,0.0387951,Acceptable,Good,0
+3304,22410,Glenelg,0.9612049,Good,Good,0
+3305,22410,Glenelg,1.0000000,Good,Good,0
+3309,22410,Glenelg,1.0000000,Good,Good,0
+3310,22410,Glenelg,1.0000000,Good,Good,0
+3311,22410,Glenelg,1.0000000,Good,Good,0
+3312,26890,West Wimmera,0.1810505,Acceptable,Good,0
+3312,22410,Glenelg,0.7593860,Good,Good,0
+3312,26260,Southern Grampians,0.0595635,Good,Good,0
+3314,26260,Southern Grampians,1.0000000,Good,Good,0
+3315,26890,West Wimmera,0.0015252,Acceptable,Good,1
+3315,22410,Glenelg,0.0342762,Good,Good,0
+3315,26260,Southern Grampians,0.9641986,Good,Good,0
+3317,26890,West Wimmera,0.8662924,Acceptable,Good,0
+3317,26260,Southern Grampians,0.1337076,Good,Good,0
+3318,26890,West Wimmera,1.0000000,Acceptable,Good,0
+3319,26890,West Wimmera,1.0000000,Acceptable,Good,0
+3321,22490,Golden Plains,0.9506057,Acceptable,Good,0
+3321,21750,Colac Otway,0.0089304,Good,Good,1
+3321,26490,Surf Coast,0.0404639,Good,Good,0
+3322,22490,Golden Plains,0.0983884,Acceptable,Good,0
+3322,21750,Colac Otway,0.8141491,Good,Good,0
+3322,21830,Corangamite,0.0874624,Good,Good,0
+3323,22490,Golden Plains,0.0001157,Acceptable,Good,1
+3323,21830,Corangamite,0.9998843,Good,Good,0
+3324,22490,Golden Plains,0.0019115,Acceptable,Good,1
+3324,21830,Corangamite,0.9980885,Good,Good,0
+3325,21830,Corangamite,1.0000000,Good,Good,0
+3328,22490,Golden Plains,1.0000000,Acceptable,Good,0
+3329,22490,Golden Plains,0.9676094,Acceptable,Good,0
+3329,21750,Colac Otway,0.0323906,Good,Good,0
+3330,22490,Golden Plains,1.0000000,Acceptable,Good,0
+3331,22490,Golden Plains,1.0000000,Acceptable,Good,0
+3332,22490,Golden Plains,1.0000000,Acceptable,Good,0
+3333,22490,Golden Plains,0.9912271,Acceptable,Good,0
+3333,25150,Moorabool,0.0087729,Acceptable,Good,1
+3334,22490,Golden Plains,0.0039350,Acceptable,Good,1
+3334,25150,Moorabool,0.9960650,Acceptable,Good,0
+3335,24650,Melton,1.0000000,Acceptable,Good,0
+3336,24650,Melton,1.0000000,Acceptable,Good,0
+3337,24650,Melton,0.9998139,Acceptable,Good,0
+3337,24130,Macedon Ranges,0.0001861,Good,Good,1
+3338,24650,Melton,0.9999997,Acceptable,Good,0
+3338,27260,Wyndham,0.0000003,Good,Good,1
+3340,24650,Melton,0.0010157,Acceptable,Good,1
+3340,25150,Moorabool,0.9891018,Acceptable,Good,0
+3340,22750,Greater Geelong,0.0098825,Good,Good,1
+3341,25150,Moorabool,1.0000000,Acceptable,Good,0
+3342,22490,Golden Plains,0.0022930,Acceptable,Good,1
+3342,25150,Moorabool,0.9977070,Acceptable,Good,0
+3345,25150,Moorabool,1.0000000,Acceptable,Good,0
+3350,20570,Ballarat,1.0000000,Good,Good,0
+3351,20260,Ararat,0.0700726,Acceptable,Good,0
+3351,22490,Golden Plains,0.7381688,Acceptable,Good,0
+3351,25490,Moyne,0.0013197,Acceptable,Good,1
+3351,20570,Ballarat,0.0550391,Good,Good,0
+3351,25990,Pyrenees,0.1353999,Poor,Good,0
+3352,22490,Golden Plains,0.1372487,Acceptable,Good,0
+3352,22910,Hepburn,0.0139433,Acceptable,Good,0
+3352,25150,Moorabool,0.2077564,Acceptable,Good,0
+3352,20570,Ballarat,0.5824634,Good,Good,0
+3352,21830,Corangamite,0.0012727,Good,Good,1
+3352,25990,Pyrenees,0.0573155,Poor,Good,0
+3355,20570,Ballarat,1.0000000,Good,Good,0
+3356,20570,Ballarat,1.0000000,Good,Good,0
+3357,25150,Moorabool,0.0323085,Acceptable,Good,0
+3357,20570,Ballarat,0.9676915,Good,Good,0
+3358,20570,Ballarat,1.0000000,Good,Good,0
+3360,22490,Golden Plains,0.9395414,Acceptable,Good,0
+3360,21830,Corangamite,0.0031155,Good,Good,1
+3360,25990,Pyrenees,0.0573431,Poor,Good,0
+3361,20260,Ararat,0.0038069,Acceptable,Good,1
+3361,21830,Corangamite,0.8460251,Good,Good,0
+3361,25990,Pyrenees,0.1501680,Poor,Good,0
+3363,22910,Hepburn,0.9674859,Acceptable,Good,0
+3363,20570,Ballarat,0.0325141,Good,Good,0
+3364,22910,Hepburn,0.8021804,Acceptable,Good,0
+3364,25150,Moorabool,0.0181414,Acceptable,Good,0
+3364,20570,Ballarat,0.1333596,Good,Good,0
+3364,21670,Central Goldfields,0.0034037,Good,Good,1
+3364,25430,Mount Alexander,0.0429149,Good,Good,0
+3370,22910,Hepburn,0.9886174,Acceptable,Good,0
+3370,21670,Central Goldfields,0.0113826,Good,Good,0
+3371,22910,Hepburn,0.0480958,Acceptable,Good,0
+3371,21670,Central Goldfields,0.7765308,Good,Good,0
+3371,25990,Pyrenees,0.1753733,Poor,Good,0
+3373,20260,Ararat,0.0038891,Acceptable,Good,1
+3373,25990,Pyrenees,0.9961109,Poor,Good,0
+3374,20260,Ararat,0.0566207,Acceptable,Good,0
+3374,25810,Northern Grampians,0.9433793,Good,Good,0
+3375,20260,Ararat,0.9032940,Acceptable,Good,0
+3375,25990,Pyrenees,0.0967060,Poor,Good,0
+3377,20260,Ararat,0.9915707,Acceptable,Good,0
+3377,25810,Northern Grampians,0.0026171,Good,Good,1
+3377,25990,Pyrenees,0.0058122,Poor,Good,1
+3378,20260,Ararat,1.0000000,Acceptable,Good,0
+3379,20260,Ararat,0.9395156,Acceptable,Good,0
+3379,25490,Moyne,0.0604844,Acceptable,Good,0
+3380,25810,Northern Grampians,1.0000000,Good,Good,0
+3381,20260,Ararat,0.2731538,Acceptable,Good,0
+3381,25810,Northern Grampians,0.7268462,Good,Good,0
+3384,25810,Northern Grampians,0.5575623,Good,Good,0
+3384,25990,Pyrenees,0.4424377,Poor,Good,0
+3385,23190,Horsham,0.1108598,Good,Good,0
+3385,25810,Northern Grampians,0.8336834,Good,Good,0
+3385,27630,Yarriambiack,0.0554567,Good,Good,0
+3387,25810,Northern Grampians,1.0000000,Good,Good,0
+3388,25810,Northern Grampians,0.0393144,Good,Good,0
+3388,27630,Yarriambiack,0.9606856,Good,Good,0
+3390,23190,Horsham,0.0197162,Good,Good,0
+3390,27630,Yarriambiack,0.9802838,Good,Good,0
+3391,27630,Yarriambiack,1.0000000,Good,Good,0
+3392,27630,Yarriambiack,1.0000000,Good,Good,0
+3393,21270,Buloke,0.0110672,Good,Good,0
+3393,22980,Hindmarsh,0.0005517,Good,Good,1
+3393,27630,Yarriambiack,0.9883811,Good,Good,0
+3395,21270,Buloke,0.0772622,Good,Good,0
+3395,22980,Hindmarsh,0.0083027,Good,Good,1
+3395,27630,Yarriambiack,0.9144350,Good,Good,0
+3396,27630,Yarriambiack,1.0000000,Good,Good,0
+3400,23190,Horsham,1.0000000,Good,Good,0
+3401,26890,West Wimmera,0.0214030,Acceptable,Good,0
+3401,23190,Horsham,0.9596220,Good,Good,0
+3401,25810,Northern Grampians,0.0000065,Good,Good,1
+3401,26260,Southern Grampians,0.0080687,Good,Good,1
+3401,27630,Yarriambiack,0.0108998,Good,Good,0
+3407,26260,Southern Grampians,1.0000000,Good,Good,0
+3409,26890,West Wimmera,0.1687898,Acceptable,Good,0
+3409,23190,Horsham,0.8312102,Good,Good,0
+3412,26890,West Wimmera,1.0000000,Acceptable,Good,0
+3413,26890,West Wimmera,1.0000000,Acceptable,Good,0
+3414,22980,Hindmarsh,0.9983397,Good,Good,0
+3414,27630,Yarriambiack,0.0016603,Good,Good,1
+3415,26890,West Wimmera,1.0000000,Acceptable,Good,0
+3418,26890,West Wimmera,0.0055871,Acceptable,Good,1
+3418,22980,Hindmarsh,0.9944129,Good,Good,0
+3419,26890,West Wimmera,0.9883725,Acceptable,Good,0
+3419,22980,Hindmarsh,0.0116275,Good,Good,0
+3420,26890,West Wimmera,1.0000000,Acceptable,Good,0
+3423,22980,Hindmarsh,1.0000000,Good,Good,0
+3424,22980,Hindmarsh,0.8525871,Good,Good,0
+3424,27630,Yarriambiack,0.1474129,Good,Good,0
+3427,24650,Melton,0.9235080,Acceptable,Good,0
+3427,23270,Hume,0.0764920,Good,Good,0
+3428,23270,Hume,1.0000000,Good,Good,0
+3429,23270,Hume,1.0000000,Good,Good,0
+3430,23270,Hume,0.0174979,Good,Good,0
+3430,24130,Macedon Ranges,0.9825021,Good,Good,0
+3431,24130,Macedon Ranges,1.0000000,Good,Good,0
+3432,24130,Macedon Ranges,1.0000000,Good,Good,0
+3433,24130,Macedon Ranges,1.0000000,Good,Good,0
+3434,24130,Macedon Ranges,1.0000000,Good,Good,0
+3435,24130,Macedon Ranges,0.9702728,Good,Good,0
+3435,24850,Mitchell,0.0297272,Good,Good,0
+3437,24130,Macedon Ranges,1.0000000,Good,Good,0
+3438,24130,Macedon Ranges,1.0000000,Good,Good,0
+3440,24130,Macedon Ranges,1.0000000,Good,Good,0
+3441,24130,Macedon Ranges,1.0000000,Good,Good,0
+3442,24130,Macedon Ranges,1.0000000,Good,Good,0
+3444,22910,Hepburn,0.0128878,Acceptable,Good,0
+3444,22620,Greater Bendigo,0.0386361,Good,Good,0
+3444,24130,Macedon Ranges,0.9102753,Good,Good,0
+3444,24850,Mitchell,0.0108448,Good,Good,0
+3444,25430,Mount Alexander,0.0273560,Good,Good,0
+3446,22910,Hepburn,0.1715282,Acceptable,Good,0
+3446,24130,Macedon Ranges,0.8036491,Good,Good,0
+3446,25430,Mount Alexander,0.0248226,Good,Good,0
+3447,22910,Hepburn,0.0000191,Acceptable,Good,1
+3447,25430,Mount Alexander,0.9999809,Good,Good,0
+3448,25430,Mount Alexander,1.0000000,Good,Good,0
+3450,25430,Mount Alexander,1.0000000,Good,Good,0
+3451,22910,Hepburn,0.0077802,Acceptable,Good,1
+3451,25430,Mount Alexander,0.9922198,Good,Good,0
+3453,22620,Greater Bendigo,0.3145200,Good,Good,0
+3453,25430,Mount Alexander,0.6854800,Good,Good,0
+3458,22910,Hepburn,0.7396499,Acceptable,Good,0
+3458,25150,Moorabool,0.1932873,Acceptable,Good,0
+3458,24130,Macedon Ranges,0.0670628,Good,Good,0
+3460,22910,Hepburn,1.0000000,Acceptable,Good,0
+3461,22910,Hepburn,0.9173809,Acceptable,Good,0
+3461,25150,Moorabool,0.0540089,Acceptable,Good,0
+3461,24130,Macedon Ranges,0.0020253,Good,Good,1
+3461,25430,Mount Alexander,0.0265850,Good,Good,0
+3462,25430,Mount Alexander,1.0000000,Good,Good,0
+3463,23940,Loddon,0.0951374,Acceptable,Good,0
+3463,25430,Mount Alexander,0.9048626,Good,Good,0
+3464,21670,Central Goldfields,0.9938842,Good,Good,0
+3464,25430,Mount Alexander,0.0061158,Good,Good,1
+3465,21670,Central Goldfields,0.9813011,Good,Good,0
+3465,25430,Mount Alexander,0.0003476,Good,Good,1
+3465,25810,Northern Grampians,0.0028768,Good,Good,1
+3465,25990,Pyrenees,0.0154746,Poor,Good,0
+3467,25990,Pyrenees,1.0000000,Poor,Good,0
+3468,25990,Pyrenees,1.0000000,Poor,Good,0
+3469,20260,Ararat,0.6335368,Acceptable,Good,0
+3469,25990,Pyrenees,0.3664632,Poor,Good,0
+3472,23940,Loddon,0.1634410,Acceptable,Good,0
+3472,21670,Central Goldfields,0.8133227,Good,Good,0
+3472,25430,Mount Alexander,0.0232363,Good,Good,0
+3475,23940,Loddon,0.2269311,Acceptable,Good,0
+3475,21670,Central Goldfields,0.6384926,Good,Good,0
+3475,25810,Northern Grampians,0.1345763,Good,Good,0
+3477,23940,Loddon,0.0131110,Acceptable,Good,0
+3477,21270,Buloke,0.0238284,Good,Good,0
+3477,25810,Northern Grampians,0.8629954,Good,Good,0
+3477,25990,Pyrenees,0.1000652,Poor,Good,0
+3478,21270,Buloke,0.0069862,Good,Good,1
+3478,25810,Northern Grampians,0.8976100,Good,Good,0
+3478,25990,Pyrenees,0.0954038,Poor,Good,0
+3480,21270,Buloke,0.9499826,Good,Good,0
+3480,25810,Northern Grampians,0.0375883,Good,Good,0
+3480,27630,Yarriambiack,0.0124291,Good,Good,0
+3482,21270,Buloke,0.9502142,Good,Good,0
+3482,27630,Yarriambiack,0.0497858,Good,Good,0
+3483,21270,Buloke,1.0000000,Good,Good,0
+3485,21270,Buloke,0.3315257,Good,Good,0
+3485,27630,Yarriambiack,0.6684743,Good,Good,0
+3487,27630,Yarriambiack,1.0000000,Good,Good,0
+3488,21270,Buloke,0.0824318,Good,Good,0
+3488,27630,Yarriambiack,0.9175682,Good,Good,0
+3489,24780,Mildura,0.3499917,Good,Good,0
+3489,27630,Yarriambiack,0.6500083,Good,Good,0
+3490,26890,West Wimmera,0.0000078,Acceptable,Good,1
+3490,24780,Mildura,0.9999922,Good,Good,0
+3491,24780,Mildura,0.3178418,Good,Good,0
+3491,27630,Yarriambiack,0.6821582,Good,Good,0
+3494,24780,Mildura,1.0000000,Good,Good,0
+3496,24780,Mildura,1.0000000,Good,Good,0
+3498,24780,Mildura,1.0000000,Good,Good,0
+3500,24780,Mildura,1.0000000,Good,Good,0
+3501,24780,Mildura,0.9990459,Good,Good,0
+3501,26610,Swan Hill,0.0009541,Good,Good,1
+3505,24780,Mildura,1.0000000,Good,Good,0
+3506,24780,Mildura,1.0000000,Good,Good,0
+3507,24780,Mildura,1.0000000,Good,Good,0
+3509,24780,Mildura,1.0000000,Good,Good,0
+3512,24780,Mildura,1.0000000,Good,Good,0
+3515,23940,Loddon,0.0340335,Acceptable,Good,0
+3515,22620,Greater Bendigo,0.9643639,Good,Good,0
+3515,25430,Mount Alexander,0.0016025,Good,Good,1
+3516,23940,Loddon,0.8146695,Acceptable,Good,0
+3516,22620,Greater Bendigo,0.1853305,Good,Good,0
+3517,23940,Loddon,1.0000000,Acceptable,Good,0
+3518,23940,Loddon,0.9930808,Acceptable,Good,0
+3518,21270,Buloke,0.0069192,Good,Good,1
+3520,23940,Loddon,1.0000000,Acceptable,Good,0
+3521,24850,Mitchell,1.0000000,Good,Good,0
+3522,24850,Mitchell,1.0000000,Good,Good,0
+3523,21370,Campaspe,0.0128012,Good,Good,0
+3523,22620,Greater Bendigo,0.9687749,Good,Good,0
+3523,24850,Mitchell,0.0066441,Good,Good,1
+3523,26430,Strathbogie,0.0117799,Good,Good,0
+3525,23940,Loddon,0.0885311,Acceptable,Good,0
+3525,21270,Buloke,0.9114689,Good,Good,0
+3527,23940,Loddon,0.0108442,Acceptable,Good,0
+3527,21270,Buloke,0.9715426,Good,Good,0
+3527,22250,Gannawarra,0.0176133,Good,Good,0
+3529,21270,Buloke,1.0000000,Good,Good,0
+3530,21270,Buloke,1.0000000,Good,Good,0
+3531,21270,Buloke,1.0000000,Good,Good,0
+3533,21270,Buloke,0.9999868,Good,Good,0
+3533,26610,Swan Hill,0.0000132,Good,Good,1
+3537,23940,Loddon,0.9955197,Acceptable,Good,0
+3537,22250,Gannawarra,0.0044803,Good,Good,1
+3540,22250,Gannawarra,1.0000000,Good,Good,0
+3542,21270,Buloke,0.0000719,Good,Good,1
+3542,22250,Gannawarra,0.9999281,Good,Good,0
+3544,21270,Buloke,0.0363072,Good,Good,0
+3544,26610,Swan Hill,0.9636928,Good,Good,0
+3546,26610,Swan Hill,1.0000000,Good,Good,0
+3549,26610,Swan Hill,1.0000000,Good,Good,0
+3550,22620,Greater Bendigo,1.0000000,Good,Good,0
+3551,23940,Loddon,0.0173133,Acceptable,Good,0
+3551,21370,Campaspe,0.0070274,Good,Good,1
+3551,22620,Greater Bendigo,0.9752651,Good,Good,0
+3551,25430,Mount Alexander,0.0003942,Good,Good,1
+3555,22620,Greater Bendigo,1.0000000,Good,Good,0
+3556,23940,Loddon,0.0035320,Acceptable,Good,1
+3556,22620,Greater Bendigo,0.9964680,Good,Good,0
+3557,21370,Campaspe,0.0701548,Good,Good,0
+3557,22620,Greater Bendigo,0.9298452,Good,Good,0
+3558,21370,Campaspe,0.0977904,Good,Good,0
+3558,22620,Greater Bendigo,0.9022096,Good,Good,0
+3559,21370,Campaspe,0.9213083,Good,Good,0
+3559,22620,Greater Bendigo,0.0786917,Good,Good,0
+3561,21370,Campaspe,1.0000000,Good,Good,0
+3562,21370,Campaspe,1.0000000,Good,Good,0
+3563,21370,Campaspe,1.0000000,Good,Good,0
+3564,21370,Campaspe,1.0000000,Good,Good,0
+3565,21370,Campaspe,1.0000000,Good,Good,0
+3566,21370,Campaspe,1.0000000,Good,Good,0
+3567,23940,Loddon,0.0149830,Acceptable,Good,0
+3567,22250,Gannawarra,0.9850170,Good,Good,0
+3568,22250,Gannawarra,1.0000000,Good,Good,0
+3570,23940,Loddon,0.1100966,Acceptable,Good,0
+3570,22620,Greater Bendigo,0.8899034,Good,Good,0
+3571,23940,Loddon,1.0000000,Acceptable,Good,0
+3572,23940,Loddon,0.1817959,Acceptable,Good,0
+3572,21370,Campaspe,0.8182041,Good,Good,0
+3573,23940,Loddon,0.8206628,Acceptable,Good,0
+3573,21370,Campaspe,0.1793372,Good,Good,0
+3575,23940,Loddon,1.0000000,Acceptable,Good,0
+3576,23940,Loddon,1.0000000,Acceptable,Good,0
+3579,23940,Loddon,0.0079012,Acceptable,Good,1
+3579,22250,Gannawarra,0.9920970,Good,Good,0
+3579,26610,Swan Hill,0.0000018,Good,Good,1
+3580,22250,Gannawarra,1.0000000,Good,Good,0
+3581,22250,Gannawarra,1.0000000,Good,Good,0
+3583,26610,Swan Hill,1.0000000,Good,Good,0
+3584,26610,Swan Hill,1.0000000,Good,Good,0
+3585,22250,Gannawarra,0.0008651,Good,Good,1
+3585,26610,Swan Hill,0.9991349,Good,Good,0
+3586,26610,Swan Hill,1.0000000,Good,Good,0
+3588,26610,Swan Hill,1.0000000,Good,Good,0
+3589,26610,Swan Hill,1.0000000,Good,Good,0
+3590,26610,Swan Hill,1.0000000,Good,Good,0
+3591,26610,Swan Hill,1.0000000,Good,Good,0
+3594,26610,Swan Hill,1.0000000,Good,Good,0
+3595,26610,Swan Hill,1.0000000,Good,Good,0
+3596,26610,Swan Hill,1.0000000,Good,Good,0
+3597,26610,Swan Hill,1.0000000,Good,Good,0
+3599,26610,Swan Hill,1.0000000,Good,Good,0
+3607,26430,Strathbogie,1.0000000,Good,Good,0
+3608,22830,Greater Shepparton,0.0006040,Good,Good,1
+3608,26430,Strathbogie,0.9993960,Good,Good,0
+3610,22830,Greater Shepparton,0.9901760,Good,Good,0
+3610,26430,Strathbogie,0.0098240,Good,Good,1
+3612,21370,Campaspe,0.9783110,Good,Good,0
+3612,26430,Strathbogie,0.0216890,Good,Good,0
+3614,22830,Greater Shepparton,1.0000000,Good,Good,0
+3616,22830,Greater Shepparton,1.0000000,Good,Good,0
+3617,22830,Greater Shepparton,1.0000000,Good,Good,0
+3618,22830,Greater Shepparton,1.0000000,Good,Good,0
+3620,21370,Campaspe,0.9625960,Good,Good,0
+3620,22830,Greater Shepparton,0.0374040,Good,Good,0
+3621,21370,Campaspe,1.0000000,Good,Good,0
+3622,21370,Campaspe,1.0000000,Good,Good,0
+3623,21370,Campaspe,0.9907964,Good,Good,0
+3623,22830,Greater Shepparton,0.0092036,Good,Good,1
+3624,21370,Campaspe,1.0000000,Good,Good,0
+3629,22830,Greater Shepparton,1.0000000,Good,Good,0
+3630,22830,Greater Shepparton,1.0000000,Good,Good,0
+3631,22830,Greater Shepparton,0.9934913,Good,Good,0
+3631,26430,Strathbogie,0.0065087,Good,Good,1
+3633,22830,Greater Shepparton,1.0000000,Good,Good,0
+3634,22830,Greater Shepparton,0.9615565,Good,Good,0
+3634,24900,Moira,0.0384435,Good,Good,0
+3635,24900,Moira,1.0000000,Good,Good,0
+3636,24900,Moira,1.0000000,Good,Good,0
+3637,24900,Moira,1.0000000,Good,Good,0
+3638,24900,Moira,1.0000000,Good,Good,0
+3639,24900,Moira,1.0000000,Good,Good,0
+3640,24900,Moira,1.0000000,Good,Good,0
+3641,24900,Moira,1.0000000,Good,Good,0
+3644,10650,Berrigan,0.2106762,Acceptable,Good,0
+3644,24900,Moira,0.7893238,Good,Good,0
+3646,22830,Greater Shepparton,0.5988380,Good,Good,0
+3646,24900,Moira,0.3846393,Good,Good,0
+3646,26430,Strathbogie,0.0165227,Good,Good,0
+3647,22830,Greater Shepparton,1.0000000,Good,Good,0
+3649,24900,Moira,1.0000000,Good,Good,0
+3658,25620,Murrindindi,0.0369171,Acceptable,Good,0
+3658,24850,Mitchell,0.9630829,Good,Good,0
+3659,24850,Mitchell,1.0000000,Good,Good,0
+3660,25620,Murrindindi,0.0359685,Acceptable,Good,0
+3660,24850,Mitchell,0.9640315,Good,Good,0
+3662,24850,Mitchell,1.0000000,Good,Good,0
+3663,24850,Mitchell,0.0675695,Good,Good,0
+3663,26430,Strathbogie,0.9324305,Good,Good,0
+3664,24850,Mitchell,0.0104940,Good,Good,0
+3664,26430,Strathbogie,0.9895060,Good,Good,0
+3665,26430,Strathbogie,1.0000000,Good,Good,0
+3666,25620,Murrindindi,0.0026924,Acceptable,Good,1
+3666,24850,Mitchell,0.0033012,Good,Good,1
+3666,26430,Strathbogie,0.9940064,Good,Good,0
+3669,21010,Benalla,0.0000068,Good,Good,1
+3669,22830,Greater Shepparton,0.0285515,Good,Good,0
+3669,26430,Strathbogie,0.9714417,Good,Good,0
+3670,21010,Benalla,0.9518194,Good,Good,0
+3670,26430,Strathbogie,0.0481806,Good,Good,0
+3672,21010,Benalla,1.0000000,Good,Good,0
+3673,21010,Benalla,0.9977929,Good,Good,0
+3673,24250,Mansfield,0.0009850,Good,Good,1
+3673,26700,Wangaratta,0.0012221,Good,Good,1
+3675,21010,Benalla,0.1541175,Good,Good,0
+3675,24900,Moira,0.0217235,Good,Good,0
+3675,26700,Wangaratta,0.8241590,Good,Good,0
+3677,26700,Wangaratta,1.0000000,Good,Good,0
+3678,24900,Moira,0.0041119,Good,Good,1
+3678,26700,Wangaratta,0.9958881,Good,Good,0
+3682,23350,Indigo,0.3322931,Acceptable,Good,0
+3682,26700,Wangaratta,0.6677069,Good,Good,0
+3683,23350,Indigo,1.0000000,Acceptable,Good,0
+3685,23350,Indigo,0.9819789,Acceptable,Good,0
+3685,26700,Wangaratta,0.0180211,Good,Good,0
+3687,23350,Indigo,1.0000000,Acceptable,Good,0
+3688,23350,Indigo,1.0000000,Acceptable,Good,0
+3690,27170,Wodonga,1.0000000,Good,Good,0
+3691,23350,Indigo,0.2054599,Acceptable,Good,0
+3691,26670,Towong,0.0972025,Acceptable,Good,0
+3691,10050,Albury,0.0049651,Good,Good,1
+3691,20110,Alpine,0.0578844,Good,Good,0
+3691,27170,Wodonga,0.6344881,Good,Good,0
+3695,23350,Indigo,0.9377409,Acceptable,Good,0
+3695,26670,Towong,0.0622591,Acceptable,Good,0
+3697,20110,Alpine,1.0000000,Good,Good,0
+3698,20110,Alpine,1.0000000,Good,Good,0
+3699,20110,Alpine,0.7388383,Good,Good,0
+3699,29399,Unincorporated Vic,0.2611617,Poor,Good,0
+3700,26670,Towong,1.0000000,Acceptable,Good,0
+3701,26670,Towong,0.9999909,Acceptable,Good,0
+3701,22110,East Gippsland,0.0000091,Good,Good,1
+3704,26670,Towong,1.0000000,Acceptable,Good,0
+3705,26670,Towong,1.0000000,Acceptable,Good,0
+3707,26670,Towong,0.9740490,Acceptable,Good,0
+3707,22110,East Gippsland,0.0000054,Good,Good,1
+3707,17080,Snowy Valleys,0.0259456,Good,Good,0
+3708,26670,Towong,1.0000000,Acceptable,Good,0
+3709,26670,Towong,1.0000000,Acceptable,Good,0
+3711,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3712,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3713,25620,Murrindindi,0.9970273,Acceptable,Good,0
+3713,24250,Mansfield,0.0029727,Good,Good,1
+3714,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3715,25620,Murrindindi,0.0275964,Acceptable,Good,0
+3715,24250,Mansfield,0.9724036,Good,Good,0
+3717,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3718,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3719,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3720,24250,Mansfield,1.0000000,Good,Good,0
+3722,24250,Mansfield,1.0000000,Good,Good,0
+3723,21010,Benalla,0.0037338,Good,Good,1
+3723,24250,Mansfield,0.8939061,Good,Good,0
+3723,26700,Wangaratta,0.0135999,Good,Good,0
+3723,27450,Yarra Ranges,0.0008022,Good,Good,1
+3723,29399,Unincorporated Vic,0.0879581,Poor,Good,0
+3725,21010,Benalla,0.9313233,Good,Good,0
+3725,22830,Greater Shepparton,0.0686767,Good,Good,0
+3726,21010,Benalla,1.0000000,Good,Good,0
+3727,24900,Moira,1.0000000,Good,Good,0
+3728,24900,Moira,1.0000000,Good,Good,0
+3730,24900,Moira,1.0000000,Good,Good,0
+3732,26700,Wangaratta,1.0000000,Good,Good,0
+3733,26700,Wangaratta,1.0000000,Good,Good,0
+3735,26700,Wangaratta,1.0000000,Good,Good,0
+3737,23350,Indigo,0.0049070,Acceptable,Good,1
+3737,20110,Alpine,0.9950930,Good,Good,0
+3738,20110,Alpine,1.0000000,Good,Good,0
+3739,20110,Alpine,1.0000000,Good,Good,0
+3740,20110,Alpine,1.0000000,Good,Good,0
+3741,20110,Alpine,0.9610042,Good,Good,0
+3741,29399,Unincorporated Vic,0.0389958,Poor,Good,0
+3744,20110,Alpine,1.0000000,Good,Good,0
+3746,26700,Wangaratta,1.0000000,Good,Good,0
+3747,23350,Indigo,0.9863394,Acceptable,Good,0
+3747,26700,Wangaratta,0.0136606,Good,Good,0
+3749,23350,Indigo,1.0000000,Acceptable,Good,0
+3750,27070,Whittlesea,1.0000000,Good,Good,0
+3751,27070,Whittlesea,1.0000000,Good,Good,0
+3752,27070,Whittlesea,1.0000000,Good,Good,0
+3753,24850,Mitchell,0.9145620,Good,Good,0
+3753,27070,Whittlesea,0.0854380,Good,Good,0
+3754,25710,Nillumbik,0.0071868,Acceptable,Good,1
+3754,27070,Whittlesea,0.9928132,Good,Good,0
+3755,25710,Nillumbik,0.0768034,Acceptable,Good,0
+3755,27070,Whittlesea,0.9231966,Good,Good,0
+3756,24130,Macedon Ranges,0.0315541,Good,Good,0
+3756,24850,Mitchell,0.9684459,Good,Good,0
+3757,25620,Murrindindi,0.2000155,Acceptable,Good,0
+3757,27070,Whittlesea,0.7999845,Good,Good,0
+3758,24850,Mitchell,1.0000000,Good,Good,0
+3759,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3760,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3761,25710,Nillumbik,1.0000000,Acceptable,Good,0
+3762,24130,Macedon Ranges,0.0339744,Good,Good,0
+3762,24850,Mitchell,0.9660256,Good,Good,0
+3763,25620,Murrindindi,0.9999940,Acceptable,Good,0
+3763,25710,Nillumbik,0.0000060,Acceptable,Good,1
+3764,24130,Macedon Ranges,0.0007384,Good,Good,1
+3764,24850,Mitchell,0.9992616,Good,Good,0
+3765,27450,Yarra Ranges,1.0000000,Good,Good,0
+3766,27450,Yarra Ranges,1.0000000,Good,Good,0
+3767,27450,Yarra Ranges,1.0000000,Good,Good,0
+3770,27450,Yarra Ranges,1.0000000,Good,Good,0
+3775,25710,Nillumbik,0.0870887,Acceptable,Good,0
+3775,27450,Yarra Ranges,0.9129113,Good,Good,0
+3777,25620,Murrindindi,0.0526078,Acceptable,Good,0
+3777,27450,Yarra Ranges,0.9473922,Good,Good,0
+3778,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3779,25620,Murrindindi,1.0000000,Acceptable,Good,0
+3781,21450,Cardinia,1.0000000,Good,Good,0
+3782,21450,Cardinia,0.8477896,Good,Good,0
+3782,27450,Yarra Ranges,0.1522104,Good,Good,0
+3783,21450,Cardinia,1.0000000,Good,Good,0
+3785,27450,Yarra Ranges,1.0000000,Good,Good,0
+3786,27450,Yarra Ranges,1.0000000,Good,Good,0
+3787,23670,Knox,0.0378062,Good,Good,0
+3787,27450,Yarra Ranges,0.9621938,Good,Good,0
+3788,27450,Yarra Ranges,1.0000000,Good,Good,0
+3789,27450,Yarra Ranges,1.0000000,Good,Good,0
+3791,21450,Cardinia,0.0020621,Good,Good,1
+3791,27450,Yarra Ranges,0.9979379,Good,Good,0
+3792,27450,Yarra Ranges,1.0000000,Good,Good,0
+3793,27450,Yarra Ranges,1.0000000,Good,Good,0
+3795,27450,Yarra Ranges,1.0000000,Good,Good,0
+3796,27450,Yarra Ranges,1.0000000,Good,Good,0
+3797,27450,Yarra Ranges,1.0000000,Good,Good,0
+3799,27450,Yarra Ranges,1.0000000,Good,Good,0
+3802,21610,Casey,1.0000000,Good,Good,0
+3803,21610,Casey,1.0000000,Good,Good,0
+3804,21610,Casey,0.9483464,Good,Good,0
+3804,27450,Yarra Ranges,0.0516536,Good,Good,0
+3805,21610,Casey,1.0000000,Good,Good,0
+3806,21610,Casey,1.0000000,Good,Good,0
+3807,21450,Cardinia,0.9324646,Good,Good,0
+3807,21610,Casey,0.0675354,Good,Good,0
+3808,21450,Cardinia,1.0000000,Good,Good,0
+3809,21450,Cardinia,1.0000000,Good,Good,0
+3810,21450,Cardinia,1.0000000,Good,Good,0
+3812,21450,Cardinia,1.0000000,Good,Good,0
+3813,21450,Cardinia,1.0000000,Good,Good,0
+3814,21450,Cardinia,1.0000000,Good,Good,0
+3815,21450,Cardinia,1.0000000,Good,Good,0
+3816,20830,Baw Baw,0.9610386,Good,Good,0
+3816,21450,Cardinia,0.0389614,Good,Good,0
+3818,20830,Baw Baw,1.0000000,Good,Good,0
+3820,20830,Baw Baw,1.0000000,Good,Good,0
+3821,20830,Baw Baw,1.0000000,Good,Good,0
+3822,20830,Baw Baw,1.0000000,Good,Good,0
+3823,20830,Baw Baw,1.0000000,Good,Good,0
+3824,20830,Baw Baw,0.9996515,Good,Good,0
+3824,23810,Latrobe (Vic.),0.0000018,Good,Good,1
+3824,26170,South Gippsland,0.0003467,Good,Good,1
+3825,20830,Baw Baw,0.0999871,Good,Good,0
+3825,23810,Latrobe (Vic.),0.9000129,Good,Good,0
+3831,20830,Baw Baw,1.0000000,Good,Good,0
+3832,20830,Baw Baw,1.0000000,Good,Good,0
+3833,20830,Baw Baw,0.9146902,Good,Good,0
+3833,29399,Unincorporated Vic,0.0853098,Poor,Good,0
+3835,20830,Baw Baw,0.9943262,Good,Good,0
+3835,26170,South Gippsland,0.0056738,Good,Good,1
+3840,23810,Latrobe (Vic.),1.0000000,Good,Good,0
+3842,23810,Latrobe (Vic.),1.0000000,Good,Good,0
+3844,23810,Latrobe (Vic.),0.9874779,Good,Good,0
+3844,26810,Wellington,0.0125221,Good,Good,0
+3847,26810,Wellington,1.0000000,Good,Good,0
+3850,26810,Wellington,1.0000000,Good,Good,0
+3851,26810,Wellington,1.0000000,Good,Good,0
+3852,26810,Wellington,1.0000000,Good,Good,0
+3854,23810,Latrobe (Vic.),0.8346038,Good,Good,0
+3854,26810,Wellington,0.1653962,Good,Good,0
+3856,23810,Latrobe (Vic.),0.9159742,Good,Good,0
+3856,26810,Wellington,0.0840258,Good,Good,0
+3857,23810,Latrobe (Vic.),0.1904481,Good,Good,0
+3857,26810,Wellington,0.8095519,Good,Good,0
+3858,26810,Wellington,1.0000000,Good,Good,0
+3859,26810,Wellington,1.0000000,Good,Good,0
+3860,26810,Wellington,1.0000000,Good,Good,0
+3862,22110,East Gippsland,0.0041514,Good,Good,1
+3862,26810,Wellington,0.9958486,Good,Good,0
+3864,22110,East Gippsland,0.9471932,Good,Good,0
+3864,26810,Wellington,0.0528068,Good,Good,0
+3865,22110,East Gippsland,1.0000000,Good,Good,0
+3869,23810,Latrobe (Vic.),1.0000000,Good,Good,0
+3870,23810,Latrobe (Vic.),0.9969444,Good,Good,0
+3870,26810,Wellington,0.0030556,Good,Good,1
+3871,20830,Baw Baw,0.0184933,Good,Good,0
+3871,23810,Latrobe (Vic.),0.0235691,Good,Good,0
+3871,26170,South Gippsland,0.9579376,Good,Good,0
+3873,26810,Wellington,1.0000000,Good,Good,0
+3874,26810,Wellington,1.0000000,Good,Good,0
+3875,22110,East Gippsland,1.0000000,Good,Good,0
+3878,22110,East Gippsland,1.0000000,Good,Good,0
+3880,22110,East Gippsland,1.0000000,Good,Good,0
+3882,22110,East Gippsland,1.0000000,Good,Good,0
+3885,22110,East Gippsland,1.0000000,Good,Good,0
+3886,22110,East Gippsland,1.0000000,Good,Good,0
+3887,22110,East Gippsland,1.0000000,Good,Good,0
+3888,22110,East Gippsland,1.0000000,Good,Good,0
+3889,22110,East Gippsland,1.0000000,Good,Good,0
+3890,22110,East Gippsland,1.0000000,Good,Good,0
+3891,22110,East Gippsland,1.0000000,Good,Good,0
+3892,22110,East Gippsland,1.0000000,Good,Good,0
+3893,22110,East Gippsland,1.0000000,Good,Good,0
+3895,22110,East Gippsland,1.0000000,Good,Good,0
+3896,22110,East Gippsland,1.0000000,Good,Good,0
+3898,20110,Alpine,0.1891920,Good,Good,0
+3898,22110,East Gippsland,0.8108080,Good,Good,0
+3900,22110,East Gippsland,1.0000000,Good,Good,0
+3902,22110,East Gippsland,1.0000000,Good,Good,0
+3903,22110,East Gippsland,1.0000000,Good,Good,0
+3904,22110,East Gippsland,1.0000000,Good,Good,0
+3909,22110,East Gippsland,1.0000000,Good,Good,0
+3910,22170,Frankston,1.0000000,Good,Good,0
+3911,22170,Frankston,0.3851364,Good,Good,0
+3911,25340,Mornington Peninsula,0.6148636,Good,Good,0
+3912,21610,Casey,0.2389446,Good,Good,0
+3912,25340,Mornington Peninsula,0.7610554,Good,Good,0
+3913,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3915,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3916,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3918,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3919,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3920,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3921,29399,Unincorporated Vic,1.0000000,Poor,Good,0
+3922,20740,Bass Coast,1.0000000,Good,Good,0
+3923,20740,Bass Coast,1.0000000,Good,Good,0
+3925,20740,Bass Coast,1.0000000,Good,Good,0
+3926,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3927,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3928,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3929,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3930,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3931,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3933,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3934,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3936,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3937,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3938,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3939,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3940,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3941,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3942,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3943,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3944,25340,Mornington Peninsula,1.0000000,Good,Good,0
+3945,20740,Bass Coast,0.3958735,Good,Good,0
+3945,26170,South Gippsland,0.6041265,Good,Good,0
+3946,26170,South Gippsland,1.0000000,Good,Good,0
+3950,20830,Baw Baw,0.0031007,Good,Good,1
+3950,26170,South Gippsland,0.9968993,Good,Good,0
+3951,20740,Bass Coast,0.0606536,Good,Good,0
+3951,26170,South Gippsland,0.9393464,Good,Good,0
+3953,20830,Baw Baw,0.0013442,Good,Good,1
+3953,26170,South Gippsland,0.9986558,Good,Good,0
+3954,26170,South Gippsland,1.0000000,Good,Good,0
+3956,26170,South Gippsland,1.0000000,Good,Good,0
+3957,26170,South Gippsland,1.0000000,Good,Good,0
+3958,26170,South Gippsland,1.0000000,Good,Good,0
+3959,26170,South Gippsland,1.0000000,Good,Good,0
+3960,26170,South Gippsland,1.0000000,Good,Good,0
+3962,26170,South Gippsland,0.9592617,Good,Good,0
+3962,26810,Wellington,0.0407383,Good,Good,0
+3964,26170,South Gippsland,1.0000000,Good,Good,0
+3965,26170,South Gippsland,1.0000000,Good,Good,0
+3966,26170,South Gippsland,0.7989854,Good,Good,0
+3966,26810,Wellington,0.2010146,Good,Good,0
+3967,26170,South Gippsland,0.7588141,Good,Good,0
+3967,26810,Wellington,0.2411859,Good,Good,0
+3971,23810,Latrobe (Vic.),0.0000024,Good,Good,1
+3971,26810,Wellington,0.9999976,Good,Good,0
+3975,21610,Casey,0.9992217,Good,Good,0
+3975,22670,Greater Dandenong,0.0007783,Good,Good,1
+3976,21610,Casey,1.0000000,Good,Good,0
+3977,21610,Casey,0.8863875,Good,Good,0
+3977,22170,Frankston,0.1136125,Good,Good,0
+3978,21450,Cardinia,0.0079352,Good,Good,1
+3978,21610,Casey,0.9920648,Good,Good,0
+3979,20740,Bass Coast,1.0000000,Good,Good,0
+3980,21450,Cardinia,0.0058714,Good,Good,1
+3980,21610,Casey,0.9941286,Good,Good,0
+3981,20830,Baw Baw,0.0136777,Good,Good,0
+3981,21450,Cardinia,0.9863223,Good,Good,0
+3984,20740,Bass Coast,0.6088743,Good,Good,0
+3984,21450,Cardinia,0.3892305,Good,Good,0
+3984,26170,South Gippsland,0.0018952,Good,Good,1
+3987,20830,Baw Baw,0.0042405,Good,Good,1
+3987,21450,Cardinia,0.0344869,Good,Good,0
+3987,26170,South Gippsland,0.9612726,Good,Good,0
+3988,20830,Baw Baw,0.1253459,Good,Good,0
+3988,26170,South Gippsland,0.8746541,Good,Good,0
+3990,20740,Bass Coast,1.0000000,Good,Good,0
+3991,20740,Bass Coast,1.0000000,Good,Good,0
+3992,20740,Bass Coast,1.0000000,Good,Good,0
+3995,20740,Bass Coast,1.0000000,Good,Good,0
+3996,20740,Bass Coast,0.9754439,Good,Good,0
+3996,26170,South Gippsland,0.0245561,Good,Good,0
+4000,31000,Brisbane,1.0000000,Good,Good,0
+4005,31000,Brisbane,1.0000000,Good,Good,0
+4006,31000,Brisbane,1.0000000,Good,Good,0
+4007,31000,Brisbane,1.0000000,Good,Good,0
+4008,31000,Brisbane,1.0000000,Good,Good,0
+4009,31000,Brisbane,1.0000000,Good,Good,0
+4010,31000,Brisbane,1.0000000,Good,Good,0
+4011,31000,Brisbane,1.0000000,Good,Good,0
+4012,31000,Brisbane,1.0000000,Good,Good,0
+4013,31000,Brisbane,1.0000000,Good,Good,0
+4014,31000,Brisbane,1.0000000,Good,Good,0
+4017,31000,Brisbane,1.0000000,Good,Good,0
+4018,31000,Brisbane,1.0000000,Good,Good,0
+4019,35010,Moreton Bay,1.0000000,Good,Good,0
+4020,35010,Moreton Bay,1.0000000,Good,Good,0
+4021,35010,Moreton Bay,1.0000000,Good,Good,0
+4022,35010,Moreton Bay,1.0000000,Good,Good,0
+4025,31000,Brisbane,1.0000000,Good,Good,0
+4030,31000,Brisbane,1.0000000,Good,Good,0
+4031,31000,Brisbane,1.0000000,Good,Good,0
+4032,31000,Brisbane,1.0000000,Good,Good,0
+4034,31000,Brisbane,1.0000000,Good,Good,0
+4035,31000,Brisbane,0.4026520,Good,Good,0
+4035,35010,Moreton Bay,0.5973480,Good,Good,0
+4036,31000,Brisbane,1.0000000,Good,Good,0
+4037,35010,Moreton Bay,1.0000000,Good,Good,0
+4051,31000,Brisbane,1.0000000,Good,Good,0
+4053,31000,Brisbane,0.8604206,Good,Good,0
+4053,35010,Moreton Bay,0.1395794,Good,Good,0
+4054,31000,Brisbane,0.4968676,Good,Good,0
+4054,35010,Moreton Bay,0.5031324,Good,Good,0
+4055,31000,Brisbane,0.5217185,Good,Good,0
+4055,35010,Moreton Bay,0.4782815,Good,Good,0
+4059,31000,Brisbane,1.0000000,Good,Good,0
+4060,31000,Brisbane,1.0000000,Good,Good,0
+4061,31000,Brisbane,1.0000000,Good,Good,0
+4064,31000,Brisbane,1.0000000,Good,Good,0
+4065,31000,Brisbane,1.0000000,Good,Good,0
+4066,31000,Brisbane,1.0000000,Good,Good,0
+4067,31000,Brisbane,1.0000000,Good,Good,0
+4068,31000,Brisbane,1.0000000,Good,Good,0
+4069,31000,Brisbane,1.0000000,Good,Good,0
+4070,31000,Brisbane,1.0000000,Good,Good,0
+4073,31000,Brisbane,1.0000000,Good,Good,0
+4074,31000,Brisbane,1.0000000,Good,Good,0
+4075,31000,Brisbane,1.0000000,Good,Good,0
+4076,31000,Brisbane,1.0000000,Good,Good,0
+4077,31000,Brisbane,1.0000000,Good,Good,0
+4078,31000,Brisbane,1.0000000,Good,Good,0
+4101,31000,Brisbane,1.0000000,Good,Good,0
+4102,31000,Brisbane,1.0000000,Good,Good,0
+4103,31000,Brisbane,1.0000000,Good,Good,0
+4104,31000,Brisbane,1.0000000,Good,Good,0
+4105,31000,Brisbane,1.0000000,Good,Good,0
+4106,31000,Brisbane,1.0000000,Good,Good,0
+4107,31000,Brisbane,1.0000000,Good,Good,0
+4108,31000,Brisbane,1.0000000,Good,Good,0
+4109,31000,Brisbane,1.0000000,Good,Good,0
+4110,31000,Brisbane,1.0000000,Good,Good,0
+4111,31000,Brisbane,1.0000000,Good,Good,0
+4112,31000,Brisbane,1.0000000,Good,Good,0
+4113,31000,Brisbane,1.0000000,Good,Good,0
+4114,34590,Logan,1.0000000,Good,Good,0
+4115,31000,Brisbane,1.0000000,Good,Good,0
+4116,31000,Brisbane,1.0000000,Good,Good,0
+4117,31000,Brisbane,0.1127812,Good,Good,0
+4117,34590,Logan,0.8872188,Good,Good,0
+4118,34590,Logan,1.0000000,Good,Good,0
+4119,34590,Logan,1.0000000,Good,Good,0
+4120,31000,Brisbane,1.0000000,Good,Good,0
+4121,31000,Brisbane,1.0000000,Good,Good,0
+4122,31000,Brisbane,1.0000000,Good,Good,0
+4123,31000,Brisbane,0.3334632,Good,Good,0
+4123,34590,Logan,0.6665368,Good,Good,0
+4124,34590,Logan,1.0000000,Good,Good,0
+4125,34590,Logan,1.0000000,Good,Good,0
+4127,31000,Brisbane,0.0001100,Good,Good,1
+4127,34590,Logan,0.9998900,Good,Good,0
+4128,34590,Logan,1.0000000,Good,Good,0
+4129,34590,Logan,1.0000000,Good,Good,0
+4130,34590,Logan,1.0000000,Good,Good,0
+4131,34590,Logan,1.0000000,Good,Good,0
+4132,34590,Logan,1.0000000,Good,Good,0
+4133,34590,Logan,1.0000000,Good,Good,0
+4151,31000,Brisbane,1.0000000,Good,Good,0
+4152,31000,Brisbane,1.0000000,Good,Good,0
+4153,31000,Brisbane,1.0000000,Good,Good,0
+4154,31000,Brisbane,1.0000000,Good,Good,0
+4155,31000,Brisbane,1.0000000,Good,Good,0
+4156,31000,Brisbane,1.0000000,Good,Good,0
+4157,36250,Redland,1.0000000,Good,Good,0
+4158,36250,Redland,1.0000000,Good,Good,0
+4159,36250,Redland,1.0000000,Good,Good,0
+4160,36250,Redland,1.0000000,Good,Good,0
+4161,36250,Redland,1.0000000,Good,Good,0
+4163,36250,Redland,1.0000000,Good,Good,0
+4164,36250,Redland,1.0000000,Good,Good,0
+4165,36250,Redland,1.0000000,Good,Good,0
+4169,31000,Brisbane,1.0000000,Good,Good,0
+4170,31000,Brisbane,1.0000000,Good,Good,0
+4171,31000,Brisbane,1.0000000,Good,Good,0
+4172,31000,Brisbane,1.0000000,Good,Good,0
+4173,31000,Brisbane,1.0000000,Good,Good,0
+4174,31000,Brisbane,1.0000000,Good,Good,0
+4178,31000,Brisbane,1.0000000,Good,Good,0
+4179,31000,Brisbane,1.0000000,Good,Good,0
+4183,36250,Redland,1.0000000,Good,Good,0
+4184,36250,Redland,1.0000000,Good,Good,0
+4205,34590,Logan,1.0000000,Good,Good,0
+4207,33430,Gold Coast,0.0589186,Good,Good,0
+4207,34590,Logan,0.9410814,Good,Good,0
+4208,33430,Gold Coast,1.0000000,Good,Good,0
+4209,33430,Gold Coast,1.0000000,Good,Good,0
+4210,33430,Gold Coast,1.0000000,Good,Good,0
+4211,36510,Scenic Rim,0.0137037,Acceptable,Good,0
+4211,33430,Gold Coast,0.9862963,Good,Good,0
+4212,33430,Gold Coast,1.0000000,Good,Good,0
+4213,33430,Gold Coast,1.0000000,Good,Good,0
+4214,33430,Gold Coast,1.0000000,Good,Good,0
+4215,33430,Gold Coast,1.0000000,Good,Good,0
+4216,33430,Gold Coast,1.0000000,Good,Good,0
+4217,33430,Gold Coast,1.0000000,Good,Good,0
+4218,33430,Gold Coast,1.0000000,Good,Good,0
+4220,33430,Gold Coast,1.0000000,Good,Good,0
+4221,33430,Gold Coast,1.0000000,Good,Good,0
+4223,33430,Gold Coast,1.0000000,Good,Good,0
+4224,33430,Gold Coast,1.0000000,Good,Good,0
+4225,33430,Gold Coast,1.0000000,Good,Good,0
+4226,33430,Gold Coast,1.0000000,Good,Good,0
+4227,33430,Gold Coast,1.0000000,Good,Good,0
+4228,33430,Gold Coast,1.0000000,Good,Good,0
+4270,36510,Scenic Rim,0.6844474,Acceptable,Good,0
+4270,34590,Logan,0.3155526,Good,Good,0
+4272,36510,Scenic Rim,1.0000000,Acceptable,Good,0
+4275,36510,Scenic Rim,1.0000000,Acceptable,Good,0
+4280,34590,Logan,1.0000000,Good,Good,0
+4285,36510,Scenic Rim,0.6234851,Acceptable,Good,0
+4285,34590,Logan,0.3765149,Good,Good,0
+4287,36510,Scenic Rim,1.0000000,Acceptable,Good,0
+4300,33960,Ipswich,1.0000000,Good,Good,0
+4301,33960,Ipswich,1.0000000,Good,Good,0
+4303,33960,Ipswich,1.0000000,Good,Good,0
+4304,33960,Ipswich,1.0000000,Good,Good,0
+4305,36510,Scenic Rim,0.0020995,Acceptable,Good,1
+4305,33960,Ipswich,0.9979005,Good,Good,0
+4306,36510,Scenic Rim,0.0231738,Acceptable,Good,0
+4306,31000,Brisbane,0.1414939,Good,Good,0
+4306,33960,Ipswich,0.7076591,Good,Good,0
+4306,36580,Somerset,0.1276733,Poor,Good,0
+4307,36510,Scenic Rim,0.9421441,Acceptable,Good,0
+4307,33960,Ipswich,0.0578559,Good,Good,0
+4309,36510,Scenic Rim,1.0000000,Acceptable,Good,0
+4310,36510,Scenic Rim,1.0000000,Acceptable,Good,0
+4311,34580,Lockyer Valley,0.1519079,Acceptable,Good,0
+4311,36580,Somerset,0.8480921,Poor,Good,0
+4312,36580,Somerset,1.0000000,Poor,Good,0
+4313,36580,Somerset,1.0000000,Poor,Good,0
+4314,36630,South Burnett,0.7081466,Good,Good,0
+4314,36910,Toowoomba,0.0728078,Good,Good,0
+4314,36580,Somerset,0.2190457,Poor,Good,0
+4340,36510,Scenic Rim,0.0962646,Acceptable,Good,0
+4340,33960,Ipswich,0.9037354,Good,Good,0
+4341,34580,Lockyer Valley,1.0000000,Acceptable,Good,0
+4342,34580,Lockyer Valley,0.9977649,Acceptable,Good,0
+4342,36580,Somerset,0.0022351,Poor,Good,1
+4343,34580,Lockyer Valley,1.0000000,Acceptable,Good,0
+4344,34580,Lockyer Valley,1.0000000,Acceptable,Good,0
+4346,33960,Ipswich,0.9173997,Good,Good,0
+4346,36580,Somerset,0.0826003,Poor,Good,0
+4347,34580,Lockyer Valley,1.0000000,Acceptable,Good,0
+4350,36910,Toowoomba,1.0000000,Good,Good,0
+4352,34580,Lockyer Valley,0.1497310,Acceptable,Good,0
+4352,33610,Goondiwindi,0.0021269,Good,Good,1
+4352,36660,Southern Downs,0.0148507,Good,Good,0
+4352,36910,Toowoomba,0.8332914,Good,Good,0
+4353,36910,Toowoomba,1.0000000,Good,Good,0
+4354,36910,Toowoomba,1.0000000,Good,Good,0
+4355,36910,Toowoomba,1.0000000,Good,Good,0
+4356,36910,Toowoomba,1.0000000,Good,Good,0
+4357,33610,Goondiwindi,0.0059952,Good,Good,1
+4357,36910,Toowoomba,0.9940048,Good,Good,0
+4358,36910,Toowoomba,1.0000000,Good,Good,0
+4359,34580,Lockyer Valley,0.0087290,Acceptable,Good,1
+4359,36910,Toowoomba,0.9912710,Good,Good,0
+4360,36910,Toowoomba,1.0000000,Good,Good,0
+4361,36660,Southern Downs,0.0411747,Good,Good,0
+4361,36910,Toowoomba,0.9588253,Good,Good,0
+4362,36660,Southern Downs,1.0000000,Good,Good,0
+4363,36910,Toowoomba,1.0000000,Good,Good,0
+4364,36910,Toowoomba,1.0000000,Good,Good,0
+4365,36660,Southern Downs,0.7967884,Good,Good,0
+4365,36910,Toowoomba,0.2032116,Good,Good,0
+4370,36660,Southern Downs,1.0000000,Good,Good,0
+4371,36660,Southern Downs,1.0000000,Good,Good,0
+4372,36660,Southern Downs,1.0000000,Good,Good,0
+4373,36660,Southern Downs,1.0000000,Good,Good,0
+4374,36660,Southern Downs,1.0000000,Good,Good,0
+4375,17400,Tenterfield,0.0905266,Acceptable,Good,0
+4375,36660,Southern Downs,0.9094734,Good,Good,0
+4376,36660,Southern Downs,1.0000000,Good,Good,0
+4377,17400,Tenterfield,0.1424226,Acceptable,Good,0
+4377,36660,Southern Downs,0.8575774,Good,Good,0
+4378,36660,Southern Downs,1.0000000,Good,Good,0
+4380,17400,Tenterfield,0.0139173,Acceptable,Good,0
+4380,36660,Southern Downs,0.9860827,Good,Good,0
+4381,36660,Southern Downs,1.0000000,Good,Good,0
+4382,36660,Southern Downs,1.0000000,Good,Good,0
+4383,17400,Tenterfield,0.2769011,Acceptable,Good,0
+4383,36660,Southern Downs,0.7230989,Good,Good,0
+4384,33610,Goondiwindi,1.0000000,Good,Good,0
+4385,33610,Goondiwindi,0.9442511,Good,Good,0
+4385,14220,Inverell,0.0557489,Good,Good,0
+4387,33610,Goondiwindi,1.0000000,Good,Good,0
+4388,33610,Goondiwindi,1.0000000,Good,Good,0
+4390,33610,Goondiwindi,1.0000000,Good,Good,0
+4400,36910,Toowoomba,1.0000000,Good,Good,0
+4401,36910,Toowoomba,1.0000000,Good,Good,0
+4402,36910,Toowoomba,1.0000000,Good,Good,0
+4403,36910,Toowoomba,1.0000000,Good,Good,0
+4404,36910,Toowoomba,0.8114634,Good,Good,0
+4404,37310,Western Downs,0.1885366,Good,Good,0
+4405,34860,Maranoa,0.0031712,Good,Good,1
+4405,36630,South Burnett,0.0012006,Good,Good,1
+4405,36910,Toowoomba,0.0043697,Good,Good,1
+4405,37310,Western Downs,0.9912585,Good,Good,0
+4406,33610,Goondiwindi,0.0095507,Good,Good,1
+4406,37310,Western Downs,0.9904493,Good,Good,0
+4407,36910,Toowoomba,1.0000000,Good,Good,0
+4408,37310,Western Downs,1.0000000,Good,Good,0
+4410,37310,Western Downs,1.0000000,Good,Good,0
+4411,37310,Western Downs,1.0000000,Good,Good,0
+4412,37310,Western Downs,1.0000000,Good,Good,0
+4413,37310,Western Downs,1.0000000,Good,Good,0
+4415,37310,Western Downs,1.0000000,Good,Good,0
+4416,37310,Western Downs,1.0000000,Good,Good,0
+4417,34860,Maranoa,1.0000000,Good,Good,0
+4418,37310,Western Downs,1.0000000,Good,Good,0
+4419,30370,Banana,0.0381028,Acceptable,Good,0
+4419,37310,Western Downs,0.9618972,Good,Good,0
+4420,30370,Banana,0.9577944,Acceptable,Good,0
+4420,37310,Western Downs,0.0422056,Good,Good,0
+4421,37310,Western Downs,1.0000000,Good,Good,0
+4422,37310,Western Downs,1.0000000,Good,Good,0
+4423,34860,Maranoa,0.5361990,Good,Good,0
+4423,37310,Western Downs,0.4638010,Good,Good,0
+4424,37310,Western Downs,1.0000000,Good,Good,0
+4425,37310,Western Downs,1.0000000,Good,Good,0
+4426,34860,Maranoa,1.0000000,Good,Good,0
+4427,34860,Maranoa,0.9203438,Good,Good,0
+4427,37310,Western Downs,0.0796562,Good,Good,0
+4428,34860,Maranoa,1.0000000,Good,Good,0
+4454,32270,Central Highlands (Qld),0.1784462,Acceptable,Good,0
+4454,34860,Maranoa,0.8215538,Good,Good,0
+4455,34860,Maranoa,1.0000000,Good,Good,0
+4461,34860,Maranoa,1.0000000,Good,Good,0
+4462,34860,Maranoa,1.0000000,Good,Good,0
+4465,34860,Maranoa,1.0000000,Good,Good,0
+4467,34860,Maranoa,0.9999355,Good,Good,0
+4467,35600,Murweh,0.0000645,Good,Good,1
+4468,35600,Murweh,1.0000000,Good,Good,0
+4470,35600,Murweh,1.0000000,Good,Good,0
+4472,30760,Blackall Tambo,1.0000000,Good,Good,0
+4474,36150,Quilpie,1.0000000,Good,Good,0
+4477,35600,Murweh,1.0000000,Good,Good,0
+4478,30760,Blackall Tambo,1.0000000,Good,Good,0
+4479,35600,Murweh,1.0000000,Good,Good,0
+4480,36150,Quilpie,1.0000000,Good,Good,0
+4481,30450,Barcoo,1.0000000,Acceptable,Good,0
+4482,32750,Diamantina,1.0000000,Poor,Good,0
+4486,30300,Balonne,1.0000000,Good,Good,0
+4487,30300,Balonne,0.9848094,Good,Good,0
+4487,34860,Maranoa,0.0151906,Good,Good,0
+4488,30300,Balonne,0.8449965,Good,Good,0
+4488,34860,Maranoa,0.1550035,Good,Good,0
+4489,35800,Paroo,1.0000000,Good,Good,0
+4490,35800,Paroo,1.0000000,Good,Good,0
+4491,35800,Paroo,1.0000000,Good,Good,0
+4492,31750,Bulloo,1.0000000,Good,Good,0
+4493,31750,Bulloo,0.9991694,Good,Good,0
+4493,35800,Paroo,0.0008306,Good,Good,1
+4494,33610,Goondiwindi,1.0000000,Good,Good,0
+4496,33610,Goondiwindi,1.0000000,Good,Good,0
+4497,30300,Balonne,0.7404455,Good,Good,0
+4497,33610,Goondiwindi,0.2595545,Good,Good,0
+4498,33610,Goondiwindi,1.0000000,Good,Good,0
+4500,35010,Moreton Bay,1.0000000,Good,Good,0
+4501,35010,Moreton Bay,1.0000000,Good,Good,0
+4502,35010,Moreton Bay,1.0000000,Good,Good,0
+4503,35010,Moreton Bay,1.0000000,Good,Good,0
+4504,35010,Moreton Bay,1.0000000,Good,Good,0
+4505,35010,Moreton Bay,1.0000000,Good,Good,0
+4506,35010,Moreton Bay,1.0000000,Good,Good,0
+4507,35010,Moreton Bay,1.0000000,Good,Good,0
+4508,35010,Moreton Bay,1.0000000,Good,Good,0
+4509,35010,Moreton Bay,1.0000000,Good,Good,0
+4510,35010,Moreton Bay,1.0000000,Good,Good,0
+4511,35010,Moreton Bay,1.0000000,Good,Good,0
+4512,35010,Moreton Bay,1.0000000,Good,Good,0
+4513,35010,Moreton Bay,1.0000000,Good,Good,0
+4514,35010,Moreton Bay,0.9250114,Good,Good,0
+4514,36580,Somerset,0.0749886,Poor,Good,0
+4515,36580,Somerset,1.0000000,Poor,Good,0
+4516,35010,Moreton Bay,1.0000000,Good,Good,0
+4517,36720,Sunshine Coast,1.0000000,Good,Good,0
+4518,36720,Sunshine Coast,1.0000000,Good,Good,0
+4519,36720,Sunshine Coast,1.0000000,Good,Good,0
+4520,31000,Brisbane,0.0023901,Good,Good,1
+4520,35010,Moreton Bay,0.9976099,Good,Good,0
+4521,35010,Moreton Bay,1.0000000,Good,Good,0
+4550,36720,Sunshine Coast,1.0000000,Good,Good,0
+4551,36720,Sunshine Coast,1.0000000,Good,Good,0
+4552,35010,Moreton Bay,0.0149714,Good,Good,0
+4552,36720,Sunshine Coast,0.9850286,Good,Good,0
+4553,36720,Sunshine Coast,1.0000000,Good,Good,0
+4554,36720,Sunshine Coast,1.0000000,Good,Good,0
+4555,36720,Sunshine Coast,1.0000000,Good,Good,0
+4556,36720,Sunshine Coast,1.0000000,Good,Good,0
+4557,36720,Sunshine Coast,1.0000000,Good,Good,0
+4558,36720,Sunshine Coast,1.0000000,Good,Good,0
+4559,36720,Sunshine Coast,1.0000000,Good,Good,0
+4560,36720,Sunshine Coast,1.0000000,Good,Good,0
+4561,36720,Sunshine Coast,1.0000000,Good,Good,0
+4562,35740,Noosa,0.0862546,Good,Good,0
+4562,36720,Sunshine Coast,0.9137454,Good,Good,0
+4563,33620,Gympie,0.0507068,Good,Good,0
+4563,35740,Noosa,0.9492932,Good,Good,0
+4564,36720,Sunshine Coast,1.0000000,Good,Good,0
+4565,35740,Noosa,1.0000000,Good,Good,0
+4566,35740,Noosa,1.0000000,Good,Good,0
+4567,35740,Noosa,1.0000000,Good,Good,0
+4568,35740,Noosa,1.0000000,Good,Good,0
+4569,35740,Noosa,1.0000000,Good,Good,0
+4570,33220,Fraser Coast,0.0516234,Good,Good,0
+4570,33620,Gympie,0.9483766,Good,Good,0
+4571,35740,Noosa,1.0000000,Good,Good,0
+4572,36720,Sunshine Coast,1.0000000,Good,Good,0
+4573,35740,Noosa,0.1308458,Good,Good,0
+4573,36720,Sunshine Coast,0.8691542,Good,Good,0
+4574,33620,Gympie,0.0837292,Good,Good,0
+4574,36720,Sunshine Coast,0.9162708,Good,Good,0
+4575,36720,Sunshine Coast,1.0000000,Good,Good,0
+4580,33620,Gympie,1.0000000,Good,Good,0
+4581,33220,Fraser Coast,0.1129265,Good,Good,0
+4581,33620,Gympie,0.8870735,Good,Good,0
+4600,33620,Gympie,1.0000000,Good,Good,0
+4601,33620,Gympie,1.0000000,Good,Good,0
+4605,33620,Gympie,0.0116607,Good,Good,0
+4605,36630,South Burnett,0.7399371,Good,Good,0
+4605,32330,Cherbourg,0.2484023,Poor,Good,0
+4606,36630,South Burnett,1.0000000,Good,Good,0
+4608,36630,South Burnett,1.0000000,Good,Good,0
+4610,36630,South Burnett,1.0000000,Good,Good,0
+4611,36630,South Burnett,1.0000000,Good,Good,0
+4612,36630,South Burnett,1.0000000,Good,Good,0
+4613,36630,South Burnett,1.0000000,Good,Good,0
+4614,36630,South Burnett,0.0147546,Good,Good,0
+4614,36910,Toowoomba,0.9852454,Good,Good,0
+4615,33620,Gympie,0.0035677,Good,Good,1
+4615,36630,South Burnett,0.9964323,Good,Good,0
+4620,33220,Fraser Coast,1.0000000,Good,Good,0
+4621,33220,Fraser Coast,0.0489261,Good,Good,0
+4621,35760,North Burnett,0.9510739,Good,Good,0
+4625,35760,North Burnett,1.0000000,Good,Good,0
+4626,35760,North Burnett,1.0000000,Good,Good,0
+4627,35760,North Burnett,1.0000000,Good,Good,0
+4630,31820,Bundaberg,0.0072996,Good,Good,1
+4630,35760,North Burnett,0.9927004,Good,Good,0
+4650,33220,Fraser Coast,1.0000000,Good,Good,0
+4655,33220,Fraser Coast,1.0000000,Good,Good,0
+4659,33220,Fraser Coast,1.0000000,Good,Good,0
+4660,31820,Bundaberg,0.9987549,Good,Good,0
+4660,33220,Fraser Coast,0.0012451,Good,Good,1
+4662,33220,Fraser Coast,1.0000000,Good,Good,0
+4670,31820,Bundaberg,1.0000000,Good,Good,0
+4671,31820,Bundaberg,0.9198436,Good,Good,0
+4671,35760,North Burnett,0.0801564,Good,Good,0
+4673,31820,Bundaberg,1.0000000,Good,Good,0
+4674,33360,Gladstone,1.0000000,Good,Good,0
+4676,33360,Gladstone,1.0000000,Good,Good,0
+4677,33360,Gladstone,1.0000000,Good,Good,0
+4678,33360,Gladstone,1.0000000,Good,Good,0
+4680,33360,Gladstone,1.0000000,Good,Good,0
+4694,33360,Gladstone,1.0000000,Good,Good,0
+4695,33360,Gladstone,1.0000000,Good,Good,0
+4697,33360,Gladstone,1.0000000,Good,Good,0
+4699,36370,Rockhampton,1.0000000,Acceptable,Good,0
+4700,34530,Livingstone,0.0034812,Acceptable,Good,1
+4700,36370,Rockhampton,0.9965188,Acceptable,Good,0
+4701,34530,Livingstone,0.0552164,Acceptable,Good,0
+4701,36370,Rockhampton,0.9447836,Acceptable,Good,0
+4702,30370,Banana,0.0622204,Acceptable,Good,0
+4702,32270,Central Highlands (Qld),0.1210862,Acceptable,Good,0
+4702,34530,Livingstone,0.1514223,Acceptable,Good,0
+4702,36370,Rockhampton,0.6651701,Acceptable,Good,0
+4702,37550,Woorabinda,0.0001011,Good,Good,1
+4703,34530,Livingstone,1.0000000,Acceptable,Good,0
+4704,34530,Livingstone,1.0000000,Acceptable,Good,0
+4705,34530,Livingstone,0.4261375,Acceptable,Good,0
+4705,33980,Isaac,0.5738625,Good,Good,0
+4706,34530,Livingstone,1.0000000,Acceptable,Good,0
+4707,33980,Isaac,1.0000000,Good,Good,0
+4709,32270,Central Highlands (Qld),1.0000000,Acceptable,Good,0
+4710,34530,Livingstone,1.0000000,Acceptable,Good,0
+4711,34530,Livingstone,1.0000000,Acceptable,Good,0
+4712,32270,Central Highlands (Qld),1.0000000,Acceptable,Good,0
+4713,37550,Woorabinda,1.0000000,Good,Good,0
+4714,36370,Rockhampton,1.0000000,Acceptable,Good,0
+4715,30370,Banana,1.0000000,Acceptable,Good,0
+4716,30370,Banana,1.0000000,Acceptable,Good,0
+4717,32270,Central Highlands (Qld),1.0000000,Acceptable,Good,0
+4718,30370,Banana,0.9165234,Acceptable,Good,0
+4718,32270,Central Highlands (Qld),0.0834727,Acceptable,Good,0
+4718,37550,Woorabinda,0.0000039,Good,Good,1
+4719,30370,Banana,1.0000000,Acceptable,Good,0
+4720,32270,Central Highlands (Qld),1.0000000,Acceptable,Good,0
+4721,32270,Central Highlands (Qld),0.0153984,Acceptable,Good,0
+4721,33980,Isaac,0.9846016,Good,Good,0
+4722,32270,Central Highlands (Qld),1.0000000,Acceptable,Good,0
+4723,32270,Central Highlands (Qld),1.0000000,Acceptable,Good,0
+4724,32270,Central Highlands (Qld),0.0000001,Acceptable,Good,1
+4724,30410,Barcaldine,0.9755856,Good,Good,0
+4724,33980,Isaac,0.0244143,Good,Good,0
+4725,30410,Barcaldine,1.0000000,Good,Good,0
+4726,30410,Barcaldine,1.0000000,Good,Good,0
+4727,34710,Longreach,1.0000000,Good,Good,0
+4728,30410,Barcaldine,1.0000000,Good,Good,0
+4730,30450,Barcoo,0.0189197,Acceptable,Good,0
+4730,34710,Longreach,0.9810803,Good,Good,0
+4731,34710,Longreach,1.0000000,Good,Good,0
+4732,30410,Barcaldine,0.9910672,Good,Good,0
+4732,34710,Longreach,0.0089328,Good,Good,1
+4733,37400,Winton,1.0000000,Good,Good,0
+4735,37400,Winton,0.9999894,Good,Good,0
+4735,32750,Diamantina,0.0000106,Poor,Good,1
+4736,30450,Barcoo,1.0000000,Acceptable,Good,0
+4737,33980,Isaac,0.0099749,Good,Good,1
+4737,34770,Mackay,0.9900251,Good,Good,0
+4738,33980,Isaac,0.3367249,Good,Good,0
+4738,34770,Mackay,0.6632751,Good,Good,0
+4739,33980,Isaac,1.0000000,Good,Good,0
+4740,34770,Mackay,1.0000000,Good,Good,0
+4741,33980,Isaac,0.1076864,Good,Good,0
+4741,34770,Mackay,0.8923136,Good,Good,0
+4742,33980,Isaac,1.0000000,Good,Good,0
+4743,33980,Isaac,1.0000000,Good,Good,0
+4744,33980,Isaac,1.0000000,Good,Good,0
+4745,33980,Isaac,1.0000000,Good,Good,0
+4746,33980,Isaac,1.0000000,Good,Good,0
+4750,34770,Mackay,1.0000000,Good,Good,0
+4751,34770,Mackay,1.0000000,Good,Good,0
+4753,34770,Mackay,1.0000000,Good,Good,0
+4754,34770,Mackay,1.0000000,Good,Good,0
+4756,34770,Mackay,1.0000000,Good,Good,0
+4757,34770,Mackay,1.0000000,Good,Good,0
+4798,34770,Mackay,1.0000000,Good,Good,0
+4799,34770,Mackay,1.0000000,Good,Good,0
+4800,34770,Mackay,0.0087997,Good,Good,1
+4800,37340,Whitsunday,0.9912003,Good,Good,0
+4802,37340,Whitsunday,1.0000000,Good,Good,0
+4804,37340,Whitsunday,1.0000000,Good,Good,0
+4805,37340,Whitsunday,1.0000000,Good,Good,0
+4806,31900,Burdekin,1.0000000,Good,Good,0
+4807,31900,Burdekin,1.0000000,Good,Good,0
+4808,31900,Burdekin,1.0000000,Good,Good,0
+4809,31900,Burdekin,1.0000000,Good,Good,0
+4810,37010,Townsville,1.0000000,Good,Good,0
+4811,37010,Townsville,1.0000000,Good,Good,0
+4812,37010,Townsville,1.0000000,Good,Good,0
+4814,37010,Townsville,1.0000000,Good,Good,0
+4815,37010,Townsville,1.0000000,Good,Good,0
+4816,31900,Burdekin,0.0049644,Good,Good,1
+4816,32250,Carpentaria,0.0000011,Good,Good,1
+4816,32260,Cassowary Coast,0.0623937,Good,Good,0
+4816,32310,Charters Towers,0.0957453,Good,Good,0
+4816,33200,Flinders (Qld),0.0046439,Good,Good,1
+4816,33800,Hinchinbrook,0.0000011,Good,Good,1
+4816,34800,McKinlay,0.0005406,Good,Good,1
+4816,37010,Townsville,0.6045832,Good,Good,0
+4816,33100,Etheridge,0.0007564,Poor,Good,1
+4816,35790,Palm Island,0.2263704,Poor,Good,0
+4817,32310,Charters Towers,0.0064407,Good,Good,1
+4817,37010,Townsville,0.9935593,Good,Good,0
+4818,37010,Townsville,1.0000000,Good,Good,0
+4819,37010,Townsville,1.0000000,Good,Good,0
+4820,32310,Charters Towers,1.0000000,Good,Good,0
+4821,33200,Flinders (Qld),1.0000000,Good,Good,0
+4822,36300,Richmond,0.9999997,Good,Good,0
+4822,32600,Croydon,0.0000003,Poor,Good,1
+4823,32250,Carpentaria,0.0731603,Good,Good,0
+4823,34800,McKinlay,0.9201676,Good,Good,0
+4823,37400,Winton,0.0066610,Good,Good,1
+4823,30900,Boulia,0.0000111,Poor,Good,1
+4824,32450,Cloncurry,1.0000000,Good,Good,0
+4825,32450,Cloncurry,0.0095402,Good,Good,1
+4825,35300,Mount Isa,0.9636316,Good,Good,0
+4825,70420,Barkly,0.0211347,Poor,Good,0
+4825,30900,Boulia,0.0030051,Poor,Good,1
+4825,31950,Burke,0.0026884,Poor,Good,1
+4828,35300,Mount Isa,1.0000000,Good,Good,0
+4829,30900,Boulia,0.7120879,Poor,Good,0
+4829,32750,Diamantina,0.2879121,Poor,Good,0
+4830,32770,Doomadgee,0.8110526,Acceptable,Good,0
+4830,31950,Burke,0.1889474,Poor,Good,0
+4849,32260,Cassowary Coast,1.0000000,Good,Good,0
+4850,32310,Charters Towers,0.0035760,Good,Good,1
+4850,33800,Hinchinbrook,0.9964240,Good,Good,0
+4852,32260,Cassowary Coast,1.0000000,Good,Good,0
+4854,32260,Cassowary Coast,1.0000000,Good,Good,0
+4855,32260,Cassowary Coast,1.0000000,Good,Good,0
+4856,32260,Cassowary Coast,1.0000000,Good,Good,0
+4858,32260,Cassowary Coast,1.0000000,Good,Good,0
+4859,32260,Cassowary Coast,1.0000000,Good,Good,0
+4860,32080,Cairns,0.0107625,Good,Good,0
+4860,32260,Cassowary Coast,0.9885288,Good,Good,0
+4860,36820,Tablelands,0.0007088,Good,Good,1
+4861,32080,Cairns,1.0000000,Good,Good,0
+4865,32080,Cairns,1.0000000,Good,Good,0
+4868,32080,Cairns,1.0000000,Good,Good,0
+4869,32080,Cairns,1.0000000,Good,Good,0
+4870,32080,Cairns,1.0000000,Good,Good,0
+4871,34880,Mareeba,0.1602727,Acceptable,Good,0
+4871,32080,Cairns,0.2215144,Good,Good,0
+4871,32260,Cassowary Coast,0.2688084,Good,Good,0
+4871,32500,Cook,0.0318996,Poor,Good,0
+4871,32600,Croydon,0.0219135,Poor,Good,0
+4871,33100,Etheridge,0.0594771,Poor,Good,0
+4871,37600,Yarrabah,0.2361143,Poor,Good,0
+4872,34880,Mareeba,0.3743015,Acceptable,Good,0
+4872,36820,Tablelands,0.6256985,Good,Good,0
+4873,32810,Douglas,1.0000000,Good,Good,0
+4874,37300,Weipa,0.7525285,Acceptable,Good,0
+4874,32500,Cook,0.0075304,Poor,Good,1
+4874,34830,Mapoon,0.0779632,Poor,Good,0
+4874,35670,Napranum,0.1619779,Poor,Good,0
+4875,36950,Torres,0.4516416,Poor,Good,0
+4875,36960,Torres Strait Island,0.5483584,Poor,Good,0
+4876,35780,Northern Peninsula Area,0.9931855,Good,Good,0
+4876,36950,Torres,0.0068145,Poor,Good,1
+4877,32810,Douglas,1.0000000,Good,Good,0
+4878,32080,Cairns,1.0000000,Good,Good,0
+4879,32080,Cairns,1.0000000,Good,Good,0
+4880,34880,Mareeba,1.0000000,Acceptable,Good,0
+4881,34880,Mareeba,1.0000000,Acceptable,Good,0
+4882,36820,Tablelands,1.0000000,Good,Good,0
+4883,36820,Tablelands,1.0000000,Good,Good,0
+4884,36820,Tablelands,1.0000000,Good,Good,0
+4885,36820,Tablelands,1.0000000,Good,Good,0
+4886,36820,Tablelands,1.0000000,Good,Good,0
+4887,34880,Mareeba,0.1324280,Acceptable,Good,0
+4887,36820,Tablelands,0.8675720,Good,Good,0
+4888,36820,Tablelands,1.0000000,Good,Good,0
+4890,32250,Carpentaria,1.0000000,Good,Good,0
+4891,32250,Carpentaria,1.0000000,Good,Good,0
+4892,34880,Mareeba,0.0097958,Acceptable,Good,1
+4892,32250,Carpentaria,0.0050936,Good,Good,1
+4892,30250,Aurukun,0.2154494,Poor,Good,0
+4892,32500,Cook,0.1170414,Poor,Good,0
+4892,34420,Kowanyama,0.2111425,Poor,Good,0
+4892,34570,Lockhart River,0.1209391,Poor,Good,0
+4892,35250,Mornington,0.1999942,Poor,Good,0
+4892,36070,Pormpuraaw,0.1205438,Poor,Good,0
+4895,32810,Douglas,0.0208048,Good,Good,0
+4895,32500,Cook,0.7059636,Poor,Good,0
+4895,33830,Hope Vale,0.2128029,Poor,Good,0
+4895,37570,Wujal Wujal,0.0604287,Poor,Good,0
+5000,40070,Adelaide,1.0000000,Good,Good,0
+5006,40070,Adelaide,1.0000000,Good,Good,0
+5007,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5008,41060,Charles Sturt,0.5948941,Acceptable,Good,0
+5008,45890,Port Adelaide Enfield,0.4051059,Acceptable,Good,0
+5009,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5010,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5011,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5012,41060,Charles Sturt,0.4030327,Acceptable,Good,0
+5012,45890,Port Adelaide Enfield,0.5969673,Acceptable,Good,0
+5013,41060,Charles Sturt,0.3558674,Acceptable,Good,0
+5013,45890,Port Adelaide Enfield,0.6441326,Acceptable,Good,0
+5014,41060,Charles Sturt,0.6978440,Acceptable,Good,0
+5014,45890,Port Adelaide Enfield,0.3021560,Acceptable,Good,0
+5015,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5016,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5017,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5018,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5019,41060,Charles Sturt,0.4835229,Acceptable,Good,0
+5019,45890,Port Adelaide Enfield,0.5164771,Acceptable,Good,0
+5020,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5021,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5022,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5023,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5024,41060,Charles Sturt,0.6620227,Acceptable,Good,0
+5024,48410,West Torrens,0.3379773,Acceptable,Good,0
+5025,41060,Charles Sturt,1.0000000,Acceptable,Good,0
+5031,48410,West Torrens,1.0000000,Acceptable,Good,0
+5032,48410,West Torrens,1.0000000,Acceptable,Good,0
+5033,48410,West Torrens,1.0000000,Acceptable,Good,0
+5034,47980,Unley,1.0000000,Acceptable,Good,0
+5035,47980,Unley,0.7009215,Acceptable,Good,0
+5035,48410,West Torrens,0.2990785,Acceptable,Good,0
+5037,44060,Marion,0.1482582,Acceptable,Good,0
+5037,48410,West Torrens,0.8517418,Acceptable,Good,0
+5038,44060,Marion,0.4950974,Acceptable,Good,0
+5038,48410,West Torrens,0.5049026,Acceptable,Good,0
+5039,44060,Marion,0.4866461,Acceptable,Good,0
+5039,44340,Mitcham,0.5133539,Acceptable,Good,0
+5040,48410,West Torrens,1.0000000,Acceptable,Good,0
+5041,44340,Mitcham,1.0000000,Acceptable,Good,0
+5042,44060,Marion,0.3264367,Acceptable,Good,0
+5042,44340,Mitcham,0.6735633,Acceptable,Good,0
+5043,44060,Marion,1.0000000,Acceptable,Good,0
+5044,42600,Holdfast Bay,0.5006444,Acceptable,Good,0
+5044,44060,Marion,0.4993556,Acceptable,Good,0
+5045,42600,Holdfast Bay,0.9291731,Acceptable,Good,0
+5045,48410,West Torrens,0.0708269,Acceptable,Good,0
+5046,44060,Marion,1.0000000,Acceptable,Good,0
+5047,44060,Marion,0.9291363,Acceptable,Good,0
+5047,45340,Onkaparinga,0.0708637,Good,Good,0
+5048,42600,Holdfast Bay,0.8014019,Acceptable,Good,0
+5048,44060,Marion,0.1985981,Acceptable,Good,0
+5049,42600,Holdfast Bay,0.4235092,Acceptable,Good,0
+5049,44060,Marion,0.5764908,Acceptable,Good,0
+5050,44340,Mitcham,1.0000000,Acceptable,Good,0
+5051,44340,Mitcham,0.7978412,Acceptable,Good,0
+5051,45340,Onkaparinga,0.2021588,Good,Good,0
+5052,40120,Adelaide Hills,0.0007447,Acceptable,Good,1
+5052,44340,Mitcham,0.9992553,Acceptable,Good,0
+5061,47980,Unley,1.0000000,Acceptable,Good,0
+5062,44340,Mitcham,1.0000000,Acceptable,Good,0
+5063,47980,Unley,0.8733029,Acceptable,Good,0
+5063,40700,Burnside,0.1266971,Poor,Good,0
+5064,44340,Mitcham,0.0988641,Acceptable,Good,0
+5064,47980,Unley,0.2940782,Acceptable,Good,0
+5064,40700,Burnside,0.6070577,Poor,Good,0
+5065,40700,Burnside,1.0000000,Poor,Good,0
+5066,40120,Adelaide Hills,0.0003272,Acceptable,Good,1
+5066,40700,Burnside,0.9996728,Poor,Good,0
+5067,45290,Norwood Payneham and St Peters,0.7213985,Acceptable,Good,0
+5067,40700,Burnside,0.2786015,Poor,Good,0
+5068,45290,Norwood Payneham and St Peters,0.4707232,Acceptable,Good,0
+5068,40700,Burnside,0.5292768,Poor,Good,0
+5069,45290,Norwood Payneham and St Peters,1.0000000,Acceptable,Good,0
+5070,45290,Norwood Payneham and St Peters,1.0000000,Acceptable,Good,0
+5072,40120,Adelaide Hills,0.1334405,Acceptable,Good,0
+5072,40910,Campbelltown (SA),0.5105730,Acceptable,Good,0
+5072,40700,Burnside,0.3559865,Poor,Good,0
+5073,40120,Adelaide Hills,0.0220626,Acceptable,Good,0
+5073,40910,Campbelltown (SA),0.9779374,Acceptable,Good,0
+5074,40910,Campbelltown (SA),1.0000000,Acceptable,Good,0
+5075,40910,Campbelltown (SA),0.6401339,Acceptable,Good,0
+5075,45890,Port Adelaide Enfield,0.0205801,Acceptable,Good,0
+5075,47700,Tea Tree Gully,0.3392860,Good,Good,0
+5076,40120,Adelaide Hills,0.0018746,Acceptable,Good,1
+5076,40910,Campbelltown (SA),0.9981254,Acceptable,Good,0
+5081,46510,Prospect,0.1878057,Acceptable,Good,0
+5081,48260,Walkerville,0.8121943,Acceptable,Good,0
+5082,41060,Charles Sturt,0.0324173,Acceptable,Good,0
+5082,45890,Port Adelaide Enfield,0.0008995,Acceptable,Good,1
+5082,46510,Prospect,0.9666832,Acceptable,Good,0
+5083,45890,Port Adelaide Enfield,0.4157710,Acceptable,Good,0
+5083,46510,Prospect,0.5842290,Acceptable,Good,0
+5084,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5085,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5086,45890,Port Adelaide Enfield,0.9065384,Acceptable,Good,0
+5086,47700,Tea Tree Gully,0.0934616,Good,Good,0
+5087,45890,Port Adelaide Enfield,1.0000000,Acceptable,Good,0
+5088,45890,Port Adelaide Enfield,0.1861658,Acceptable,Good,0
+5088,47700,Tea Tree Gully,0.8138342,Good,Good,0
+5089,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5090,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5091,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5092,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5093,45890,Port Adelaide Enfield,0.2205523,Acceptable,Good,0
+5093,47140,Salisbury,0.6358752,Good,Good,0
+5093,47700,Tea Tree Gully,0.1435725,Good,Good,0
+5094,45890,Port Adelaide Enfield,0.9650676,Acceptable,Good,0
+5094,47140,Salisbury,0.0349324,Good,Good,0
+5095,47140,Salisbury,1.0000000,Good,Good,0
+5096,47140,Salisbury,0.9968813,Good,Good,0
+5096,47700,Tea Tree Gully,0.0031187,Good,Good,1
+5097,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5098,45890,Port Adelaide Enfield,0.0305990,Acceptable,Good,0
+5098,47140,Salisbury,0.9694010,Good,Good,0
+5106,47140,Salisbury,1.0000000,Good,Good,0
+5107,47140,Salisbury,1.0000000,Good,Good,0
+5108,47140,Salisbury,1.0000000,Good,Good,0
+5109,47140,Salisbury,1.0000000,Good,Good,0
+5110,45680,Playford,0.1000619,Good,Good,0
+5110,47140,Salisbury,0.8999381,Good,Good,0
+5111,47140,Salisbury,1.0000000,Good,Good,0
+5112,45680,Playford,0.9791014,Good,Good,0
+5112,47140,Salisbury,0.0208986,Good,Good,0
+5113,45680,Playford,1.0000000,Good,Good,0
+5114,40120,Adelaide Hills,0.0048223,Acceptable,Good,1
+5114,42030,Gawler,0.0012190,Acceptable,Good,1
+5114,45680,Playford,0.9907351,Good,Good,0
+5114,47700,Tea Tree Gully,0.0032236,Good,Good,1
+5115,42030,Gawler,0.0425708,Acceptable,Good,0
+5115,45680,Playford,0.9574292,Good,Good,0
+5116,42030,Gawler,0.9874455,Acceptable,Good,0
+5116,45680,Playford,0.0125545,Good,Good,0
+5117,45680,Playford,1.0000000,Good,Good,0
+5118,40310,Barossa,0.0290019,Acceptable,Good,0
+5118,42030,Gawler,0.7212499,Acceptable,Good,0
+5118,45680,Playford,0.0128891,Good,Good,0
+5118,43650,Light,0.2368591,Poor,Good,0
+5120,45680,Playford,1.0000000,Good,Good,0
+5121,45680,Playford,1.0000000,Good,Good,0
+5125,47140,Salisbury,0.0013142,Good,Good,1
+5125,47700,Tea Tree Gully,0.9986858,Good,Good,0
+5126,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5127,47700,Tea Tree Gully,1.0000000,Good,Good,0
+5131,40120,Adelaide Hills,0.7509437,Acceptable,Good,0
+5131,47700,Tea Tree Gully,0.2490563,Good,Good,0
+5132,40120,Adelaide Hills,0.9419768,Acceptable,Good,0
+5132,47700,Tea Tree Gully,0.0580232,Good,Good,0
+5133,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5134,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5136,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5137,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5138,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5139,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5140,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5141,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5142,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5144,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5150,44340,Mitcham,0.6851166,Acceptable,Good,0
+5150,40700,Burnside,0.3148834,Poor,Good,0
+5151,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5152,40120,Adelaide Hills,0.9874594,Acceptable,Good,0
+5152,44340,Mitcham,0.0125406,Acceptable,Good,0
+5153,40120,Adelaide Hills,0.4501371,Acceptable,Good,0
+5153,40220,Alexandrina,0.0063118,Good,Good,1
+5153,44550,Mount Barker,0.5218446,Good,Good,0
+5153,45340,Onkaparinga,0.0217066,Good,Good,0
+5154,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5155,40120,Adelaide Hills,0.9965323,Acceptable,Good,0
+5155,44550,Mount Barker,0.0034677,Good,Good,1
+5156,40120,Adelaide Hills,0.8243390,Acceptable,Good,0
+5156,44340,Mitcham,0.1756610,Acceptable,Good,0
+5157,40120,Adelaide Hills,0.0026210,Acceptable,Good,1
+5157,40220,Alexandrina,0.1342893,Good,Good,0
+5157,44550,Mount Barker,0.0441774,Good,Good,0
+5157,45340,Onkaparinga,0.8189124,Good,Good,0
+5158,44060,Marion,0.9071930,Acceptable,Good,0
+5158,45340,Onkaparinga,0.0928070,Good,Good,0
+5159,45340,Onkaparinga,1.0000000,Good,Good,0
+5160,45340,Onkaparinga,1.0000000,Good,Good,0
+5161,45340,Onkaparinga,1.0000000,Good,Good,0
+5162,45340,Onkaparinga,1.0000000,Good,Good,0
+5163,45340,Onkaparinga,1.0000000,Good,Good,0
+5164,45340,Onkaparinga,1.0000000,Good,Good,0
+5165,45340,Onkaparinga,1.0000000,Good,Good,0
+5166,45340,Onkaparinga,1.0000000,Good,Good,0
+5167,45340,Onkaparinga,1.0000000,Good,Good,0
+5168,45340,Onkaparinga,1.0000000,Good,Good,0
+5169,45340,Onkaparinga,1.0000000,Good,Good,0
+5170,45340,Onkaparinga,1.0000000,Good,Good,0
+5171,45340,Onkaparinga,1.0000000,Good,Good,0
+5172,40220,Alexandrina,0.2009549,Good,Good,0
+5172,45340,Onkaparinga,0.7966569,Good,Good,0
+5172,48750,Yankalilla,0.0023882,Good,Good,1
+5173,45340,Onkaparinga,1.0000000,Good,Good,0
+5174,45340,Onkaparinga,0.9933623,Good,Good,0
+5174,48750,Yankalilla,0.0066377,Good,Good,1
+5201,40220,Alexandrina,0.1173160,Good,Good,0
+5201,44550,Mount Barker,0.8585672,Good,Good,0
+5201,45340,Onkaparinga,0.0241168,Good,Good,0
+5202,40220,Alexandrina,0.0014857,Good,Good,1
+5202,48050,Victor Harbor,0.1211292,Good,Good,0
+5202,48750,Yankalilla,0.8773851,Good,Good,0
+5203,48750,Yankalilla,1.0000000,Good,Good,0
+5204,48750,Yankalilla,1.0000000,Good,Good,0
+5210,40220,Alexandrina,0.9859534,Good,Good,0
+5210,48750,Yankalilla,0.0140466,Good,Good,0
+5211,40220,Alexandrina,0.0322889,Good,Good,0
+5211,48050,Victor Harbor,0.9513806,Good,Good,0
+5211,48750,Yankalilla,0.0163305,Good,Good,0
+5212,40220,Alexandrina,1.0000000,Good,Good,0
+5213,40220,Alexandrina,1.0000000,Good,Good,0
+5214,40220,Alexandrina,1.0000000,Good,Good,0
+5220,42750,Kangaroo Island,1.0000000,Good,Good,0
+5221,42750,Kangaroo Island,1.0000000,Good,Good,0
+5222,42750,Kangaroo Island,1.0000000,Good,Good,0
+5223,42750,Kangaroo Island,1.0000000,Good,Good,0
+5231,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5232,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5233,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5234,40120,Adelaide Hills,0.9939487,Acceptable,Good,0
+5234,44210,Mid Murray,0.0060513,Acceptable,Good,1
+5235,40120,Adelaide Hills,0.0222862,Acceptable,Good,0
+5235,40310,Barossa,0.9286542,Acceptable,Good,0
+5235,44210,Mid Murray,0.0490596,Acceptable,Good,0
+5236,44210,Mid Murray,0.9937149,Acceptable,Good,0
+5236,44550,Mount Barker,0.0062851,Good,Good,1
+5237,44210,Mid Murray,1.0000000,Acceptable,Good,0
+5238,44210,Mid Murray,0.9835303,Acceptable,Good,0
+5238,43080,Karoonda East Murray,0.0164697,Good,Good,0
+5240,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5241,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5242,40120,Adelaide Hills,1.0000000,Acceptable,Good,0
+5243,40120,Adelaide Hills,0.9839009,Acceptable,Good,0
+5243,44550,Mount Barker,0.0160991,Good,Good,0
+5244,40120,Adelaide Hills,0.8893215,Acceptable,Good,0
+5244,44210,Mid Murray,0.0119379,Acceptable,Good,0
+5244,44550,Mount Barker,0.0987406,Good,Good,0
+5245,40120,Adelaide Hills,0.0605504,Acceptable,Good,0
+5245,44550,Mount Barker,0.9394496,Good,Good,0
+5250,44550,Mount Barker,1.0000000,Good,Good,0
+5251,44550,Mount Barker,1.0000000,Good,Good,0
+5252,40120,Adelaide Hills,0.0009552,Acceptable,Good,1
+5252,44550,Mount Barker,0.9990448,Good,Good,0
+5253,44210,Mid Murray,0.0003198,Acceptable,Good,1
+5253,45040,Murray Bridge,0.9996802,Good,Good,0
+5254,44210,Mid Murray,0.1129848,Acceptable,Good,0
+5254,44550,Mount Barker,0.1224794,Good,Good,0
+5254,45040,Murray Bridge,0.7645358,Good,Good,0
+5255,40220,Alexandrina,0.9952248,Good,Good,0
+5255,45040,Murray Bridge,0.0047752,Good,Good,1
+5256,40220,Alexandrina,1.0000000,Good,Good,0
+5259,47800,Coorong,0.5517381,Good,Good,0
+5259,45040,Murray Bridge,0.4482619,Good,Good,0
+5260,47800,Coorong,1.0000000,Good,Good,0
+5261,47800,Coorong,1.0000000,Good,Good,0
+5262,45090,Naracoorte Lucindale,1.0000000,Good,Good,0
+5263,48340,Wattle Range,1.0000000,Good,Good,0
+5264,43360,Kingston (SA),0.0027576,Acceptable,Good,1
+5264,47800,Coorong,0.9972424,Good,Good,0
+5265,47800,Coorong,1.0000000,Good,Good,0
+5266,47800,Coorong,1.0000000,Good,Good,0
+5267,47800,Coorong,0.0311248,Good,Good,0
+5267,47630,Tatiara,0.9688752,Good,Good,0
+5268,47630,Tatiara,1.0000000,Good,Good,0
+5269,47630,Tatiara,1.0000000,Good,Good,0
+5270,47630,Tatiara,1.0000000,Good,Good,0
+5271,43360,Kingston (SA),0.0126213,Acceptable,Good,0
+5271,45090,Naracoorte Lucindale,0.9443934,Good,Good,0
+5271,47630,Tatiara,0.0416361,Good,Good,0
+5271,48340,Wattle Range,0.0013492,Good,Good,1
+5272,46860,Robe,0.0388003,Acceptable,Good,0
+5272,45090,Naracoorte Lucindale,0.9590961,Good,Good,0
+5272,48340,Wattle Range,0.0021037,Good,Good,1
+5273,43360,Kingston (SA),0.1121358,Acceptable,Good,0
+5273,45090,Naracoorte Lucindale,0.8878642,Good,Good,0
+5275,43360,Kingston (SA),0.9321779,Acceptable,Good,0
+5275,46860,Robe,0.0678221,Acceptable,Good,0
+5276,46860,Robe,0.9847341,Acceptable,Good,0
+5276,48340,Wattle Range,0.0152659,Good,Good,0
+5277,42250,Grant,0.1531739,Acceptable,Good,0
+5277,48340,Wattle Range,0.8468261,Good,Good,0
+5278,42250,Grant,0.0438184,Acceptable,Good,0
+5278,48340,Wattle Range,0.9561816,Good,Good,0
+5279,45090,Naracoorte Lucindale,0.0018956,Good,Good,1
+5279,48340,Wattle Range,0.9981044,Good,Good,0
+5280,42250,Grant,0.0014591,Acceptable,Good,1
+5280,46860,Robe,0.0031819,Acceptable,Good,1
+5280,48340,Wattle Range,0.9953591,Good,Good,0
+5290,44620,Mount Gambier,1.0000000,Good,Good,0
+5291,42250,Grant,0.8066108,Acceptable,Good,0
+5291,44620,Mount Gambier,0.1264456,Good,Good,0
+5291,48340,Wattle Range,0.0669436,Good,Good,0
+5301,47800,Coorong,0.6691147,Good,Good,0
+5301,43080,Karoonda East Murray,0.0022964,Good,Good,1
+5301,47290,Southern Mallee,0.3285888,Good,Good,0
+5302,47290,Southern Mallee,0.9952650,Good,Good,0
+5302,47630,Tatiara,0.0047350,Good,Good,1
+5303,47290,Southern Mallee,1.0000000,Good,Good,0
+5304,43790,Loxton Waikerie,0.0465823,Good,Good,0
+5304,47290,Southern Mallee,0.9534177,Good,Good,0
+5306,43080,Karoonda East Murray,1.0000000,Good,Good,0
+5307,43080,Karoonda East Murray,0.9977024,Good,Good,0
+5307,47290,Southern Mallee,0.0022976,Good,Good,1
+5308,43080,Karoonda East Murray,0.9308657,Good,Good,0
+5308,43790,Loxton Waikerie,0.0691343,Good,Good,0
+5309,43080,Karoonda East Murray,1.0000000,Good,Good,0
+5310,43080,Karoonda East Murray,0.8843198,Good,Good,0
+5310,43790,Loxton Waikerie,0.1156802,Good,Good,0
+5311,43790,Loxton Waikerie,1.0000000,Good,Good,0
+5320,44210,Mid Murray,0.9484921,Acceptable,Good,0
+5320,42110,Goyder,0.0000143,Good,Good,1
+5320,43790,Loxton Waikerie,0.0514936,Good,Good,0
+5321,44210,Mid Murray,1.0000000,Acceptable,Good,0
+5322,43790,Loxton Waikerie,1.0000000,Good,Good,0
+5330,44210,Mid Murray,0.0044758,Acceptable,Good,1
+5330,40520,Berri Barmera,0.0158129,Good,Good,0
+5330,43790,Loxton Waikerie,0.9773229,Good,Good,0
+5330,49399,Unincorporated SA,0.0023885,Poor,Good,1
+5331,43790,Loxton Waikerie,1.0000000,Good,Good,0
+5332,43790,Loxton Waikerie,1.0000000,Good,Good,0
+5333,43790,Loxton Waikerie,1.0000000,Good,Good,0
+5340,46670,Renmark Paringa,1.0000000,Good,Good,0
+5341,46670,Renmark Paringa,0.9998428,Good,Good,0
+5341,49399,Unincorporated SA,0.0001572,Poor,Good,1
+5342,40520,Berri Barmera,0.9972857,Good,Good,0
+5342,49399,Unincorporated SA,0.0027143,Poor,Good,1
+5343,40520,Berri Barmera,0.8987380,Good,Good,0
+5343,43790,Loxton Waikerie,0.0008143,Good,Good,1
+5343,46670,Renmark Paringa,0.0904624,Good,Good,0
+5343,49399,Unincorporated SA,0.0099853,Poor,Good,1
+5344,40520,Berri Barmera,1.0000000,Good,Good,0
+5345,40520,Berri Barmera,0.9985668,Good,Good,0
+5345,49399,Unincorporated SA,0.0014332,Poor,Good,1
+5346,40520,Berri Barmera,1.0000000,Good,Good,0
+5350,40310,Barossa,0.8609431,Acceptable,Good,0
+5350,43650,Light,0.1390569,Poor,Good,0
+5351,40120,Adelaide Hills,0.0003743,Acceptable,Good,1
+5351,40310,Barossa,0.9960729,Acceptable,Good,0
+5351,43650,Light,0.0035528,Poor,Good,1
+5352,40310,Barossa,0.9567015,Acceptable,Good,0
+5352,43650,Light,0.0432985,Poor,Good,0
+5353,40310,Barossa,0.7576996,Acceptable,Good,0
+5353,44210,Mid Murray,0.2423004,Acceptable,Good,0
+5354,44210,Mid Murray,0.9633549,Acceptable,Good,0
+5354,43080,Karoonda East Murray,0.0219676,Good,Good,0
+5354,43790,Loxton Waikerie,0.0146776,Good,Good,0
+5355,40310,Barossa,0.8861130,Acceptable,Good,0
+5355,43650,Light,0.1138870,Poor,Good,0
+5356,40310,Barossa,0.0057069,Acceptable,Good,1
+5356,44210,Mid Murray,0.8880435,Acceptable,Good,0
+5356,42110,Goyder,0.0222526,Good,Good,0
+5356,43650,Light,0.0839969,Poor,Good,0
+5357,44210,Mid Murray,0.7267175,Acceptable,Good,0
+5357,43790,Loxton Waikerie,0.2732825,Good,Good,0
+5360,43650,Light,1.0000000,Poor,Good,0
+5371,43650,Light,1.0000000,Poor,Good,0
+5372,43650,Light,1.0000000,Poor,Good,0
+5373,43650,Light,1.0000000,Poor,Good,0
+5374,44210,Mid Murray,0.0260766,Acceptable,Good,0
+5374,42110,Goyder,0.9638949,Good,Good,0
+5374,43650,Light,0.0100284,Poor,Good,0
+5381,42110,Goyder,1.0000000,Good,Good,0
+5400,43650,Light,1.0000000,Poor,Good,0
+5401,48130,Wakefield,0.9369539,Acceptable,Good,0
+5401,41140,Clare and Gilbert Valleys,0.0440122,Good,Good,0
+5401,43650,Light,0.0190339,Poor,Good,0
+5410,41140,Clare and Gilbert Valleys,0.8718558,Good,Good,0
+5410,43650,Light,0.1281442,Poor,Good,0
+5411,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5412,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5413,41140,Clare and Gilbert Valleys,0.9721735,Good,Good,0
+5413,42110,Goyder,0.0278265,Good,Good,0
+5414,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5415,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5416,41140,Clare and Gilbert Valleys,0.0722760,Good,Good,0
+5416,42110,Goyder,0.9277240,Good,Good,0
+5417,42110,Goyder,0.9768312,Good,Good,0
+5417,49399,Unincorporated SA,0.0231688,Poor,Good,0
+5418,42110,Goyder,1.0000000,Good,Good,0
+5419,42110,Goyder,1.0000000,Good,Good,0
+5420,42110,Goyder,0.8768848,Good,Good,0
+5420,45120,Northern Areas,0.1231152,Good,Good,0
+5421,42110,Goyder,1.0000000,Good,Good,0
+5422,45400,Orroroo Carrieton,0.0061257,Acceptable,Good,1
+5422,45120,Northern Areas,0.0366726,Good,Good,0
+5422,45540,Peterborough,0.9572017,Good,Good,0
+5431,45400,Orroroo Carrieton,0.8861086,Acceptable,Good,0
+5431,44830,Mount Remarkable,0.0756367,Good,Good,0
+5431,45120,Northern Areas,0.0318492,Good,Good,0
+5431,49399,Unincorporated SA,0.0064056,Poor,Good,1
+5432,45400,Orroroo Carrieton,0.6037084,Acceptable,Good,0
+5432,41830,Flinders Ranges,0.2980362,Good,Good,0
+5432,44830,Mount Remarkable,0.0229846,Good,Good,0
+5432,49399,Unincorporated SA,0.0752709,Poor,Good,0
+5433,41830,Flinders Ranges,0.9860452,Good,Good,0
+5433,44830,Mount Remarkable,0.0129381,Good,Good,0
+5433,49399,Unincorporated SA,0.0010167,Poor,Good,1
+5434,41830,Flinders Ranges,0.7844698,Good,Good,0
+5434,49399,Unincorporated SA,0.2155302,Poor,Good,0
+5440,45540,Peterborough,0.0000545,Good,Good,1
+5440,49399,Unincorporated SA,0.9999455,Poor,Good,0
+5451,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5452,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5453,48130,Wakefield,0.0378950,Acceptable,Good,0
+5453,41140,Clare and Gilbert Valleys,0.9621050,Good,Good,0
+5454,45120,Northern Areas,1.0000000,Good,Good,0
+5455,41140,Clare and Gilbert Valleys,1.0000000,Good,Good,0
+5460,48130,Wakefield,0.8523574,Acceptable,Good,0
+5460,40150,Adelaide Plains,0.1476426,Good,Good,0
+5461,48130,Wakefield,0.9946332,Acceptable,Good,0
+5461,41140,Clare and Gilbert Valleys,0.0053668,Good,Good,1
+5462,48130,Wakefield,1.0000000,Acceptable,Good,0
+5464,48130,Wakefield,0.6311986,Acceptable,Good,0
+5464,41140,Clare and Gilbert Valleys,0.0488713,Good,Good,0
+5464,46450,Port Pirie,0.3199302,Good,Good,0
+5470,45120,Northern Areas,1.0000000,Good,Good,0
+5471,45120,Northern Areas,1.0000000,Good,Good,0
+5472,45120,Northern Areas,1.0000000,Good,Good,0
+5473,45120,Northern Areas,1.0000000,Good,Good,0
+5480,44830,Mount Remarkable,0.1051248,Good,Good,0
+5480,45120,Northern Areas,0.8948752,Good,Good,0
+5481,44830,Mount Remarkable,0.9965349,Good,Good,0
+5481,45120,Northern Areas,0.0034651,Good,Good,1
+5482,44830,Mount Remarkable,1.0000000,Good,Good,0
+5483,44830,Mount Remarkable,1.0000000,Good,Good,0
+5485,41830,Flinders Ranges,0.0046581,Good,Good,1
+5485,44830,Mount Remarkable,0.9953419,Good,Good,0
+5490,45120,Northern Areas,1.0000000,Good,Good,0
+5491,45120,Northern Areas,1.0000000,Good,Good,0
+5493,45540,Peterborough,1.0000000,Good,Good,0
+5495,44830,Mount Remarkable,0.9999769,Good,Good,0
+5495,46090,Port Augusta,0.0000058,Good,Good,1
+5495,46450,Port Pirie,0.0000173,Good,Good,1
+5501,48130,Wakefield,0.0129434,Acceptable,Good,0
+5501,40150,Adelaide Plains,0.9870566,Good,Good,0
+5502,48130,Wakefield,0.0035013,Acceptable,Good,1
+5502,40150,Adelaide Plains,0.9766852,Good,Good,0
+5502,43650,Light,0.0198135,Poor,Good,0
+5510,48130,Wakefield,1.0000000,Acceptable,Good,0
+5520,40430,Barunga West,0.0775017,Acceptable,Good,0
+5520,48130,Wakefield,0.9224983,Acceptable,Good,0
+5521,46450,Port Pirie,1.0000000,Good,Good,0
+5522,40430,Barunga West,1.0000000,Acceptable,Good,0
+5523,40430,Barunga West,0.0138360,Acceptable,Good,0
+5523,45120,Northern Areas,0.0838759,Good,Good,0
+5523,46450,Port Pirie,0.9022881,Good,Good,0
+5540,44830,Mount Remarkable,0.0058323,Good,Good,1
+5540,46450,Port Pirie,0.9941677,Good,Good,0
+5550,40430,Barunga West,0.0155995,Acceptable,Good,0
+5550,48130,Wakefield,0.9844005,Acceptable,Good,0
+5552,40430,Barunga West,0.2968138,Acceptable,Good,0
+5552,41560,Copper Coast,0.4380618,Good,Good,0
+5552,48830,Yorke Peninsula,0.2651245,Good,Good,0
+5554,40430,Barunga West,0.0085524,Acceptable,Good,1
+5554,41560,Copper Coast,0.9914476,Good,Good,0
+5555,40430,Barunga West,0.8186460,Acceptable,Good,0
+5555,48130,Wakefield,0.0897026,Acceptable,Good,0
+5555,41560,Copper Coast,0.0273025,Good,Good,0
+5555,46450,Port Pirie,0.0643489,Good,Good,0
+5556,41560,Copper Coast,1.0000000,Good,Good,0
+5558,41560,Copper Coast,0.9793277,Good,Good,0
+5558,48830,Yorke Peninsula,0.0206723,Good,Good,0
+5560,40430,Barunga West,0.9928430,Acceptable,Good,0
+5560,48130,Wakefield,0.0071570,Acceptable,Good,1
+5570,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5571,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5572,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5573,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5575,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5576,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5577,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5580,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5581,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5582,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5583,48830,Yorke Peninsula,1.0000000,Good,Good,0
+5600,48540,Whyalla,0.9999984,Good,Good,0
+5600,49399,Unincorporated SA,0.0000016,Poor,Good,1
+5601,48540,Whyalla,0.9998891,Good,Good,0
+5601,49399,Unincorporated SA,0.0001109,Poor,Good,1
+5602,41190,Cleve,0.0430791,Good,Good,0
+5602,41960,Franklin Harbour,0.9569209,Good,Good,0
+5603,41190,Cleve,1.0000000,Good,Good,0
+5604,47910,Tumby Bay,0.9943768,Acceptable,Good,0
+5604,41190,Cleve,0.0056232,Good,Good,1
+5605,47910,Tumby Bay,1.0000000,Acceptable,Good,0
+5606,43710,Lower Eyre Peninsula,0.0034696,Acceptable,Good,1
+5606,46300,Port Lincoln,0.9965304,Good,Good,0
+5607,41750,Elliston,0.0343787,Acceptable,Good,0
+5607,43710,Lower Eyre Peninsula,0.8431988,Acceptable,Good,0
+5607,47910,Tumby Bay,0.1224226,Acceptable,Good,0
+5608,48540,Whyalla,1.0000000,Good,Good,0
+5609,48540,Whyalla,0.9991797,Good,Good,0
+5609,49399,Unincorporated SA,0.0008203,Poor,Good,1
+5611,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5630,43710,Lower Eyre Peninsula,1.0000000,Acceptable,Good,0
+5631,43710,Lower Eyre Peninsula,0.9249097,Acceptable,Good,0
+5631,47910,Tumby Bay,0.0750903,Acceptable,Good,0
+5632,43710,Lower Eyre Peninsula,1.0000000,Acceptable,Good,0
+5633,41750,Elliston,0.9553059,Acceptable,Good,0
+5633,41190,Cleve,0.0446941,Good,Good,0
+5640,41190,Cleve,0.9873680,Good,Good,0
+5640,43220,Kimba,0.0126320,Good,Good,0
+5641,43220,Kimba,1.0000000,Good,Good,0
+5642,41190,Cleve,1.0000000,Good,Good,0
+5650,43220,Kimba,0.1437518,Good,Good,0
+5650,48640,Wudinna,0.8562482,Good,Good,0
+5651,48640,Wudinna,1.0000000,Good,Good,0
+5652,48640,Wudinna,1.0000000,Good,Good,0
+5653,48640,Wudinna,1.0000000,Good,Good,0
+5654,41750,Elliston,0.0340663,Acceptable,Good,0
+5654,47490,Streaky Bay,0.0680900,Acceptable,Good,0
+5654,48640,Wudinna,0.8978437,Good,Good,0
+5655,47490,Streaky Bay,0.9998680,Acceptable,Good,0
+5655,49399,Unincorporated SA,0.0001320,Poor,Good,1
+5660,47490,Streaky Bay,1.0000000,Acceptable,Good,0
+5661,47490,Streaky Bay,0.8734221,Acceptable,Good,0
+5661,41010,Ceduna,0.1265779,Poor,Good,0
+5670,41750,Elliston,1.0000000,Acceptable,Good,0
+5671,41750,Elliston,0.3446393,Acceptable,Good,0
+5671,47490,Streaky Bay,0.6553607,Acceptable,Good,0
+5680,47490,Streaky Bay,0.8427128,Acceptable,Good,0
+5680,41010,Ceduna,0.1572871,Poor,Good,0
+5690,41010,Ceduna,0.7922534,Poor,Good,0
+5690,44000,Maralinga Tjarutja,0.0243502,Poor,Good,0
+5690,49399,Unincorporated SA,0.1833964,Poor,Good,0
+5700,44830,Mount Remarkable,0.0002733,Good,Good,1
+5700,46090,Port Augusta,0.9993995,Good,Good,0
+5700,49399,Unincorporated SA,0.0003272,Poor,Good,1
+5701,44830,Mount Remarkable,0.8995226,Good,Good,0
+5701,46090,Port Augusta,0.0002809,Good,Good,1
+5701,49399,Unincorporated SA,0.1001965,Poor,Good,0
+5710,46090,Port Augusta,1.0000000,Good,Good,0
+5713,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5715,46090,Port Augusta,0.0512809,Good,Good,0
+5715,49399,Unincorporated SA,0.9487191,Poor,Good,0
+5717,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5719,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5720,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5722,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5723,41330,Coober Pedy,0.9154206,Good,Good,0
+5723,49399,Unincorporated SA,0.0845794,Poor,Good,0
+5724,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5725,46970,Roxby Downs,0.9995595,Good,Good,0
+5725,49399,Unincorporated SA,0.0004405,Poor,Good,1
+5730,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5731,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5732,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5733,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5734,49399,Unincorporated SA,1.0000000,Poor,Good,0
+5950,48410,West Torrens,1.0000000,Acceptable,Good,0
+6000,57080,Perth,0.5119397,Poor,Good,0
+6000,58570,Vincent,0.4880603,Poor,Good,0
+6003,57080,Perth,0.3765410,Poor,Good,0
+6003,58570,Vincent,0.6234590,Poor,Good,0
+6004,57080,Perth,0.9786211,Poor,Good,0
+6004,58570,Vincent,0.0213789,Poor,Good,0
+6005,57080,Perth,0.6121189,Poor,Good,0
+6005,58570,Vincent,0.3878811,Poor,Good,0
+6006,58570,Vincent,1.0000000,Poor,Good,0
+6007,51310,Cambridge,0.5474719,Acceptable,Good,0
+6007,58570,Vincent,0.4525281,Poor,Good,0
+6008,51310,Cambridge,0.0049886,Acceptable,Good,1
+6008,57980,Subiaco,0.9902087,Good,Good,0
+6008,56580,Nedlands,0.0048028,Poor,Good,1
+6009,56580,Nedlands,0.7451675,Poor,Good,0
+6009,57080,Perth,0.2548325,Poor,Good,0
+6010,51310,Cambridge,0.0262700,Acceptable,Good,0
+6010,52170,Cottesloe,0.0118064,Acceptable,Good,0
+6010,51750,Claremont,0.6007807,Poor,Good,0
+6010,56580,Nedlands,0.3611429,Poor,Good,0
+6011,52170,Cottesloe,0.8285533,Acceptable,Good,0
+6011,56930,Peppermint Grove,0.1714467,Poor,Good,0
+6012,55740,Mosman Park,1.0000000,Good,Good,0
+6014,51310,Cambridge,0.7707897,Acceptable,Good,0
+6014,57910,Stirling,0.1192259,Good,Good,0
+6014,57980,Subiaco,0.0616625,Good,Good,0
+6014,56580,Nedlands,0.0483218,Poor,Good,0
+6015,51310,Cambridge,0.9984490,Acceptable,Good,0
+6015,57910,Stirling,0.0015510,Good,Good,1
+6016,57910,Stirling,0.2441060,Good,Good,0
+6016,58570,Vincent,0.7558940,Poor,Good,0
+6017,57910,Stirling,0.9992477,Good,Good,0
+6017,58570,Vincent,0.0007523,Poor,Good,1
+6018,57910,Stirling,1.0000000,Good,Good,0
+6019,57910,Stirling,1.0000000,Good,Good,0
+6020,54170,Joondalup,0.4561460,Good,Good,0
+6020,57910,Stirling,0.5438540,Good,Good,0
+6021,57910,Stirling,1.0000000,Good,Good,0
+6022,57910,Stirling,1.0000000,Good,Good,0
+6023,54170,Joondalup,1.0000000,Good,Good,0
+6024,54170,Joondalup,1.0000000,Good,Good,0
+6025,54170,Joondalup,1.0000000,Good,Good,0
+6026,54170,Joondalup,0.9721918,Good,Good,0
+6026,58760,Wanneroo,0.0278082,Good,Good,0
+6027,54170,Joondalup,1.0000000,Good,Good,0
+6028,54170,Joondalup,1.0000000,Good,Good,0
+6029,57910,Stirling,1.0000000,Good,Good,0
+6030,58760,Wanneroo,1.0000000,Good,Good,0
+6031,58760,Wanneroo,1.0000000,Good,Good,0
+6032,58760,Wanneroo,1.0000000,Good,Good,0
+6033,58760,Wanneroo,1.0000000,Good,Good,0
+6034,58760,Wanneroo,1.0000000,Good,Good,0
+6035,58760,Wanneroo,1.0000000,Good,Good,0
+6036,58760,Wanneroo,1.0000000,Good,Good,0
+6037,58760,Wanneroo,1.0000000,Good,Good,0
+6038,58760,Wanneroo,1.0000000,Good,Good,0
+6041,53570,Gingin,1.0000000,Good,Good,0
+6042,53570,Gingin,1.0000000,Good,Good,0
+6043,53570,Gingin,1.0000000,Good,Good,0
+6044,52590,Dandaragan,0.0152924,Good,Good,0
+6044,53570,Gingin,0.9847076,Good,Good,0
+6050,50420,Bayswater,0.0508943,Good,Good,0
+6050,57910,Stirling,0.7257659,Good,Good,0
+6050,58570,Vincent,0.2233398,Poor,Good,0
+6051,50420,Bayswater,1.0000000,Good,Good,0
+6052,50420,Bayswater,0.5045585,Good,Good,0
+6052,57910,Stirling,0.4954415,Good,Good,0
+6053,50420,Bayswater,1.0000000,Good,Good,0
+6054,50350,Bassendean,0.7621741,Acceptable,Good,0
+6054,58050,Swan,0.2378259,Acceptable,Good,0
+6055,58050,Swan,1.0000000,Acceptable,Good,0
+6056,56090,Mundaring,0.3394961,Acceptable,Good,0
+6056,58050,Swan,0.6603821,Acceptable,Good,0
+6056,54200,Kalamunda,0.0001218,Good,Good,1
+6057,54200,Kalamunda,1.0000000,Good,Good,0
+6058,54200,Kalamunda,1.0000000,Good,Good,0
+6059,50420,Bayswater,0.0113705,Good,Good,0
+6059,57910,Stirling,0.9886295,Good,Good,0
+6060,57910,Stirling,1.0000000,Good,Good,0
+6061,57910,Stirling,1.0000000,Good,Good,0
+6062,50420,Bayswater,1.0000000,Good,Good,0
+6063,58050,Swan,1.0000000,Acceptable,Good,0
+6064,58760,Wanneroo,1.0000000,Good,Good,0
+6065,58760,Wanneroo,1.0000000,Good,Good,0
+6066,58050,Swan,1.0000000,Acceptable,Good,0
+6067,58050,Swan,1.0000000,Acceptable,Good,0
+6068,58050,Swan,1.0000000,Acceptable,Good,0
+6069,58050,Swan,1.0000000,Acceptable,Good,0
+6070,56090,Mundaring,1.0000000,Acceptable,Good,0
+6071,56090,Mundaring,1.0000000,Acceptable,Good,0
+6072,56090,Mundaring,1.0000000,Acceptable,Good,0
+6073,56090,Mundaring,1.0000000,Acceptable,Good,0
+6074,56090,Mundaring,1.0000000,Acceptable,Good,0
+6076,54200,Kalamunda,1.0000000,Good,Good,0
+6077,58760,Wanneroo,1.0000000,Good,Good,0
+6078,58760,Wanneroo,1.0000000,Good,Good,0
+6079,58050,Swan,1.0000000,Acceptable,Good,0
+6081,56090,Mundaring,1.0000000,Acceptable,Good,0
+6082,56090,Mundaring,1.0000000,Acceptable,Good,0
+6083,56090,Mundaring,0.0016162,Acceptable,Good,1
+6083,58050,Swan,0.7832914,Acceptable,Good,0
+6083,58330,Toodyay,0.2150924,Acceptable,Good,0
+6084,58050,Swan,0.6213499,Acceptable,Good,0
+6084,51680,Chittering,0.3786501,Poor,Good,0
+6090,58050,Swan,1.0000000,Acceptable,Good,0
+6100,58510,Victoria Park,1.0000000,Good,Good,0
+6101,58510,Victoria Park,1.0000000,Good,Good,0
+6102,57840,South Perth,0.0001208,Good,Good,1
+6102,58510,Victoria Park,0.2654407,Good,Good,0
+6102,51330,Canning,0.7344385,Poor,Good,0
+6103,50490,Belmont,1.0000000,Good,Good,0
+6104,50490,Belmont,1.0000000,Good,Good,0
+6105,58050,Swan,0.0003685,Acceptable,Good,1
+6105,50490,Belmont,0.9996315,Good,Good,0
+6106,58510,Victoria Park,0.0008299,Good,Good,1
+6106,51330,Canning,0.9991701,Poor,Good,0
+6107,53780,Gosnells,0.3055352,Acceptable,Good,0
+6107,54200,Kalamunda,0.1339318,Good,Good,0
+6107,51330,Canning,0.5605330,Poor,Good,0
+6108,53780,Gosnells,1.0000000,Acceptable,Good,0
+6109,53780,Gosnells,1.0000000,Acceptable,Good,0
+6110,53780,Gosnells,1.0000000,Acceptable,Good,0
+6111,50210,Armadale,0.9988987,Good,Good,0
+6111,54200,Kalamunda,0.0011013,Good,Good,1
+6112,50210,Armadale,1.0000000,Good,Good,0
+6121,57700,Serpentine-Jarrahdale,1.0000000,Good,Good,0
+6122,57700,Serpentine-Jarrahdale,1.0000000,Good,Good,0
+6123,57700,Serpentine-Jarrahdale,1.0000000,Good,Good,0
+6124,57700,Serpentine-Jarrahdale,1.0000000,Good,Good,0
+6125,57700,Serpentine-Jarrahdale,1.0000000,Good,Good,0
+6126,56230,Murray,0.2638588,Good,Good,0
+6126,57700,Serpentine-Jarrahdale,0.7361412,Good,Good,0
+6147,53780,Gosnells,0.3666207,Acceptable,Good,0
+6147,51330,Canning,0.6333793,Poor,Good,0
+6148,51330,Canning,1.0000000,Poor,Good,0
+6149,51820,Cockburn,0.1106629,Acceptable,Good,0
+6149,55320,Melville,0.8624791,Good,Good,0
+6149,51330,Canning,0.0268579,Poor,Good,0
+6150,55320,Melville,1.0000000,Good,Good,0
+6151,57840,South Perth,0.9969672,Good,Good,0
+6151,58510,Victoria Park,0.0030328,Good,Good,1
+6152,57840,South Perth,1.0000000,Good,Good,0
+6153,55320,Melville,1.0000000,Good,Good,0
+6154,55320,Melville,1.0000000,Good,Good,0
+6155,53780,Gosnells,0.4543283,Acceptable,Good,0
+6155,51330,Canning,0.5456717,Poor,Good,0
+6156,55320,Melville,1.0000000,Good,Good,0
+6157,55320,Melville,1.0000000,Good,Good,0
+6158,53150,East Fremantle,1.0000000,Good,Good,0
+6159,53430,Fremantle,1.0000000,Acceptable,Good,0
+6160,53430,Fremantle,1.0000000,Acceptable,Good,0
+6161,51820,Cockburn,1.0000000,Acceptable,Good,0
+6162,53430,Fremantle,1.0000000,Acceptable,Good,0
+6163,51820,Cockburn,0.7114069,Acceptable,Good,0
+6163,53430,Fremantle,0.1215341,Acceptable,Good,0
+6163,55320,Melville,0.1670590,Good,Good,0
+6164,51820,Cockburn,1.0000000,Acceptable,Good,0
+6165,54830,Kwinana,1.0000000,Good,Good,0
+6166,51820,Cockburn,1.0000000,Acceptable,Good,0
+6167,54830,Kwinana,0.9998455,Good,Good,0
+6167,57700,Serpentine-Jarrahdale,0.0001545,Good,Good,1
+6168,57490,Rockingham,1.0000000,Good,Good,0
+6169,57490,Rockingham,1.0000000,Good,Good,0
+6170,54830,Kwinana,1.0000000,Good,Good,0
+6171,57490,Rockingham,1.0000000,Good,Good,0
+6172,57490,Rockingham,1.0000000,Good,Good,0
+6173,57490,Rockingham,1.0000000,Good,Good,0
+6174,57490,Rockingham,1.0000000,Good,Good,0
+6175,57490,Rockingham,1.0000000,Good,Good,0
+6176,57490,Rockingham,1.0000000,Good,Good,0
+6180,55110,Mandurah,1.0000000,Good,Good,0
+6181,56230,Murray,1.0000000,Good,Good,0
+6182,57490,Rockingham,1.0000000,Good,Good,0
+6207,56230,Murray,1.0000000,Good,Good,0
+6208,56230,Murray,1.0000000,Good,Good,0
+6209,56230,Murray,1.0000000,Good,Good,0
+6210,55110,Mandurah,1.0000000,Good,Good,0
+6211,55110,Mandurah,1.0000000,Good,Good,0
+6213,56230,Murray,1.0000000,Good,Good,0
+6214,56230,Murray,1.0000000,Good,Good,0
+6215,58820,Waroona,1.0000000,Good,Good,0
+6218,53990,Harvey,1.0000000,Good,Good,0
+6219,53990,Harvey,1.0000000,Good,Good,0
+6220,53990,Harvey,1.0000000,Good,Good,0
+6221,53990,Harvey,1.0000000,Good,Good,0
+6223,53990,Harvey,1.0000000,Good,Good,0
+6224,53990,Harvey,1.0000000,Good,Good,0
+6225,50770,Boyup Brook,0.0075412,Acceptable,Good,1
+6225,51890,Collie,0.9610953,Good,Good,0
+6225,52870,Donnybrook-Balingup,0.0215258,Good,Good,0
+6225,58890,West Arthur,0.0098376,Poor,Good,1
+6226,53990,Harvey,1.0000000,Good,Good,0
+6227,52660,Dardanup,1.0000000,Good,Good,0
+6228,52660,Dardanup,1.0000000,Good,Good,0
+6229,52660,Dardanup,0.8378783,Good,Good,0
+6229,51190,Bunbury,0.1621217,Poor,Good,0
+6230,51190,Bunbury,0.7315987,Poor,Good,0
+6230,51400,Capel,0.2684013,Poor,Good,0
+6232,52660,Dardanup,1.0000000,Good,Good,0
+6233,53990,Harvey,1.0000000,Good,Good,0
+6236,52660,Dardanup,1.0000000,Good,Good,0
+6237,51400,Capel,1.0000000,Poor,Good,0
+6239,52870,Donnybrook-Balingup,1.0000000,Good,Good,0
+6240,52870,Donnybrook-Balingup,1.0000000,Good,Good,0
+6243,50770,Boyup Brook,0.8375861,Acceptable,Good,0
+6243,52870,Donnybrook-Balingup,0.1624139,Good,Good,0
+6244,50770,Boyup Brook,0.9802288,Acceptable,Good,0
+6244,58890,West Arthur,0.0197712,Poor,Good,0
+6251,52870,Donnybrook-Balingup,1.0000000,Good,Good,0
+6252,52870,Donnybrook-Balingup,1.0000000,Good,Good,0
+6253,52870,Donnybrook-Balingup,1.0000000,Good,Good,0
+6254,50840,Bridgetown-Greenbushes,1.0000000,Good,Good,0
+6255,50770,Boyup Brook,0.0324595,Acceptable,Good,0
+6255,50840,Bridgetown-Greenbushes,0.9675405,Good,Good,0
+6256,50840,Bridgetown-Greenbushes,1.0000000,Good,Good,0
+6258,55180,Manjimup,0.9992264,Good,Good,0
+6258,56300,Nannup,0.0007736,Good,Good,1
+6260,55180,Manjimup,0.9481860,Good,Good,0
+6260,56300,Nannup,0.0518140,Good,Good,0
+6262,55180,Manjimup,1.0000000,Good,Good,0
+6271,51400,Capel,1.0000000,Poor,Good,0
+6275,51260,Busselton,0.0125699,Good,Good,0
+6275,52870,Donnybrook-Balingup,0.0072648,Good,Good,1
+6275,56300,Nannup,0.9801652,Good,Good,0
+6280,51260,Busselton,0.9989152,Good,Good,0
+6280,51400,Capel,0.0010848,Poor,Good,1
+6281,51260,Busselton,1.0000000,Good,Good,0
+6282,51260,Busselton,1.0000000,Good,Good,0
+6284,50280,Augusta Margaret River,1.0000000,Good,Good,0
+6285,50280,Augusta Margaret River,1.0000000,Good,Good,0
+6286,50280,Augusta Margaret River,1.0000000,Good,Good,0
+6288,50280,Augusta Margaret River,1.0000000,Good,Good,0
+6290,50280,Augusta Margaret River,1.0000000,Good,Good,0
+6302,50560,Beverley,0.0074795,Good,Good,1
+6302,59370,York,0.9925205,Good,Good,0
+6304,50560,Beverley,1.0000000,Good,Good,0
+6306,50560,Beverley,0.0013521,Good,Good,1
+6306,50910,Brookton,0.9503278,Good,Good,0
+6306,52100,Corrigin,0.0483200,Good,Good,0
+6308,57140,Pingelly,0.6577887,Poor,Good,0
+6308,58680,Wandering,0.3422113,Poor,Good,0
+6309,52310,Cuballing,1.0000000,Good,Good,0
+6311,52310,Cuballing,1.0000000,Good,Good,0
+6312,56460,Narrogin,0.9953392,Good,Good,0
+6312,59100,Wickepin,0.0046608,Good,Good,1
+6313,56460,Narrogin,1.0000000,Good,Good,0
+6315,53010,Dumbleyung,0.0282184,Acceptable,Good,0
+6315,58610,Wagin,0.9366376,Good,Good,0
+6315,58890,West Arthur,0.0351439,Poor,Good,0
+6316,59320,Woodanilling,1.0000000,Acceptable,Good,0
+6317,53010,Dumbleyung,0.0044164,Acceptable,Good,1
+6317,54340,Katanning,0.9955836,Good,Good,0
+6318,51080,Broomehill-Tambellup,1.0000000,Good,Good,0
+6320,51080,Broomehill-Tambellup,1.0000000,Good,Good,0
+6321,52240,Cranbrook,1.0000000,Good,Good,0
+6322,52240,Cranbrook,1.0000000,Good,Good,0
+6323,57210,Plantagenet,1.0000000,Good,Good,0
+6324,50080,Albany,0.0058897,Good,Good,1
+6324,57210,Plantagenet,0.9941103,Good,Good,0
+6326,57210,Plantagenet,1.0000000,Good,Good,0
+6327,50080,Albany,1.0000000,Good,Good,0
+6328,50080,Albany,1.0000000,Good,Good,0
+6330,50080,Albany,1.0000000,Good,Good,0
+6333,52730,Denmark,1.0000000,Good,Good,0
+6335,53640,Gnowangerup,1.0000000,Acceptable,Good,0
+6336,53640,Gnowangerup,0.7222612,Acceptable,Good,0
+6336,54130,Jerramungup,0.2777388,Acceptable,Good,0
+6337,54130,Jerramungup,1.0000000,Acceptable,Good,0
+6338,53640,Gnowangerup,0.2874349,Acceptable,Good,0
+6338,54130,Jerramungup,0.7125651,Acceptable,Good,0
+6341,54480,Kent,1.0000000,Good,Good,0
+6343,54480,Kent,1.0000000,Good,Good,0
+6346,54130,Jerramungup,0.0000001,Acceptable,Good,1
+6346,57420,Ravensthorpe,0.9999999,Good,Good,0
+6348,57420,Ravensthorpe,1.0000000,Good,Good,0
+6350,53010,Dumbleyung,1.0000000,Acceptable,Good,0
+6351,53010,Dumbleyung,1.0000000,Acceptable,Good,0
+6352,53010,Dumbleyung,1.0000000,Acceptable,Good,0
+6353,53010,Dumbleyung,0.0459751,Acceptable,Good,0
+6353,54900,Lake Grace,0.9540249,Good,Good,0
+6355,54760,Kulin,0.1002141,Good,Good,0
+6355,54900,Lake Grace,0.8997859,Good,Good,0
+6356,54900,Lake Grace,1.0000000,Good,Good,0
+6357,54760,Kulin,1.0000000,Good,Good,0
+6358,54620,Kondinin,1.0000000,Good,Good,0
+6359,54620,Kondinin,0.9188480,Good,Good,0
+6359,54760,Kulin,0.0811520,Good,Good,0
+6361,59100,Wickepin,1.0000000,Good,Good,0
+6363,54760,Kulin,1.0000000,Good,Good,0
+6365,54760,Kulin,1.0000000,Good,Good,0
+6367,54620,Kondinin,1.0000000,Good,Good,0
+6368,56370,Narembeen,1.0000000,Good,Good,0
+6369,56370,Narembeen,1.0000000,Good,Good,0
+6370,59100,Wickepin,1.0000000,Good,Good,0
+6372,59100,Wickepin,1.0000000,Good,Good,0
+6373,52100,Corrigin,1.0000000,Good,Good,0
+6375,52100,Corrigin,1.0000000,Good,Good,0
+6383,57350,Quairading,1.0000000,Good,Good,0
+6384,57350,Quairading,1.0000000,Good,Good,0
+6385,51120,Bruce Rock,1.0000000,Good,Good,0
+6386,51120,Bruce Rock,1.0000000,Good,Good,0
+6390,50630,Boddington,0.9934027,Good,Good,0
+6390,58680,Wandering,0.0065973,Poor,Good,1
+6391,50630,Boddington,0.0410706,Good,Good,0
+6391,59170,Williams,0.9589294,Good,Good,0
+6392,59170,Williams,0.0568443,Good,Good,0
+6392,58890,West Arthur,0.9431557,Poor,Good,0
+6393,58890,West Arthur,1.0000000,Poor,Good,0
+6394,59320,Woodanilling,0.1158714,Acceptable,Good,0
+6394,54550,Kojonup,0.7575088,Good,Good,0
+6394,58890,West Arthur,0.1266198,Poor,Good,0
+6395,54550,Kojonup,1.0000000,Good,Good,0
+6396,52240,Cranbrook,1.0000000,Good,Good,0
+6397,57210,Plantagenet,1.0000000,Good,Good,0
+6398,55180,Manjimup,1.0000000,Good,Good,0
+6401,56730,Northam,0.9764043,Good,Good,0
+6401,53710,Goomalling,0.0235957,Poor,Good,0
+6403,56730,Northam,1.0000000,Good,Good,0
+6405,52450,Cunderdin,1.0000000,Good,Good,0
+6407,52450,Cunderdin,1.0000000,Good,Good,0
+6409,58190,Tammin,1.0000000,Good,Good,0
+6410,54410,Kellerberrin,1.0000000,Good,Good,0
+6411,54410,Kellerberrin,1.0000000,Good,Good,0
+6412,54410,Kellerberrin,1.0000000,Good,Good,0
+6413,55460,Merredin,1.0000000,Good,Good,0
+6414,55460,Merredin,1.0000000,Good,Good,0
+6415,55460,Merredin,1.0000000,Good,Good,0
+6418,51120,Bruce Rock,1.0000000,Good,Good,0
+6419,51120,Bruce Rock,1.0000000,Good,Good,0
+6420,55460,Merredin,0.4942380,Good,Good,0
+6420,56370,Narembeen,0.5057620,Good,Good,0
+6421,59030,Westonia,0.1696966,Acceptable,Good,0
+6421,55460,Merredin,0.8303034,Good,Good,0
+6422,59030,Westonia,1.0000000,Acceptable,Good,0
+6423,59030,Westonia,1.0000000,Acceptable,Good,0
+6424,59360,Yilgarn,1.0000000,Good,Good,0
+6425,59360,Yilgarn,1.0000000,Good,Good,0
+6426,59360,Yilgarn,1.0000000,Good,Good,0
+6427,59360,Yilgarn,1.0000000,Good,Good,0
+6428,51120,Bruce Rock,1.0000000,Good,Good,0
+6429,51960,Coolgardie,1.0000000,Good,Good,0
+6430,54280,Kalgoorlie-Boulder,1.0000000,Good,Good,0
+6431,54280,Kalgoorlie-Boulder,0.0292664,Good,Good,0
+6431,55390,Menzies,0.1412704,Poor,Good,0
+6431,56620,Ngaanyatjarraku,0.8294633,Poor,Good,0
+6432,54280,Kalgoorlie-Boulder,1.0000000,Good,Good,0
+6434,54280,Kalgoorlie-Boulder,1.0000000,Good,Good,0
+6436,55390,Menzies,1.0000000,Poor,Good,0
+6437,55040,Leonora,1.0000000,Good,Good,0
+6438,55040,Leonora,1.0000000,Good,Good,0
+6440,54970,Laverton,1.0000000,Good,Good,0
+6442,51960,Coolgardie,1.0000000,Good,Good,0
+6443,51960,Coolgardie,0.0681993,Good,Good,0
+6443,53080,Dundas,0.9318007,Good,Good,0
+6445,53290,Esperance,1.0000000,Good,Good,0
+6446,53290,Esperance,1.0000000,Good,Good,0
+6447,53290,Esperance,1.0000000,Good,Good,0
+6448,53290,Esperance,1.0000000,Good,Good,0
+6450,53290,Esperance,0.9893964,Good,Good,0
+6450,57420,Ravensthorpe,0.0106036,Good,Good,0
+6452,53290,Esperance,1.0000000,Good,Good,0
+6460,53710,Goomalling,1.0000000,Poor,Good,0
+6461,52940,Dowerin,1.0000000,Good,Good,0
+6462,52940,Dowerin,1.0000000,Good,Good,0
+6463,59330,Wyalkatchem,1.0000000,Good,Good,0
+6465,52940,Dowerin,1.0000000,Good,Good,0
+6466,59310,Wongan-Ballidu,1.0000000,Good,Good,0
+6467,59310,Wongan-Ballidu,1.0000000,Good,Good,0
+6468,52520,Dalwallinu,1.0000000,Good,Good,0
+6470,54690,Koorda,1.0000000,Good,Good,0
+6472,55880,Mount Marshall,1.0000000,Good,Good,0
+6473,55880,Mount Marshall,0.4258745,Good,Good,0
+6473,55950,Mukinbudin,0.5741255,Good,Good,0
+6475,54690,Koorda,1.0000000,Good,Good,0
+6476,55880,Mount Marshall,1.0000000,Good,Good,0
+6477,55880,Mount Marshall,1.0000000,Good,Good,0
+6479,59030,Westonia,0.0158009,Acceptable,Good,0
+6479,55950,Mukinbudin,0.9841991,Good,Good,0
+6480,55460,Merredin,1.0000000,Good,Good,0
+6484,59360,Yilgarn,1.0000000,Good,Good,0
+6485,59330,Wyalkatchem,1.0000000,Good,Good,0
+6487,58400,Trayning,1.0000000,Good,Good,0
+6488,58400,Trayning,1.0000000,Good,Good,0
+6489,58400,Trayning,1.0000000,Good,Good,0
+6490,56860,Nungarin,1.0000000,Good,Good,0
+6501,51680,Chittering,1.0000000,Poor,Good,0
+6502,51680,Chittering,1.0000000,Poor,Good,0
+6503,53570,Gingin,1.0000000,Good,Good,0
+6504,51680,Chittering,1.0000000,Poor,Good,0
+6505,51680,Chittering,1.0000000,Poor,Good,0
+6506,58540,Victoria Plains,1.0000000,Acceptable,Good,0
+6507,52590,Dandaragan,1.0000000,Good,Good,0
+6509,58540,Victoria Plains,1.0000000,Acceptable,Good,0
+6510,58540,Victoria Plains,0.0252579,Acceptable,Good,0
+6510,55600,Moora,0.9747421,Good,Good,0
+6511,52590,Dandaragan,1.0000000,Good,Good,0
+6512,55600,Moora,1.0000000,Good,Good,0
+6513,52030,Coorow,0.1758845,Good,Good,0
+6513,55600,Moora,0.8241155,Good,Good,0
+6514,52030,Coorow,1.0000000,Good,Good,0
+6515,52030,Coorow,1.0000000,Good,Good,0
+6516,52590,Dandaragan,1.0000000,Good,Good,0
+6517,51470,Carnamah,1.0000000,Good,Good,0
+6518,51470,Carnamah,0.6701479,Good,Good,0
+6518,52030,Coorow,0.3298521,Good,Good,0
+6519,58260,Three Springs,1.0000000,Good,Good,0
+6521,52590,Dandaragan,1.0000000,Good,Good,0
+6522,55530,Mingenew,1.0000000,Good,Good,0
+6525,54060,Irwin,1.0000000,Good,Good,0
+6528,53800,Greater Geraldton,1.0000000,Good,Good,0
+6530,53800,Greater Geraldton,0.9951389,Good,Good,0
+6530,51610,Chapman Valley,0.0048611,Poor,Good,1
+6532,53800,Greater Geraldton,0.7732001,Good,Good,0
+6532,56790,Northampton,0.0199590,Good,Good,0
+6532,57770,Shark Bay,0.0048319,Good,Good,1
+6532,51610,Chapman Valley,0.2020090,Poor,Good,0
+6535,56790,Northampton,1.0000000,Good,Good,0
+6536,56790,Northampton,1.0000000,Good,Good,0
+6537,57770,Shark Bay,1.0000000,Good,Good,0
+6556,56090,Mundaring,1.0000000,Acceptable,Good,0
+6558,56090,Mundaring,1.0000000,Acceptable,Good,0
+6560,56730,Northam,1.0000000,Good,Good,0
+6562,56730,Northam,1.0000000,Good,Good,0
+6564,56730,Northam,1.0000000,Good,Good,0
+6566,58330,Toodyay,1.0000000,Acceptable,Good,0
+6567,58330,Toodyay,1.0000000,Acceptable,Good,0
+6568,58330,Toodyay,0.2946347,Acceptable,Good,0
+6568,58540,Victoria Plains,0.7053653,Acceptable,Good,0
+6569,58540,Victoria Plains,1.0000000,Acceptable,Good,0
+6571,58540,Victoria Plains,1.0000000,Acceptable,Good,0
+6572,58540,Victoria Plains,1.0000000,Acceptable,Good,0
+6574,55600,Moora,1.0000000,Good,Good,0
+6575,55600,Moora,1.0000000,Good,Good,0
+6603,59310,Wongan-Ballidu,0.9304097,Good,Good,0
+6603,53710,Goomalling,0.0695903,Poor,Good,0
+6605,59310,Wongan-Ballidu,1.0000000,Good,Good,0
+6606,52520,Dalwallinu,0.0647968,Good,Good,0
+6606,59310,Wongan-Ballidu,0.9352032,Good,Good,0
+6608,52520,Dalwallinu,1.0000000,Good,Good,0
+6609,52520,Dalwallinu,0.9982198,Good,Good,0
+6609,55600,Moora,0.0017802,Good,Good,1
+6612,59350,Yalgoo,0.1677523,Acceptable,Good,0
+6612,52520,Dalwallinu,0.8322477,Good,Good,0
+6613,52520,Dalwallinu,1.0000000,Good,Good,0
+6614,57000,Perenjori,1.0000000,Good,Good,0
+6616,57000,Perenjori,1.0000000,Good,Good,0
+6620,57000,Perenjori,1.0000000,Good,Good,0
+6623,55670,Morawa,0.9440564,Good,Good,0
+6623,57000,Perenjori,0.0559436,Good,Good,0
+6625,55670,Morawa,1.0000000,Good,Good,0
+6627,55670,Morawa,1.0000000,Good,Good,0
+6628,53800,Greater Geraldton,1.0000000,Good,Good,0
+6630,53800,Greater Geraldton,0.9371135,Good,Good,0
+6630,56160,Murchison,0.0628865,Poor,Good,0
+6631,53800,Greater Geraldton,1.0000000,Good,Good,0
+6632,53800,Greater Geraldton,1.0000000,Good,Good,0
+6635,59350,Yalgoo,0.8694415,Acceptable,Good,0
+6635,56160,Murchison,0.1305585,Poor,Good,0
+6638,55810,Mount Magnet,1.0000000,Good,Good,0
+6639,57630,Sandstone,1.0000000,Good,Good,0
+6640,52380,Cue,1.0000000,Good,Good,0
+6642,55250,Meekatharra,1.0000000,Good,Good,0
+6646,59250,Wiluna,1.0000000,Good,Good,0
+6701,51540,Carnarvon,1.0000000,Good,Good,0
+6705,58470,Upper Gascoyne,1.0000000,Good,Good,0
+6707,53360,Exmouth,1.0000000,Good,Good,0
+6710,50250,Ashburton,1.0000000,Good,Good,0
+6712,50250,Ashburton,0.3336362,Good,Good,0
+6713,54310,Karratha,0.9999998,Good,Good,0
+6714,54310,Karratha,1.0000000,Good,Good,0
+6716,50250,Ashburton,1.0000000,Good,Good,0
+6718,54310,Karratha,1.0000000,Good,Good,0
+6720,54310,Karratha,1.0000000,Good,Good,0
+6721,53220,East Pilbara,0.0000001,Good,Good,1
+6721,57280,Port Hedland,0.9999999,Good,Good,0
+6722,57280,Port Hedland,1.0000000,Good,Good,0
+6725,50980,Broome,0.9994564,Good,Good,0
+6725,52800,Derby-West Kimberley,0.0005436,Good,Good,1
+6726,50980,Broome,1.0000000,Good,Good,0
+6728,52800,Derby-West Kimberley,1.0000000,Good,Good,0
+6740,59340,Wyndham-East Kimberley,1.0000000,Good,Good,0
+6743,53920,Halls Creek,0.0726468,Acceptable,Good,0
+6743,59340,Wyndham-East Kimberley,0.9273532,Good,Good,0
+6751,50250,Ashburton,1.0000000,Good,Good,0
+6753,53220,East Pilbara,1.0000000,Good,Good,0
+6754,50250,Ashburton,1.0000000,Good,Good,0
+6758,53220,East Pilbara,1.0000000,Good,Good,0
+6760,53220,East Pilbara,0.9345038,Good,Good,0
+6760,57280,Port Hedland,0.0654962,Good,Good,0
+6762,53220,East Pilbara,1.0000000,Good,Good,0
+6765,53920,Halls Creek,0.0182687,Acceptable,Good,0
+6765,52800,Derby-West Kimberley,0.9817313,Good,Good,0
+6770,53920,Halls Creek,0.9788471,Acceptable,Good,0
+6770,52800,Derby-West Kimberley,0.0211529,Good,Good,0
+6798,51710,Christmas Island,1.0000000,Good,Good,0
+6799,51860,Cocos Islands,1.0000000,Good,Good,0
+7000,62810,Hobart,1.0000000,Good,Good,0
+7004,62810,Hobart,1.0000000,Good,Good,0
+7005,62810,Hobart,1.0000000,Good,Good,0
+7007,62810,Hobart,0.9987312,Good,Good,0
+7007,63610,Kingborough,0.0012688,Good,Good,1
+7008,62610,Glenorchy,0.0080039,Good,Good,1
+7008,62810,Hobart,0.9919961,Good,Good,0
+7009,62610,Glenorchy,1.0000000,Good,Good,0
+7010,62610,Glenorchy,1.0000000,Good,Good,0
+7011,61510,Derwent Valley,0.0005115,Acceptable,Good,1
+7011,62610,Glenorchy,0.9994885,Good,Good,0
+7012,61510,Derwent Valley,0.0526429,Acceptable,Good,0
+7012,62610,Glenorchy,0.9473571,Good,Good,0
+7015,61410,Clarence,1.0000000,Good,Good,0
+7016,61410,Clarence,1.0000000,Good,Good,0
+7017,61410,Clarence,0.1469529,Good,Good,0
+7017,60410,Brighton,0.8367152,Poor,Good,0
+7017,65010,Southern Midlands,0.0163319,Poor,Good,0
+7018,61410,Clarence,1.0000000,Good,Good,0
+7019,61410,Clarence,1.0000000,Good,Good,0
+7020,61410,Clarence,1.0000000,Good,Good,0
+7021,61410,Clarence,1.0000000,Good,Good,0
+7022,61410,Clarence,1.0000000,Good,Good,0
+7023,61410,Clarence,1.0000000,Good,Good,0
+7024,61410,Clarence,1.0000000,Good,Good,0
+7025,61410,Clarence,1.0000000,Good,Good,0
+7026,61410,Clarence,0.1278058,Good,Good,0
+7026,65010,Southern Midlands,0.8721942,Poor,Good,0
+7027,65010,Southern Midlands,1.0000000,Poor,Good,0
+7030,61510,Derwent Valley,0.0200109,Acceptable,Good,0
+7030,62610,Glenorchy,0.0770724,Good,Good,0
+7030,60410,Brighton,0.6957397,Poor,Good,0
+7030,61010,Central Highlands (Tas.),0.0446552,Poor,Good,0
+7030,65010,Southern Midlands,0.1625219,Poor,Good,0
+7050,62810,Hobart,0.0041457,Good,Good,1
+7050,63610,Kingborough,0.9958543,Good,Good,0
+7052,63610,Kingborough,1.0000000,Good,Good,0
+7053,63610,Kingborough,1.0000000,Good,Good,0
+7054,62810,Hobart,0.0977275,Good,Good,0
+7054,63610,Kingborough,0.9022725,Good,Good,0
+7055,63610,Kingborough,1.0000000,Good,Good,0
+7109,63010,Huon Valley,0.9806150,Good,Good,0
+7109,63610,Kingborough,0.0193850,Good,Good,0
+7112,63010,Huon Valley,1.0000000,Good,Good,0
+7113,63010,Huon Valley,1.0000000,Good,Good,0
+7116,63010,Huon Valley,1.0000000,Good,Good,0
+7117,63010,Huon Valley,1.0000000,Good,Good,0
+7119,65010,Southern Midlands,1.0000000,Poor,Good,0
+7120,62410,Glamorgan-Spring Bay,0.0103573,Acceptable,Good,0
+7120,64610,Northern Midlands,0.0063373,Good,Good,1
+7120,65010,Southern Midlands,0.9833053,Poor,Good,0
+7139,61510,Derwent Valley,1.0000000,Acceptable,Good,0
+7140,61510,Derwent Valley,0.8694011,Acceptable,Good,0
+7140,61010,Central Highlands (Tas.),0.1305989,Poor,Good,0
+7150,63010,Huon Valley,0.1180946,Good,Good,0
+7150,63610,Kingborough,0.8819054,Good,Good,0
+7155,63610,Kingborough,1.0000000,Good,Good,0
+7162,63610,Kingborough,1.0000000,Good,Good,0
+7163,63610,Kingborough,1.0000000,Good,Good,0
+7170,61410,Clarence,1.0000000,Good,Good,0
+7171,64810,Sorell,1.0000000,Good,Good,0
+7172,62410,Glamorgan-Spring Bay,0.0013553,Acceptable,Good,1
+7172,61410,Clarence,0.0103997,Good,Good,0
+7172,64810,Sorell,0.9864027,Good,Good,0
+7172,65010,Southern Midlands,0.0018423,Poor,Good,1
+7173,64810,Sorell,1.0000000,Good,Good,0
+7174,64810,Sorell,1.0000000,Good,Good,0
+7175,64810,Sorell,1.0000000,Good,Good,0
+7176,64810,Sorell,1.0000000,Good,Good,0
+7177,64810,Sorell,0.9867656,Good,Good,0
+7177,65210,Tasman,0.0132344,Good,Good,0
+7178,65210,Tasman,1.0000000,Good,Good,0
+7179,65210,Tasman,1.0000000,Good,Good,0
+7180,65210,Tasman,1.0000000,Good,Good,0
+7182,65210,Tasman,1.0000000,Good,Good,0
+7183,65210,Tasman,1.0000000,Good,Good,0
+7184,65210,Tasman,1.0000000,Good,Good,0
+7185,65210,Tasman,1.0000000,Good,Good,0
+7186,65210,Tasman,1.0000000,Good,Good,0
+7187,65210,Tasman,1.0000000,Good,Good,0
+7190,62410,Glamorgan-Spring Bay,0.9814025,Acceptable,Good,0
+7190,65010,Southern Midlands,0.0185975,Poor,Good,0
+7209,64610,Northern Midlands,1.0000000,Good,Good,0
+7210,62410,Glamorgan-Spring Bay,0.0037328,Acceptable,Good,1
+7210,64610,Northern Midlands,0.9962672,Good,Good,0
+7211,64610,Northern Midlands,1.0000000,Good,Good,0
+7212,64010,Launceston,0.0936839,Acceptable,Good,0
+7212,64610,Northern Midlands,0.9063161,Good,Good,0
+7213,60210,Break O'Day,0.0090151,Acceptable,Good,1
+7213,64610,Northern Midlands,0.9909849,Good,Good,0
+7214,60210,Break O'Day,1.0000000,Acceptable,Good,0
+7215,60210,Break O'Day,0.6073996,Acceptable,Good,0
+7215,62410,Glamorgan-Spring Bay,0.3926004,Acceptable,Good,0
+7216,60210,Break O'Day,1.0000000,Acceptable,Good,0
+7248,64010,Launceston,1.0000000,Acceptable,Good,0
+7249,64010,Launceston,0.9996956,Acceptable,Good,0
+7249,64610,Northern Midlands,0.0003044,Good,Good,1
+7250,64010,Launceston,0.6615306,Acceptable,Good,0
+7250,64210,Meander Valley,0.1383342,Poor,Good,0
+7250,65810,West Tamar,0.2001353,Poor,Good,0
+7252,62210,George Town,0.5715030,Acceptable,Good,0
+7252,64010,Launceston,0.4284970,Acceptable,Good,0
+7253,62210,George Town,1.0000000,Acceptable,Good,0
+7254,62210,George Town,0.3046194,Acceptable,Good,0
+7254,64010,Launceston,0.6477442,Acceptable,Good,0
+7254,61810,Dorset,0.0476364,Good,Good,0
+7255,62010,Flinders (Tas.),1.0000000,Good,Good,0
+7256,63410,King Island,0.9999999,Good,Good,0
+7257,62010,Flinders (Tas.),1.0000000,Good,Good,0
+7258,64010,Launceston,0.7910275,Acceptable,Good,0
+7258,64610,Northern Midlands,0.2089725,Good,Good,0
+7259,64010,Launceston,1.0000000,Acceptable,Good,0
+7260,61810,Dorset,1.0000000,Good,Good,0
+7261,61810,Dorset,1.0000000,Good,Good,0
+7262,61810,Dorset,1.0000000,Good,Good,0
+7263,61810,Dorset,1.0000000,Good,Good,0
+7264,60210,Break O'Day,0.1734131,Acceptable,Good,0
+7264,61810,Dorset,0.8265869,Good,Good,0
+7265,61810,Dorset,1.0000000,Good,Good,0
+7267,62210,George Town,0.0037658,Acceptable,Good,1
+7267,64010,Launceston,0.9962342,Acceptable,Good,0
+7268,64010,Launceston,1.0000000,Acceptable,Good,0
+7270,65810,West Tamar,1.0000000,Poor,Good,0
+7275,63810,Latrobe (Tas.),0.0014753,Good,Good,1
+7275,64210,Meander Valley,0.0000029,Poor,Good,1
+7275,65810,West Tamar,0.9985217,Poor,Good,0
+7276,65810,West Tamar,1.0000000,Poor,Good,0
+7277,64210,Meander Valley,0.0014008,Poor,Good,1
+7277,65810,West Tamar,0.9985992,Poor,Good,0
+7290,64210,Meander Valley,1.0000000,Poor,Good,0
+7291,64210,Meander Valley,1.0000000,Poor,Good,0
+7292,64210,Meander Valley,1.0000000,Poor,Good,0
+7300,64610,Northern Midlands,1.0000000,Good,Good,0
+7301,64610,Northern Midlands,0.9847146,Good,Good,0
+7301,64210,Meander Valley,0.0152854,Poor,Good,0
+7302,64610,Northern Midlands,0.7309864,Good,Good,0
+7302,64210,Meander Valley,0.2690136,Poor,Good,0
+7303,64210,Meander Valley,0.9904176,Poor,Good,0
+7303,65810,West Tamar,0.0095824,Poor,Good,1
+7304,63210,Kentish,0.0019248,Acceptable,Good,1
+7304,61010,Central Highlands (Tas.),0.0062570,Poor,Good,1
+7304,64210,Meander Valley,0.9918182,Poor,Good,0
+7305,63210,Kentish,0.9849720,Acceptable,Good,0
+7305,63810,Latrobe (Tas.),0.0150280,Good,Good,0
+7306,63210,Kentish,1.0000000,Acceptable,Good,0
+7307,63210,Kentish,0.0001895,Acceptable,Good,1
+7307,61610,Devonport,0.0005938,Good,Good,1
+7307,63810,Latrobe (Tas.),0.9992167,Good,Good,0
+7310,63210,Kentish,0.0381923,Acceptable,Good,0
+7310,60810,Central Coast (Tas.),0.0317931,Good,Good,0
+7310,61610,Devonport,0.9104480,Good,Good,0
+7310,63810,Latrobe (Tas.),0.0195666,Good,Good,0
+7315,60810,Central Coast (Tas.),0.9964094,Good,Good,0
+7315,61610,Devonport,0.0035906,Good,Good,1
+7316,60610,Burnie,0.0121556,Good,Good,0
+7316,60810,Central Coast (Tas.),0.9878444,Good,Good,0
+7320,60610,Burnie,1.0000000,Good,Good,0
+7321,60610,Burnie,0.5555405,Good,Good,0
+7321,61210,Circular Head,0.1602946,Good,Good,0
+7321,65410,Waratah-Wynyard,0.2434760,Good,Good,0
+7321,65610,West Coast,0.0406889,Good,Good,0
+7322,65410,Waratah-Wynyard,1.0000000,Good,Good,0
+7325,65410,Waratah-Wynyard,1.0000000,Good,Good,0
+7330,61210,Circular Head,1.0000000,Good,Good,0
+7331,61210,Circular Head,1.0000000,Good,Good,0
+7466,65610,West Coast,1.0000000,Good,Good,0
+7467,65610,West Coast,1.0000000,Good,Good,0
+7468,65610,West Coast,1.0000000,Good,Good,0
+7469,65610,West Coast,1.0000000,Good,Good,0
+7470,65610,West Coast,1.0000000,Good,Good,0
+NA,16400,Port Stephens,0.0000075,Acceptable,Good,1
+NA,36370,Rockhampton,0.0105598,Acceptable,Good,0
+NA,61210,Circular Head,0.0000001,Good,Good,1
+NA,33430,Gold Coast,0.0000151,Good,Good,1
+NA,15990,Northern Beaches,0.0042027,Good,Good,1
+NA,65610,West Coast,0.0000001,Good,Good,1
+NA,35250,Mornington,0.0060428,Poor,Good,1
+NA,73600,Roper Gulf,0.9791706,Poor,Good,0
+,19499,No usual address (NSW),,NA,Good,3
+,19799,Migratory - Offshore - Shipping (NSW),,NA,Good,3
+,29499,No usual address (Vic.),,NA,Good,3
+,29799,Migratory - Offshore - Shipping (Vic.),,NA,Good,3
+,39499,No usual address (Qld),,NA,Good,3
+,39799,Migratory - Offshore - Shipping (Qld),,NA,Good,3
+,49499,No usual address (SA),,NA,Good,3
+,49799,Migratory - Offshore - Shipping (SA),,NA,Good,3
+,59499,No usual address (WA),,NA,Good,3
+,59799,Migratory - Offshore - Shipping (WA),,NA,Good,3
+,69499,No usual address (Tas.),,NA,Good,3
+,69799,Migratory - Offshore - Shipping (Tas.),,NA,Good,3
+,79499,No usual address (NT),,NA,Good,3
+,79799,Migratory - Offshore - Shipping (NT),,NA,Good,3
+,89499,No usual address (ACT),,NA,Good,3
+,89799,Migratory - Offshore - Shipping (ACT),,NA,Good,3
+,99499,No usual address (OT),,NA,Good,3
+,99799,Migratory - Offshore - Shipping (OT),,NA,Good,3
+,ZZZZZ,Outside Australia,,NA,Good,3
